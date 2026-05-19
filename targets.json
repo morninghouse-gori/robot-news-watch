@@ -1,4 +1,80 @@
-requests==2.32.3
-beautifulsoup4==4.12.3
-feedparser==6.0.11
-python-dateutil==2.9.0.post0
+[
+  {
+    "name": "ニュースイッチ_産業用ロボット",
+    "url": "https://newswitch.jp/keyword/detail/703",
+    "method": "html",
+    "enabled": true,
+    "include_keywords": [],
+    "exclude_keywords": []
+  },
+  {
+    "name": "robot_digest_新着",
+    "url": "https://www.robot-digest.com/newarticle/",
+    "method": "html",
+    "enabled": true,
+    "include_keywords": [],
+    "exclude_keywords": []
+  },
+  {
+    "name": "MONOist_ロボット",
+    "url": "https://rss.itmedia.co.jp/rss/2.0/mn_robot.xml",
+    "method": "rss",
+    "enabled": true,
+    "include_keywords": [],
+    "exclude_keywords": []
+  },
+  {
+    "name": "MONOist_FA",
+    "url": "https://rss.itmedia.co.jp/rss/2.0/mn_fa.xml",
+    "method": "rss",
+    "enabled": true,
+    "include_keywords": [],
+    "exclude_keywords": []
+  },
+  {
+    "name": "オートメーション新聞",
+    "url": "https://www.automation-news.jp/feed",
+    "method": "rss",
+    "enabled": true,
+    "include_keywords": [],
+    "exclude_keywords": []
+  },
+  {
+    "name": "ロボスタ_ロボティクス",
+    "url": "https://robotstart.info/category/robotics/feed",
+    "method": "rss",
+    "enabled": true,
+    "include_keywords": [
+      "産業用ロボット",
+      "協働ロボット",
+      "FA",
+      "自動化",
+      "工場",
+      "製造",
+      "溶接",
+      "研磨",
+      "研削",
+      "搬送",
+      "パレタイジング",
+      "ティーチングレス",
+      "ロボットアーム",
+      "ファナック",
+      "安川電機",
+      "川崎重工",
+      "ダイヘン",
+      "三菱電機",
+      "ABB",
+      "KUKA",
+      "Universal Robots"
+    ],
+    "exclude_keywords": [
+      "LOVOT",
+      "配膳",
+      "ペット",
+      "玩具",
+      "教育",
+      "観光",
+      "アニメ"
+    ]
+  }
+]

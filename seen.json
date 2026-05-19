@@ -1,0 +1,132 @@
+# robot-news-watch
+
+産業用ロボット・FA・自動化系ニュースを、平日朝に1回チェックして、新着記事があればメール通知する無料MVPです。
+
+## できること
+
+- 対象サイトを定期チェック
+- 新着記事だけ抽出
+- メールには「タイトル・URL・掲載日・媒体名」だけを掲載
+- 既に通知した記事は `seen.json` に保存
+- GitHub Actionsで平日朝に自動実行
+
+## 対象サイト
+
+初期設定では以下を対象にしています。
+
+- ニュースイッチ：産業用ロボット
+- robot digest：新着記事
+- MONOist：ロボットRSS
+- MONOist：FA RSS
+- オートメーション新聞：RSS
+- ロボスタ：ロボティクスRSS
+
+## ファイル構成
+
+```text
+robot-news-watch/
+├─ watch.py
+├─ targets.json
+├─ seen.json
+├─ requirements.txt
+└─ .github/
+   └─ workflows/
+      └─ weekday-morning.yml
+```
+
+## GitHubでの設定手順
+
+### 1. GitHubに新しいリポジトリを作る
+
+例：
+
+```text
+robot-news-watch
+```
+
+privateでも動きますが、完全無料を優先するなら実行頻度は平日1回程度に抑えてください。
+
+### 2. このフォルダ内のファイルをGitHubにアップロードする
+
+`watch.py`、`targets.json`、`seen.json`、`requirements.txt`、`.github/workflows/weekday-morning.yml` を入れます。
+
+### 3. Gmailのアプリパスワードを作る
+
+Gmailで送る場合は、通常のログインパスワードではなく「アプリパスワード」を使います。
+
+必要な前提：
+
+- Googleアカウントの2段階認証を有効にする
+- アプリパスワードを発行する
+
+### 4. GitHub Secretsを登録する
+
+GitHubリポジトリの
+
+```text
+Settings > Secrets and variables > Actions > New repository secret
+```
+
+から以下を登録します。
+
+| Secret名 | 内容 |
+|---|---|
+| `MAIL_FROM` | 送信用Gmailアドレス |
+| `MAIL_TO` | 通知先メールアドレス |
+| `GMAIL_APP_PASSWORD` | Gmailのアプリパスワード |
+
+### 5. 手動実行テスト
+
+GitHubの
+
+```text
+Actions > Weekday Morning Robot News Watch > Run workflow
+```
+
+から手動実行できます。
+
+初回実行時は `seen.json` が空なので、最近の記事がまとめて通知される可能性があります。
+それが嫌な場合は、最初だけメール送信せずに `seen.json` を作る運用に変更できます。
+
+## 実行タイミング
+
+`.github/workflows/weekday-morning.yml` では以下になっています。
+
+```yaml
+- cron: "0 23 * * 0-4"
+```
+
+これはUTC基準です。日本時間では月〜金の朝8:00ごろに実行されます。
+
+## メール例
+
+```text
+件名：
+【産業用ロボットニュース】新着3件
+
+本文：
+産業用ロボット・FA・自動化関連の新着ニュースがありました。
+
+1. 記事タイトル
+媒体：MONOist_ロボット
+掲載日：2026-05-19
+URL：https://example.com/article
+
+...
+```
+
+## カスタマイズ
+
+`targets.json` で対象サイトを追加・停止できます。
+
+- `enabled: false` にすると一時停止
+- `method: "rss"` はRSS
+- `method: "html"` はHTMLページ
+- `include_keywords` に入れた語句がタイトルや本文抜粋に含まれる記事だけ通知
+- `exclude_keywords` に入れた語句が含まれる記事は除外
+
+## 注意
+
+- 記事本文はメールに載せません。タイトル・URL・掲載日だけにしています。
+- サイト側のHTML構造が変わると、HTML取得対象は調整が必要になる場合があります。
+- RSSがあるサイトはRSSを優先した方が安定します。

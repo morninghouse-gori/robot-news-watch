@@ -448,5 +448,41 @@
     "source": "オートメーション新聞",
     "published": "2026-05-17",
     "first_seen_at": "2026-05-19T05:23:52.351622+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1777768991-716383": {
+    "title": "2026.05.20 [特別企画 ロボット切削の最前線vol.3]大型ワークを省スペースで／桜井製作所 ロボットが加工対象物（ワーク）を切削加工する「ロボット切削加工」に今、熱い視線が注がれている。３回目は桜井製作所の事例を紹介する。",
+    "source": "robot_digest_新着",
+    "published": "2026-05-20",
+    "first_seen_at": "2026-05-20T00:12:29.759286+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2605/20/news052.html": {
+    "title": "ファナックが新たなパラレルリンクロボ、食品製造向けにステンレス採用",
+    "source": "MONOist_ロボット",
+    "published": "2026-05-20",
+    "first_seen_at": "2026-05-20T00:12:29.759286+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104185/": {
+    "title": "7/8、ロックウェル オートメーション、東京・赤坂で「ROKLive 2026 Japan」開催",
+    "source": "オートメーション新聞",
+    "published": "2026-05-19",
+    "first_seen_at": "2026-05-20T00:12:29.759286+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104181/": {
+    "title": "ロックウェル オートメーション、6/9に愛知県刈谷市で自動車業界向けイベント「Beyond Automation 2026」",
+    "source": "オートメーション新聞",
+    "published": "2026-05-19",
+    "first_seen_at": "2026-05-20T00:12:29.759286+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104160/": {
+    "title": "リタール、Data Center Japan2026展示会レポートを公開 AIデータセンター最新動向",
+    "source": "オートメーション新聞",
+    "published": "2026-05-19",
+    "first_seen_at": "2026-05-20T00:12:29.759286+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104189/": {
+    "title": "MonotaRO、東京都港区に東京オフィスを移転・稼働開始",
+    "source": "オートメーション新聞",
+    "published": "2026-05-19",
+    "first_seen_at": "2026-05-20T00:12:29.759286+00:00"
   }
 }

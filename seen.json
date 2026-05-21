@@ -484,5 +484,101 @@
     "source": "オートメーション新聞",
     "published": "2026-05-19",
     "first_seen_at": "2026-05-20T00:12:29.759286+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1779155507-428880": {
+    "title": "2026.05.21 IHI傘下の物流機器メーカーを買収／豊田自動織機 豊田自動織機は５月８日、IHIグループ傘下の物流機器メーカーのIHI物流産業システム（東京都江東区、川田基浩社長）を買収すると発表した。豊田自動織機は来年４月……",
+    "source": "robot_digest_新着",
+    "published": "2026-05-21",
+    "first_seen_at": "2026-05-21T00:12:20.258303+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1777769923-495354": {
+    "title": "2026.05.21 [特別企画 ロボット切削の最前線vol.4]“常識”にとらわれない／トライエンジニアリング ロボットが加工対象物（ワーク）を切削加工する「ロボット切削加工」に今、熱い視線が注がれている。最終回となる４回目はシステムインテグレーター（SIer、エスアイア……",
+    "source": "robot_digest_新着",
+    "published": "2026-05-21",
+    "first_seen_at": "2026-05-21T00:12:20.258303+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1778727939-049308": {
+    "title": "2026.05.20 高速動作が可能な新型協働ロボットを発表／ABB Robotics Japan &nbsp;ABB Robotics Japan（ABBロボティクスジャパン、東京都港区、浅利貴社長）は４月23日、高速動作が可能な高可搬の協働ロボットシリーズ……",
+    "source": "robot_digest_新着",
+    "published": "2026-05-20",
+    "first_seen_at": "2026-05-21T00:12:20.258303+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2605/21/news055.html": {
+    "title": "PCマウス原理でエレベーターの“ロープ”不要に AI保守を見据える日立HMAX戦略",
+    "source": "MONOist_ロボット",
+    "published": "2026-05-21",
+    "first_seen_at": "2026-05-21T00:12:20.258303+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2605/21/news058.html": {
+    "title": "ジェイテクト“過去最高益”へ体質改善、軸受競合の経営統合も「軸をぶらさず」",
+    "source": "MONOist_FA",
+    "published": "2026-05-21",
+    "first_seen_at": "2026-05-21T00:12:20.258303+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2605/19/news053.html": {
+    "title": "3列構成のベアリングで負荷耐性を高めたボールねじサポートユニット",
+    "source": "MONOist_FA",
+    "published": "2026-05-20",
+    "first_seen_at": "2026-05-21T00:12:20.258303+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104399/": {
+    "title": "オムロン、電子部品事業の新会社の名称とブランドロゴが決定「Aratas（アラタス）」として再出発へ",
+    "source": "オートメーション新聞",
+    "published": "2026-05-20",
+    "first_seen_at": "2026-05-21T00:12:20.258303+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104387/": {
+    "title": "日立製作所、Lumada事業の売上比率が40%へ HMAX展開を強化",
+    "source": "オートメーション新聞",
+    "published": "2026-05-20",
+    "first_seen_at": "2026-05-21T00:12:20.258303+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104378/": {
+    "title": "山洋電気、半導体、ロボット、AI向け需要を掴んで増収増益",
+    "source": "オートメーション新聞",
+    "published": "2026-05-20",
+    "first_seen_at": "2026-05-21T00:12:20.258303+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104375/": {
+    "title": "ダイヘン、電力インフラと半導体関連の設備投資を獲得 変圧器の駆け込み受注も",
+    "source": "オートメーション新聞",
+    "published": "2026-05-20",
+    "first_seen_at": "2026-05-21T00:12:20.258303+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104429/": {
+    "title": "CKD、低摺動な自動調芯装置「クイックアジャスタ slim」発売 ロボットの芯ずれを解消",
+    "source": "オートメーション新聞",
+    "published": "2026-05-20",
+    "first_seen_at": "2026-05-21T00:12:20.258303+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104411/": {
+    "title": "アドバンテック、5/27WEBセミナー EtherCATスライスI/Oで既存PLCを活かした制御拡張",
+    "source": "オートメーション新聞",
+    "published": "2026-05-20",
+    "first_seen_at": "2026-05-21T00:12:20.258303+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104360/": {
+    "title": "ファナック、売上高が過去最高を更新 営業利益率21%、純利益率19%に",
+    "source": "オートメーション新聞",
+    "published": "2026-05-20",
+    "first_seen_at": "2026-05-21T00:12:20.258303+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104357/": {
+    "title": "キーエンス、売上高1兆1692億円 国内への新商品の投入効果、北中南米・アジアも堅調",
+    "source": "オートメーション新聞",
+    "published": "2026-05-20",
+    "first_seen_at": "2026-05-21T00:12:20.258303+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104473/": {
+    "title": "アズビル、パーパスと目指す姿を策定「人と社会の可能性を、技術で解き放つ。」",
+    "source": "オートメーション新聞",
+    "published": "2026-05-20",
+    "first_seen_at": "2026-05-21T00:12:20.258303+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104477/": {
+    "title": "ファナックとGoogle Cloud、フィジカルAI実現に向け協業 最先端AIによるロボット制御を加速",
+    "source": "オートメーション新聞",
+    "published": "2026-05-20",
+    "first_seen_at": "2026-05-21T00:12:20.258303+00:00"
   }
 }

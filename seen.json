@@ -664,5 +664,89 @@
     "source": "オートメーション新聞",
     "published": "2026-05-21",
     "first_seen_at": "2026-05-22T00:09:39.688554+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2605/25/news050.html": {
+    "title": "日本のロボット開発は「安全性」を優先、フィジカルAIも重視するが姿勢は慎重",
+    "source": "MONOist_ロボット",
+    "published": "2026-05-25",
+    "first_seen_at": "2026-05-25T00:05:13.705599+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2605/25/news006.html": {
+    "title": "自動車工場で見えて、食品工場では見えないモノ～今日何個作ると決めたか",
+    "source": "MONOist_FA",
+    "published": "2026-05-25",
+    "first_seen_at": "2026-05-25T00:05:13.705599+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2605/22/news068.html": {
+    "title": "海外拠点で配電盤の生産能力1.5倍に、データセンター需要に対応",
+    "source": "MONOist_FA",
+    "published": "2026-05-22",
+    "first_seen_at": "2026-05-25T00:05:13.705599+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2605/22/news004.html": {
+    "title": "JFEスチール、スクラップ溶解能力「最大6倍」の新型電気炉を千葉で稼働",
+    "source": "MONOist_FA",
+    "published": "2026-05-22",
+    "first_seen_at": "2026-05-25T00:05:13.705599+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104337/": {
+    "title": "篠原電機（2-22）電気設備の安全性向上と省力化を支える最新資材【JECA FAIR 2026特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-05-24",
+    "first_seen_at": "2026-05-25T00:05:13.705599+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104270/": {
+    "title": "プロテリアル、インドにアモルファス金属材料の製造拠点を新設 変圧器の高効率化需要に対応",
+    "source": "オートメーション新聞",
+    "published": "2026-05-24",
+    "first_seen_at": "2026-05-25T00:05:13.705599+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104396/": {
+    "title": "富士電機、過去最高業績を更新 エネルギーとインダストリー事業が牽引",
+    "source": "オートメーション新聞",
+    "published": "2026-05-24",
+    "first_seen_at": "2026-05-25T00:05:13.705599+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104333/": {
+    "title": "リンスコネクト（2−48）業界最短クラスのRJ45コネクタ「Ultra Short」【JECA FAIR 2026特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-05-24",
+    "first_seen_at": "2026-05-25T00:05:13.705599+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104264/": {
+    "title": "クラレ、米国オハイオ州で再生炭の生産設備を増設 PFAS水処理需要拡大に対応し約1億ドル投資",
+    "source": "オートメーション新聞",
+    "published": "2026-05-24",
+    "first_seen_at": "2026-05-25T00:05:13.705599+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104257/": {
+    "title": "プレス工業、米国サウスカロライナ州に商用車向け部品の新工場を設立",
+    "source": "オートメーション新聞",
+    "published": "2026-05-24",
+    "first_seen_at": "2026-05-25T00:05:13.705599+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104309/": {
+    "title": "ワゴジャパン（3-23）安全と省力化に貢献するワンタッチ結線技術を披露【JECA FAIR 2026特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-05-22",
+    "first_seen_at": "2026-05-25T00:05:13.705599+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104329/": {
+    "title": "ECADソリューションズ・壬生電機製作所（1−01・1−02）盤製造スキルレス・ソリューション【JECA FAIR 2026特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-05-22",
+    "first_seen_at": "2026-05-25T00:05:13.705599+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104325/": {
+    "title": "富士電機（1-29）2026トップランナーモルトラによる省エネと更新提案【JECA FAIR 2026特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-05-22",
+    "first_seen_at": "2026-05-25T00:05:13.705599+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104321/": {
+    "title": "不二電機工業（2-43）故障予兆検知に貢献する電流計測端子台などを披露【JECA FAIR 2026特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-05-22",
+    "first_seen_at": "2026-05-25T00:05:13.705599+00:00"
   }
 }

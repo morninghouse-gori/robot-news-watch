@@ -748,5 +748,113 @@
     "source": "オートメーション新聞",
     "published": "2026-05-22",
     "first_seen_at": "2026-05-25T00:05:13.705599+00:00"
+  },
+  "https://newswitch.jp/p/49283": {
+    "title": "フィジカルAI活用ロボット開発…川崎重工、エヌビディアなどと協業",
+    "source": "ニュースイッチ_産業用ロボット",
+    "published": "不明",
+    "first_seen_at": "2026-05-26T00:11:16.837777+00:00"
+  },
+  "https://newswitch.jp/keyword/detail/138": {
+    "title": "# エヌビディア",
+    "source": "ニュースイッチ_産業用ロボット",
+    "published": "不明",
+    "first_seen_at": "2026-05-26T00:11:16.837777+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1778676486-933862": {
+    "title": "イベント 2026.05.26 食品・包装向けの専門展でパレタイズや搬送の自動化提案／中部パック 中部包装食品機械工業会（会長・生田涌希フジキカイ社長）は４月22日～25日の４日間、名古屋市港区のポートメッセなごやで食と包装の展示会「2026中部パック」を開……",
+    "source": "robot_digest_新着",
+    "published": "2026-05-26",
+    "first_seen_at": "2026-05-26T00:11:16.837777+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1779352371-487724": {
+    "title": "連載 2026.05.26 【読んで発見「RTJ2026」vol.2】物流向け提案の最前線 自動化の展示会「ROBOT TECHNOLOGY JAPAN（ロボットテクノロジージャパン、RTJ）2026」が６月11日～13日まで開催される。公式メディアで……",
+    "source": "robot_digest_新着",
+    "published": "2026-05-26",
+    "first_seen_at": "2026-05-26T00:11:16.837777+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1779350623-438524": {
+    "title": "連載 2026.05.25 【読んで発見「RTJ2026」vol.1】自動化のヒントを探す場に ６月11日～13日の３日間、愛知県常滑市のAichi Sky Expo（アイチ・スカイ・エキスポ、愛知県国際展示場）で、自動化の展示会「ROBOT TECHNO……",
+    "source": "robot_digest_新着",
+    "published": "2026-05-25",
+    "first_seen_at": "2026-05-26T00:11:16.837777+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2605/26/news058.html": {
+    "title": "川崎重工が米国にフィジカルAI社会実装拠点、注力分野は医療／介護など",
+    "source": "MONOist_ロボット",
+    "published": "2026-05-26",
+    "first_seen_at": "2026-05-26T00:11:16.837777+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2605/25/news044.html": {
+    "title": "安川電機が協働ロボット新モデル、最大リーチと可搬質量が大幅向上",
+    "source": "MONOist_ロボット",
+    "published": "2026-05-25",
+    "first_seen_at": "2026-05-26T00:11:16.837777+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2605/26/news060.html": {
+    "title": "安川電機がフィジカルAI市場本格開拓へ、新たな中／長期経営計画策定",
+    "source": "MONOist_FA",
+    "published": "2026-05-26",
+    "first_seen_at": "2026-05-26T00:11:16.837777+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104245/": {
+    "title": "イビデン、高機能ICパッケージ基板増産へ３カ年で5000億円投資 岐阜県大垣市の河間事業場など強化",
+    "source": "オートメーション新聞",
+    "published": "2026-05-25",
+    "first_seen_at": "2026-05-26T00:11:16.837777+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104393/": {
+    "title": "ミネベアミツミ、14期連続増収 中期業績予想は28年度1.9兆円へ M&A次第で2.5兆円も視野に",
+    "source": "オートメーション新聞",
+    "published": "2026-05-25",
+    "first_seen_at": "2026-05-26T00:11:16.837777+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104267/": {
+    "title": "ニッタ、インドに新工場を竣工 南アジア・中東市場の中核拠点として約8億3500万ルピー投資",
+    "source": "オートメーション新聞",
+    "published": "2026-05-25",
+    "first_seen_at": "2026-05-26T00:11:16.837777+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104253/": {
+    "title": "メニコン マレーシア・ケダ州に1DAYコンタクトレンズの専用工場を開設",
+    "source": "オートメーション新聞",
+    "published": "2026-05-25",
+    "first_seen_at": "2026-05-26T00:11:16.837777+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104423/": {
+    "title": "アズビル、本社を東京・丸の内の丸の内パークビルディングに移転",
+    "source": "オートメーション新聞",
+    "published": "2026-05-25",
+    "first_seen_at": "2026-05-26T00:11:16.837777+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104353/": {
+    "title": "日立産機システム（1-25）デジタルで「止めない現場」を構築【JECA FAIR 2026特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-05-25",
+    "first_seen_at": "2026-05-26T00:11:16.837777+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104349/": {
+    "title": "東芝（1-75～79）お客様と共に目指す、”電設の”さらなる進化【JECA FAIR 2026特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-05-25",
+    "first_seen_at": "2026-05-26T00:11:16.837777+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104345/": {
+    "title": "大崎電気工業（1-32）計測で拓く、次の時代【JECA FAIR 2026特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-05-25",
+    "first_seen_at": "2026-05-26T00:11:16.837777+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104260/": {
+    "title": "AlphaTheta、ベトナム・ドンナイ省に初の自社工場を開設 DJ機器の生産体制を強化",
+    "source": "オートメーション新聞",
+    "published": "2026-05-25",
+    "first_seen_at": "2026-05-26T00:11:16.837777+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104341/": {
+    "title": "図研アルファテック（3−72）電気設計における課題解決と生産性向上【JECA FAIR 2026特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-05-25",
+    "first_seen_at": "2026-05-26T00:11:16.837777+00:00"
   }
 }

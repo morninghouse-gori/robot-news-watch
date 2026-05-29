@@ -1054,5 +1054,101 @@
     "source": "オートメーション新聞",
     "published": "2026-05-27",
     "first_seen_at": "2026-05-28T00:04:28.472143+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1779689972-007695": {
+    "title": "コラム 2026.05.29 編集室だより／2026年５月末 今月もrobot digest（ロボットダイジェスト）をお読みいただきありがとうございました。「編集室だより」では、取材を担当する編集部の記者たちの近況をお届け……",
+    "source": "robot_digest_新着",
+    "published": "2026-05-29",
+    "first_seen_at": "2026-05-29T00:15:06.147071+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1779679662-966718": {
+    "title": "イベント 2026.05.29 ギネス記録のAIバスケロボが「人間味」増して刷新／トヨタ自動車 トヨタ自動車は４月12日、同社がスポンサーを務めるプロバスケットボールチーム「アルバルク東京」の試合で人工知能（AI）バスケットボールロボット「CUE7（キュー……",
+    "source": "robot_digest_新着",
+    "published": "2026-05-29",
+    "first_seen_at": "2026-05-29T00:15:06.147071+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1779684787-621141": {
+    "title": "2026.05.29 [直前特集RTJ2026 vol.3] 「新しいものづくり」を社会実装／安川電機 安川電機（D39）は人工知能（AI）も含めたデジタル技術とロボット技術を組み合わせたAIロボティクスを積極的に提案する。ロボットに判断力を付与して自律性を持たせ……",
+    "source": "robot_digest_新着",
+    "published": "2026-05-29",
+    "first_seen_at": "2026-05-29T00:15:06.147071+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2605/29/news079.html": {
+    "title": "CEATEC AWARDから6年越しの商品化、村田製作所の超音波デバイス「サーモホン」",
+    "source": "MONOist_ロボット",
+    "published": "2026-05-29",
+    "first_seen_at": "2026-05-29T00:15:06.147071+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2605/29/news072.html": {
+    "title": "半導体工場「需要ある限り応える」ダイフク、1600億円投資で描く姿とは",
+    "source": "MONOist_FA",
+    "published": "2026-05-29",
+    "first_seen_at": "2026-05-29T00:15:06.147071+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2605/28/news075.html": {
+    "title": "操作効率向上と安全性を強化、シュナイダーが次世代ハンディー表示器",
+    "source": "MONOist_FA",
+    "published": "2026-05-28",
+    "first_seen_at": "2026-05-29T00:15:06.147071+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104619/": {
+    "title": "CKD（E1-17-28）自動化技術によるソリューション提案【FOOMA JAPAN 2026 特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-05-28",
+    "first_seen_at": "2026-05-29T00:15:06.147071+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104580/": {
+    "title": "デルタ電子とNSK、ロボット分野の技術開発で協業",
+    "source": "オートメーション新聞",
+    "published": "2026-05-28",
+    "first_seen_at": "2026-05-29T00:15:06.147071+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104615/": {
+    "title": "日立産機システム、(E3-16-07) 止まらない現場へ。設備×データ×AIで、日立は応える。【FOOMA JAPAN 2026 特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-05-28",
+    "first_seen_at": "2026-05-29T00:15:06.147071+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104584/": {
+    "title": "東洋電機製造と泰平電機、ミツバ、バス・鉄道向け電気式ドアシステムの共同開発で協業",
+    "source": "オートメーション新聞",
+    "published": "2026-05-28",
+    "first_seen_at": "2026-05-29T00:15:06.147071+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104564/": {
+    "title": "島津製作所、アステラス製薬と共同で反応条件スクリーニング用ロボットHTE自動化装置を開発",
+    "source": "オートメーション新聞",
+    "published": "2026-05-28",
+    "first_seen_at": "2026-05-29T00:15:06.147071+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104611/": {
+    "title": "三菱電機、(W4-41-42) 選択肢が多い。それが三菱電機【FOOMA JAPAN 2026 特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-05-28",
+    "first_seen_at": "2026-05-29T00:15:06.147071+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104607/": {
+    "title": "安川電機（W3-12-37）i³-Mechatronicsで「食を大変革」【FOOMA JAPAN 2026 特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-05-28",
+    "first_seen_at": "2026-05-29T00:15:06.147071+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104603/": {
+    "title": "ロックウェル・オートメーション（WA-04-11）短期導入×実績×品質対応～製造DXのためのクラウドMES【FOOMA JAPAN 2026 特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-05-28",
+    "first_seen_at": "2026-05-29T00:15:06.147071+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104599/": {
+    "title": "キーエンス、(W3-05-38) 包装フィルム用UVレーザプリンタなど最新ソリューション【FOOMA JAPAN 2026 特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-05-28",
+    "first_seen_at": "2026-05-29T00:15:06.147071+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104594/": {
+    "title": "世界最大級の食品製造総合展 FOOMA JAPAN 2026 6/2～6/5東京ビッグサイトで開催 過去最多の1025社が出展 次世代の食品製造技術が集結",
+    "source": "オートメーション新聞",
+    "published": "2026-05-28",
+    "first_seen_at": "2026-05-29T00:15:06.147071+00:00"
   }
 }

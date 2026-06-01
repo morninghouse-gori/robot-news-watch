@@ -1150,5 +1150,107 @@
     "source": "オートメーション新聞",
     "published": "2026-05-28",
     "first_seen_at": "2026-05-29T00:15:06.147071+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1779411541-731999": {
+    "title": "2026.06.01 [直前特集RTJ2026 vol.4] 組み合わせで課題を解決／ロボットメーカー ロボットメーカーの展示はこれまでのロボットテクノロジージャパン（RTJ）でも注目度が非常に高く、今回展でも大きな見どころといえる。メーカー各社は従来品よりも高機……",
+    "source": "robot_digest_新着",
+    "published": "2026-06-01",
+    "first_seen_at": "2026-06-01T00:11:08.689228+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1779422268-524945": {
+    "title": "2026.06.01 [エディターズノートvol.27] フィジカルAIって？ 人工知能（AI）技術の中でも特に最近、「フィジカルAI」に大きな注目が集まっている。記事を書く際に自分でもこの言葉を使うことはあるが、実はどうにもこの表現が腑に……",
+    "source": "robot_digest_新着",
+    "published": "2026-06-01",
+    "first_seen_at": "2026-06-01T00:11:08.689228+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1779786003-720916": {
+    "title": "2026.05.30 新長期経営計画を策定、フィジカルAIの市場開拓に挑戦／安川電機 安川電機は５月22日、長期経営計画「2035年ビジョン」（2026年度～35年度）を策定したと発表した。",
+    "source": "robot_digest_新着",
+    "published": "2026-05-30",
+    "first_seen_at": "2026-06-01T00:11:08.689228+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/01/news003.html": {
+    "title": "「専門性」は重要だが、深めるほど“必要とされるモノづくり”を難しくする!?",
+    "source": "MONOist_ロボット",
+    "published": "2026-06-01",
+    "first_seen_at": "2026-06-01T00:11:08.689228+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/01/news053.html": {
+    "title": "多様化する搬送課題を「真空技術」で解決、クリーンルームの重作業も軽減",
+    "source": "MONOist_FA",
+    "published": "2026-06-01",
+    "first_seen_at": "2026-06-01T00:11:08.689228+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/01/news011.html": {
+    "title": "高平均出力、波長拡張、高繰り返し化で広がるレーザー加工の可能性",
+    "source": "MONOist_FA",
+    "published": "2026-06-01",
+    "first_seen_at": "2026-06-01T00:11:08.689228+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2605/29/news083.html": {
+    "title": "取り付け工数大幅削減の電力計測ユニット、無線通信で配線部材90％削減",
+    "source": "MONOist_FA",
+    "published": "2026-05-29",
+    "first_seen_at": "2026-06-01T00:11:08.689228+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104513/": {
+    "title": "ニップン、愛知県知多市に新製粉工場を稼働 40年ぶりの新設に約255億円投資",
+    "source": "オートメーション新聞",
+    "published": "2026-05-31",
+    "first_seen_at": "2026-06-01T00:11:08.689228+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104725/": {
+    "title": "東洋技研、2ピースBOXターミナル「BOXTRシリーズ」にワークエリアタイプ2機種を追加",
+    "source": "オートメーション新聞",
+    "published": "2026-05-31",
+    "first_seen_at": "2026-06-01T00:11:08.689228+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104528/": {
+    "title": "岡崎製作所、福岡県飯塚市に新工場を竣工",
+    "source": "オートメーション新聞",
+    "published": "2026-05-31",
+    "first_seen_at": "2026-06-01T00:11:08.689228+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104572/": {
+    "title": "Beckoff、自動化ソフトウェアプラットフォーム「TwinCAT」30周年",
+    "source": "オートメーション新聞",
+    "published": "2026-05-31",
+    "first_seen_at": "2026-06-01T00:11:08.689228+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104697/": {
+    "title": "フエニックス・コンタクト、熱磁気式サーキットブレーカ「PTCB TM」発売 幅8mmの省スペース設計",
+    "source": "オートメーション新聞",
+    "published": "2026-05-31",
+    "first_seen_at": "2026-06-01T00:11:08.689228+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104693/": {
+    "title": "SICK、フォークセンサ「UD18」発売 超音波による高精度な二層検知と付着監視",
+    "source": "オートメーション新聞",
+    "published": "2026-05-31",
+    "first_seen_at": "2026-06-01T00:11:08.689228+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104776/": {
+    "title": "ハイレゾ、秋田県男鹿市に廃校を活用したAIデータセンターを開設",
+    "source": "オートメーション新聞",
+    "published": "2026-05-31",
+    "first_seen_at": "2026-06-01T00:11:08.689228+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104534/": {
+    "title": "大塚製薬、エジプト初の「オロナミンC」工場を新設 中東エリアへの供給網を強化",
+    "source": "オートメーション新聞",
+    "published": "2026-05-31",
+    "first_seen_at": "2026-06-01T00:11:08.689228+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104750/": {
+    "title": "現役生産技術シマタケの 「電気エンジニアのツボ」出張版⑯便利な時代だからこそ感じる会話の大切さ",
+    "source": "オートメーション新聞",
+    "published": "2026-05-31",
+    "first_seen_at": "2026-06-01T00:11:08.689228+00:00"
+  },
+  "https://www.automation-news.jp/2026/05/104542/": {
+    "title": "信越化学工業、米国子会社シンテックが塩ビ・苛性ソーダ事業に34億ドルを投資 生産能力を増強",
+    "source": "オートメーション新聞",
+    "published": "2026-05-31",
+    "first_seen_at": "2026-06-01T00:11:08.689228+00:00"
   }
 }

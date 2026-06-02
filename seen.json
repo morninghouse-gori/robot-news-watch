@@ -1252,5 +1252,95 @@
     "source": "オートメーション新聞",
     "published": "2026-05-31",
     "first_seen_at": "2026-06-01T00:11:08.689228+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1779697507-407215": {
+    "title": "2026.06.02 [直前特集RTJ2026 vol.5] 現場の課題解決に貢献／工作機械メーカー 金属加工でも産業用ロボットや協働ロボットの使用が広がる。ロボットテクノロジージャパン（RTJ）2026に出展する工作機械メーカーは、工作機械と組み合わせることで……",
+    "source": "robot_digest_新着",
+    "published": "2026-06-02",
+    "first_seen_at": "2026-06-02T00:18:33.926822+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1779844144-997607": {
+    "title": "2026.06.02 物流ロボットの新製品を各社がアピール／アジア・シームレス物流フォーラム2026 日本マテリアルフロー研究センター（会長・大橋進ロジスティクス・コンセプト代表）は５月14日と15日の２日間、東京都大田区の東京流通センター第二展示場で「アジア・……",
+    "source": "robot_digest_新着",
+    "published": "2026-06-02",
+    "first_seen_at": "2026-06-02T00:18:33.926822+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/02/news057.html": {
+    "title": "NVIDIAの「NemoClaw」でエッジAIを統合管理、アドバンテックが「WEDA」を発表",
+    "source": "MONOist_ロボット",
+    "published": "2026-06-02",
+    "first_seen_at": "2026-06-02T00:18:33.926822+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/01/news082.html": {
+    "title": "インテルがロボット開発の課題を解決、オープンなロボティクスライブラリで",
+    "source": "MONOist_ロボット",
+    "published": "2026-06-01",
+    "first_seen_at": "2026-06-02T00:18:33.926822+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/02/news058.html": {
+    "title": "NVIDIAの“狐”は工場自律管理AIエージェント、台湾メーカーが導入効果を確認",
+    "source": "MONOist_FA",
+    "published": "2026-06-02",
+    "first_seen_at": "2026-06-02T00:18:33.926822+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/02/news011.html": {
+    "title": "次世代SMT省人化は「既存ラインを生かす」、自動化／生成AI／X線CTで描く未来",
+    "source": "MONOist_FA",
+    "published": "2026-06-02",
+    "first_seen_at": "2026-06-02T00:18:33.926822+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/01/news055.html": {
+    "title": "トヨタがインド市場の基盤強化、新型SUVの新工場を建設へ",
+    "source": "MONOist_FA",
+    "published": "2026-06-01",
+    "first_seen_at": "2026-06-02T00:18:33.926822+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104509/": {
+    "title": "池上通信機、神奈川県藤沢市のシステムセンターに新棟を竣工 生産効率向上とBCP強化へ",
+    "source": "オートメーション新聞",
+    "published": "2026-06-01",
+    "first_seen_at": "2026-06-02T00:18:33.926822+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104517/": {
+    "title": "シミズ、和歌山県橋本市に新工場を建設 生産能力を3倍へ 約25億円を投資",
+    "source": "オートメーション新聞",
+    "published": "2026-06-01",
+    "first_seen_at": "2026-06-02T00:18:33.926822+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104520/": {
+    "title": "ハイレゾ、香川県綾川町の廃校を活用したGPU専用「綾川町データセンター」開所",
+    "source": "オートメーション新聞",
+    "published": "2026-06-01",
+    "first_seen_at": "2026-06-02T00:18:33.926822+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104942/": {
+    "title": "【オートメーション新聞 No.447】2025年ロボット統計：受注額1兆456億円、自動化需要とAI関連投資で3年ぶり大幅増 / ROBOT TECHNOLOGY JAPAN 2026：過去最多270社超が出展、愛知で開幕目前 / ダイヘン：金属積層造形システム「ArcBuilder 3D」（2026年6月3日発行）",
+    "source": "オートメーション新聞",
+    "published": "2026-06-01",
+    "first_seen_at": "2026-06-02T00:18:33.926822+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104549/": {
+    "title": "リタール、ハノーバーメッセ2026の技術レポートを公開",
+    "source": "オートメーション新聞",
+    "published": "2026-06-01",
+    "first_seen_at": "2026-06-02T00:18:33.926822+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104705/": {
+    "title": "SICK、ベルトの速度・位置測定用ホイールエンコーダ「MWS250」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-06-01",
+    "first_seen_at": "2026-06-02T00:18:33.926822+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104663/": {
+    "title": "Endress+Hauser、食品・医薬向けサニタリ圧力・差圧伝送器を発売",
+    "source": "オートメーション新聞",
+    "published": "2026-06-01",
+    "first_seen_at": "2026-06-02T00:18:33.926822+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104690/": {
+    "title": "ニチコン、積層形導電性高分子アルミニウム固体電解コンデンサ「KBAシリーズ」を開発 高さ2mm以下で大容量かつ低ESR",
+    "source": "オートメーション新聞",
+    "published": "2026-06-01",
+    "first_seen_at": "2026-06-02T00:18:33.926822+00:00"
   }
 }

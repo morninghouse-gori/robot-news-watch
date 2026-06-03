@@ -1342,5 +1342,83 @@
     "source": "オートメーション新聞",
     "published": "2026-06-01",
     "first_seen_at": "2026-06-02T00:18:33.926822+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1779419071-573270": {
+    "title": "2026.06.03 [直前特集RTJ2026 vol.6]価値を生む搬送装置へ／物流・搬送 昨今、物流業界や搬送工程向けの自動化需要が急拡大する。それに応える形で産業用ロボットや搬送機器の自動化ソリューションも進化してきた。ロボットテクノロジージャパン……",
+    "source": "robot_digest_新着",
+    "published": "2026-06-03",
+    "first_seen_at": "2026-06-03T01:43:09.216302+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1779693410-149230": {
+    "title": "イベント 2026.06.03 ユーザー向けイベントで搬送システムなどの最新情報を発表／ベッコフオートメーション ドイツに本社を置く制御機器メーカーのベッコフオートメーションの日本法人（横浜市中区、川野俊充社長）は５月21日、名古屋市内でユーザー向けイベント「Beckhof……",
+    "source": "robot_digest_新着",
+    "published": "2026-06-03",
+    "first_seen_at": "2026-06-03T01:43:09.216302+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/03/news049.html": {
+    "title": "動きを先読みして触覚で状況を判断 新たなロボット基盤モデル「RLDX-1」とは",
+    "source": "MONOist_ロボット",
+    "published": "2026-06-03",
+    "first_seen_at": "2026-06-03T01:43:09.216302+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/03/news050.html": {
+    "title": "見本画像と作業前画像でAIがロボット動作生成、ジグザグやうずまき充てんも",
+    "source": "MONOist_ロボット",
+    "published": "2026-06-03",
+    "first_seen_at": "2026-06-03T01:43:09.216302+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/02/news046.html": {
+    "title": "最大16Aの高負荷対応、安全システム構築を簡素化するIO-Lin出力モジュール",
+    "source": "MONOist_FA",
+    "published": "2026-06-02",
+    "first_seen_at": "2026-06-03T01:43:09.216302+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/02/news045.html": {
+    "title": "「AIに相談だ。」自体は悪ではない",
+    "source": "MONOist_FA",
+    "published": "2026-06-02",
+    "first_seen_at": "2026-06-03T01:43:09.216302+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104505/": {
+    "title": "ミマキエンジニアリング、長野県東御市の「加沢工場」にF棟を竣工 開発体制を強化へ",
+    "source": "オートメーション新聞",
+    "published": "2026-06-02",
+    "first_seen_at": "2026-06-03T01:43:09.216302+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104501/": {
+    "title": "JX金属、茨城県ひたちなか市の新工場に約230億円を投資 AI半導体向けスパッタリングターゲットを増産",
+    "source": "オートメーション新聞",
+    "published": "2026-06-02",
+    "first_seen_at": "2026-06-03T01:43:09.216302+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104524/": {
+    "title": "宝計機製作所、山口県柳井市に新工場 約3億円投資し10月稼働へ",
+    "source": "オートメーション新聞",
+    "published": "2026-06-02",
+    "first_seen_at": "2026-06-03T01:43:09.216302+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104568/": {
+    "title": "堀場製作所、技術論文誌「Readout No.61」発刊 次世代医療に貢献する分析・計測技術",
+    "source": "オートメーション新聞",
+    "published": "2026-06-02",
+    "first_seen_at": "2026-06-03T01:43:09.216302+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104561/": {
+    "title": "オータックス、春日端子台用記名シール作成サイトを無償公開",
+    "source": "オートメーション新聞",
+    "published": "2026-06-02",
+    "first_seen_at": "2026-06-03T01:43:09.216302+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104675/": {
+    "title": "日本ピスコ、「真空パッドゲルタイプ」発売 業界初のゲル素材を採用",
+    "source": "オートメーション新聞",
+    "published": "2026-06-02",
+    "first_seen_at": "2026-06-03T01:43:09.216302+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104667/": {
+    "title": "デルタ電子、DINレール型産業用電源「DIN Pro」「DIN Eco」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-06-02",
+    "first_seen_at": "2026-06-03T01:43:09.216302+00:00"
   }
 }

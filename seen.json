@@ -1618,5 +1618,107 @@
     "source": "オートメーション新聞",
     "published": "2026-06-04",
     "first_seen_at": "2026-06-05T00:14:58.136066+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1779357059-035226": {
+    "title": "2026.06.08 [特設ページ：会場速報]ロボットテクノロジージャパン2026 robot digest（ロボットダイジェスト）を運営するニュースダイジェスト社は６月11日（木）～６月13日（土）の３日間、愛知県のアイチ・スカイ・エキスポ（……",
+    "source": "robot_digest_新着",
+    "published": "2026-06-08",
+    "first_seen_at": "2026-06-08T00:15:29.593712+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1779396681-560436": {
+    "title": "2026.06.08 [直前特集RTJ2026 vol.9]RTJは絶好のチャンス、新たな分野の開拓を／中部地域…… 産業界の人手不足を解決するには、ロボットシステムの構築を担うシステムインテグレーター（SIer、エスアイアー）が欠かせない。ロボットテクノロジージャパン（RTJ……",
+    "source": "robot_digest_新着",
+    "published": "2026-06-08",
+    "first_seen_at": "2026-06-08T00:15:29.593712+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/08/news064.html": {
+    "title": "生成AIがPythonコードでファナックロボット操作「サイは投げられた」",
+    "source": "MONOist_ロボット",
+    "published": "2026-06-08",
+    "first_seen_at": "2026-06-08T00:15:29.593712+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/08/news005.html": {
+    "title": "高速塑性変形が開く、異材接合と軽量材料成形の可能性",
+    "source": "MONOist_FA",
+    "published": "2026-06-08",
+    "first_seen_at": "2026-06-08T00:15:29.593712+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/08/news025.html": {
+    "title": "AIエージェントに対する製造業のリアルな声",
+    "source": "MONOist_FA",
+    "published": "2026-06-08",
+    "first_seen_at": "2026-06-08T00:15:29.593712+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/06/news017.html": {
+    "title": "ヤマダ、エディオン「統合でPB製品強化へ」 白物メーカー脅かす製販逆転",
+    "source": "MONOist_FA",
+    "published": "2026-06-06",
+    "first_seen_at": "2026-06-08T00:15:29.593712+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/05/news070.html": {
+    "title": "AI検査の導入と拡張を迅速化する協働型AIビジョン開発環境を一般提供",
+    "source": "MONOist_FA",
+    "published": "2026-06-05",
+    "first_seen_at": "2026-06-08T00:15:29.593712+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104794/": {
+    "title": "タクマ、兵庫県の播磨工場に「新研究棟」を着工 環境ソルテックが入居し分析機能を強化",
+    "source": "オートメーション新聞",
+    "published": "2026-06-07",
+    "first_seen_at": "2026-06-08T00:15:29.593712+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104885/": {
+    "title": "キーエンス、ハンディターミナル「DX-A800シリーズ」発売 超薄型で堅牢なフルスクリーン",
+    "source": "オートメーション新聞",
+    "published": "2026-06-07",
+    "first_seen_at": "2026-06-08T00:15:29.593712+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104909/": {
+    "title": "タクミナ、電池塗工専用のスムーズフローポンプ「PLBF」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-06-07",
+    "first_seen_at": "2026-06-08T00:15:29.593712+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104897/": {
+    "title": "ダイヘン、金属積層造形システム「ArcBuilder 3D」発売 アーク溶接技術活用による金属3Dプリンティング事業へ参入",
+    "source": "オートメーション新聞",
+    "published": "2026-06-07",
+    "first_seen_at": "2026-06-08T00:15:29.593712+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104861/": {
+    "title": "ヤマハ発動機、インドハリヤナ州グルグラムにロボティクス事業の営業拠点を開設",
+    "source": "オートメーション新聞",
+    "published": "2026-06-07",
+    "first_seen_at": "2026-06-08T00:15:29.593712+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104812/": {
+    "title": "レンゴー、中国・山東省の合弁新工場が稼働 重量物段ボールの生産拠点を新設",
+    "source": "オートメーション新聞",
+    "published": "2026-06-07",
+    "first_seen_at": "2026-06-08T00:15:29.593712+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104925/": {
+    "title": "堀場アドバンスドテクノ、半導体製造プロセス向け光ファイバー式非接触型薬液濃度モニター「CS-900F」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-06-07",
+    "first_seen_at": "2026-06-08T00:15:29.593712+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104832/": {
+    "title": "NTN、i-WRIST搭載の外観検査用高速ユニットがリョービで採用 大型複雑ダイカスト部品検査に",
+    "source": "オートメーション新聞",
+    "published": "2026-06-07",
+    "first_seen_at": "2026-06-08T00:15:29.593712+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104901/": {
+    "title": "CKD、ISO規格準拠のパイロット式5ポート弁「PV5G・PV5・GMF」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-06-06",
+    "first_seen_at": "2026-06-08T00:15:29.593712+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104855/": {
+    "title": "川崎重工業、米国カリフォルニア州サンノゼにフィジカルAI開発拠点を新設 NVIDIAなどと協業",
+    "source": "オートメーション新聞",
+    "published": "2026-06-06",
+    "first_seen_at": "2026-06-08T00:15:29.593712+00:00"
   }
 }

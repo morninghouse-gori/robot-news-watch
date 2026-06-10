@@ -1780,5 +1780,65 @@
     "source": "オートメーション新聞",
     "published": "2026-06-08",
     "first_seen_at": "2026-06-09T00:10:20.869615+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1780650723-346590": {
+    "title": "2026.06.10 六甲テクニカルセンターをリニューアルしデモ拡充／ダイヘン ダイヘンは４月28日、神戸市東灘区の六甲テクニカルセンター（TC）を一部リニューアルした。六甲TCは産業用ロボットや自律走行型搬送ロボット（AMR）などの生産・……",
+    "source": "robot_digest_新着",
+    "published": "2026-06-10",
+    "first_seen_at": "2026-06-10T00:19:43.396189+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/09/news027.html": {
+    "title": "国産フィジカルAI技術の研究開発を推進、三菱電機と千葉工大が共創センター設立",
+    "source": "MONOist_ロボット",
+    "published": "2026-06-09",
+    "first_seen_at": "2026-06-10T00:19:43.396189+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/10/news002.html": {
+    "title": "攻撃者の大衆化と広範化で、どのようなOT資産が狙われるのか",
+    "source": "MONOist_FA",
+    "published": "2026-06-10",
+    "first_seen_at": "2026-06-10T00:19:43.396189+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/09/news003.html": {
+    "title": "自動化時代だから問われる手はんだ技能と、国際規格の戦略的活用",
+    "source": "MONOist_FA",
+    "published": "2026-06-10",
+    "first_seen_at": "2026-06-10T00:19:43.396189+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/09/news091.html": {
+    "title": "AIによる常時監視で切削加工異常を自動検知するモニタリングプラン",
+    "source": "MONOist_FA",
+    "published": "2026-06-09",
+    "first_seen_at": "2026-06-10T00:19:43.396189+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104791/": {
+    "title": "泉、三重県名張市に工業用フィルタの新工場 2工場を統合し、生産体制を強化",
+    "source": "オートメーション新聞",
+    "published": "2026-06-09",
+    "first_seen_at": "2026-06-10T00:19:43.396189+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104798/": {
+    "title": "日本イーライリリー、神戸市の西神工場に200億円を追加投資 医薬品の供給能力を増強",
+    "source": "オートメーション新聞",
+    "published": "2026-06-09",
+    "first_seen_at": "2026-06-10T00:19:43.396189+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104893/": {
+    "title": "ファナック、食品市場向けオールステンレスパラレルリンクロボット「DR/8-16B Stainless」可搬重量8kgと動作範囲1600mmのロングリーチモデル",
+    "source": "オートメーション新聞",
+    "published": "2026-06-09",
+    "first_seen_at": "2026-06-10T00:19:43.396189+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104802/": {
+    "title": "扶桑化学工業、京都府福知山市の京都事業所に400億円を投資し「超高純度コロイダルシリカ」増産",
+    "source": "オートメーション新聞",
+    "published": "2026-06-09",
+    "first_seen_at": "2026-06-10T00:19:43.396189+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104937/": {
+    "title": "Pepperl+Fuchs、RFID評価ユニット「IDENTControl Compact B40」を発売 1台でLF、HF、UHFを処理可能",
+    "source": "オートメーション新聞",
+    "published": "2026-06-09",
+    "first_seen_at": "2026-06-10T00:19:43.396189+00:00"
   }
 }

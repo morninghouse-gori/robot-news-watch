@@ -1840,5 +1840,47 @@
     "source": "オートメーション新聞",
     "published": "2026-06-09",
     "first_seen_at": "2026-06-10T00:19:43.396189+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1780664355-078733": {
+    "title": "2026.06.11 衛生環境用ロボットを発売、薬品や小物容器の自動搬送に／安川電機 安川電機は６月１日、ライフサイエンス市場や医薬品市場向けに衛生環境用ロボット「MOTOMAN（モートマン）-HD7」の販売を開始した。可搬質量は７kg、最大リー……",
+    "source": "robot_digest_新着",
+    "published": "2026-06-11",
+    "first_seen_at": "2026-06-11T00:21:35.193711+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/10/news088.html": {
+    "title": "AIロボティクス開発に必要なデータを収集するアプリケーション",
+    "source": "MONOist_ロボット",
+    "published": "2026-06-10",
+    "first_seen_at": "2026-06-11T00:21:35.193711+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/10/news083.html": {
+    "title": "光沢物の3次元情報を取得するビジョンセンサー、画像処理とAIを活用",
+    "source": "MONOist_ロボット",
+    "published": "2026-06-10",
+    "first_seen_at": "2026-06-11T00:21:35.193711+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/11/news032.html": {
+    "title": "生成AI需要で機能性タンタル粉末を増産、タイ工場の生産能力を1.5倍へ",
+    "source": "MONOist_FA",
+    "published": "2026-06-11",
+    "first_seen_at": "2026-06-11T00:21:35.193711+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/10/news078.html": {
+    "title": "AIと産業制御を統合したエッジ基盤、ラズパイベースの2機種発売",
+    "source": "MONOist_FA",
+    "published": "2026-06-10",
+    "first_seen_at": "2026-06-11T00:21:35.193711+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104783/": {
+    "title": "物語コーポレーション、群馬県前橋市に製麺と液体調味料の新工場 東日本への供給強化へ",
+    "source": "オートメーション新聞",
+    "published": "2026-06-10",
+    "first_seen_at": "2026-06-11T00:21:35.193711+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/104780/": {
+    "title": "東京インキ、茨城県坂東市に新工場 約13億円を投資して生産機能を一元化",
+    "source": "オートメーション新聞",
+    "published": "2026-06-10",
+    "first_seen_at": "2026-06-11T00:21:35.193711+00:00"
   }
 }

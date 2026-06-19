@@ -2086,5 +2086,95 @@
     "source": "オートメーション新聞",
     "published": "2026-06-17",
     "first_seen_at": "2026-06-18T00:19:22.819878+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1780455453-130761": {
+    "title": "2026.06.19 新型３Dカメラは、動きのある物体も確実に認識／IDS ドイツの産業用カメラメーカーのIDSはこのほど、耐環境性に優れ、動きのある物体の認識に向く「Nion（ニオン）」を発売した。これまで同社が開発、販売してきた３D……",
+    "source": "robot_digest_新着",
+    "published": "2026-06-19",
+    "first_seen_at": "2026-06-19T01:46:23.774234+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1781749690-825148": {
+    "title": "2026.06.18 フィジカルAIに脚光！ 来場者数は過去最多を更新【その１】／ロボットテクノロジージャパン2…… ６月11日～13日の３日間、愛知県常滑市の「アイチ・スカイ・エキスポ（愛知県国際展示場）」でロボットや自動化システムの専門展「ROBOT TECHNOLOGY ……",
+    "source": "robot_digest_新着",
+    "published": "2026-06-18",
+    "first_seen_at": "2026-06-19T01:46:23.774234+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/19/news054.html": {
+    "title": "まるで宇宙船!? コマツの建機遠隔操作システム、女性オペレーターも活躍",
+    "source": "MONOist_ロボット",
+    "published": "2026-06-19",
+    "first_seen_at": "2026-06-19T01:46:23.774234+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/19/news049.html": {
+    "title": "DMG森精機の欧州市場「深耕」青写真、フロンテン工場のモノづくり深化",
+    "source": "MONOist_FA",
+    "published": "2026-06-19",
+    "first_seen_at": "2026-06-19T01:46:23.774234+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/18/news044.html": {
+    "title": "フィーダーへのテープリール供給を自動化、FUJIが新ユニット開発",
+    "source": "MONOist_FA",
+    "published": "2026-06-18",
+    "first_seen_at": "2026-06-19T01:46:23.774234+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105262/": {
+    "title": "コンテック、組み込み用ボックスコンピュータ「BX-T310 Trellixモデル」発売 ランサムウェア対策ソフトウェア搭載",
+    "source": "オートメーション新聞",
+    "published": "2026-06-18",
+    "first_seen_at": "2026-06-19T01:46:23.774234+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105279/": {
+    "title": "パトライト、Bluetooth対応積層信号灯「LR6-B2」発売 無償提供キャンペーン実施中",
+    "source": "オートメーション新聞",
+    "published": "2026-06-18",
+    "first_seen_at": "2026-06-19T01:46:23.774234+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105137/": {
+    "title": "東芝、6/24WEBセミナー「現場の熱中症対策ウェビナー2026」",
+    "source": "オートメーション新聞",
+    "published": "2026-06-18",
+    "first_seen_at": "2026-06-19T01:46:23.774234+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105258/": {
+    "title": "オムロン、プリント基板用シグナルリレー「形 G6K」発売 基板の省スペース化に貢献",
+    "source": "オートメーション新聞",
+    "published": "2026-06-18",
+    "first_seen_at": "2026-06-19T01:46:23.774234+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105316/": {
+    "title": "安川電機、新長期経営計画「2035年ビジョン」と中期経営計画「Dash 35」策定 コア事業の強化と、フィジカルAI、自動化応用領域創出へ注力 高収益化を推進",
+    "source": "オートメーション新聞",
+    "published": "2026-06-18",
+    "first_seen_at": "2026-06-19T01:46:23.774234+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105176/": {
+    "title": "三菱電機、クラウド検針サービスの無償トライアルキャンペーンを実施",
+    "source": "オートメーション新聞",
+    "published": "2026-06-18",
+    "first_seen_at": "2026-06-19T01:46:23.774234+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105240/": {
+    "title": "B&R、高速RGBプリントマーク検出用カラーカメラ発売 印刷機械を高度化",
+    "source": "オートメーション新聞",
+    "published": "2026-06-18",
+    "first_seen_at": "2026-06-19T01:46:23.774234+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105244/": {
+    "title": "ミネベアミツミ、ハイブリッドステッピングモーターに新たな角度検知オプション 磁気式エンコーダオプションを追加",
+    "source": "オートメーション新聞",
+    "published": "2026-06-18",
+    "first_seen_at": "2026-06-19T01:46:23.774234+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105248/": {
+    "title": "ワゴジャパン、小型コントローラ「WAGO CC100スターターキット」発売 届いてすぐに使用可能 数量限定",
+    "source": "オートメーション新聞",
+    "published": "2026-06-18",
+    "first_seen_at": "2026-06-19T01:46:23.774234+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105211/": {
+    "title": "WashiON、大阪市北区の大阪営業所を移転",
+    "source": "オートメーション新聞",
+    "published": "2026-06-18",
+    "first_seen_at": "2026-06-19T01:46:23.774234+00:00"
   }
 }

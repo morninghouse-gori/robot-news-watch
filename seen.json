@@ -2176,5 +2176,89 @@
     "source": "オートメーション新聞",
     "published": "2026-06-18",
     "first_seen_at": "2026-06-19T01:46:23.774234+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1780561299-398011": {
+    "title": "連載 2026.06.22 [注目製品PickUp! vol.94]工作機械へのワーク供給を正確かつ柔軟に／OnRob…… デンマークに本社を置くOnRobot（オンロボット）は近年、工作機械向けの提案を強化する。中でもベストセラー製品の１つである電動グリッパー「3FG25」は、円筒……",
+    "source": "robot_digest_新着",
+    "published": "2026-06-22",
+    "first_seen_at": "2026-06-22T00:17:40.061299+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/22/news051.html": {
+    "title": "インテル「シリーズ3」はフィジカルAIでも力を発揮、“ヤマネコ”の実力は？",
+    "source": "MONOist_ロボット",
+    "published": "2026-06-22",
+    "first_seen_at": "2026-06-22T00:17:40.061299+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/19/news057.html": {
+    "title": "通路幅800mm対応のスリムAMR、エレベーターや周辺設備と連携オプションも",
+    "source": "MONOist_ロボット",
+    "published": "2026-06-19",
+    "first_seen_at": "2026-06-22T00:17:40.061299+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/22/news052.html": {
+    "title": "ソディック“三種の神器”でデータセンター需要追うも、中計は「それに頼らず」",
+    "source": "MONOist_FA",
+    "published": "2026-06-22",
+    "first_seen_at": "2026-06-22T00:17:40.061299+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105060/": {
+    "title": "パワーエックス、岡山県玉野市の本社工場に大型蓄電システムの製造ラインを増設 20億円を投資",
+    "source": "オートメーション新聞",
+    "published": "2026-06-21",
+    "first_seen_at": "2026-06-22T00:17:40.061299+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105064/": {
+    "title": "日揮触媒化成、福岡県北九州市若松区の事業所を拡張 半導体関連の生産基盤を強化",
+    "source": "オートメーション新聞",
+    "published": "2026-06-21",
+    "first_seen_at": "2026-06-22T00:17:40.061299+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105287/": {
+    "title": "富士電機、世界初のエジェクタ冷却機「FEC-200 / FEC-250」発売 データセンターのサーバ冷却電力を最大85%削減 チラー代替に",
+    "source": "オートメーション新聞",
+    "published": "2026-06-21",
+    "first_seen_at": "2026-06-22T00:17:40.061299+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105172/": {
+    "title": "三菱電機、FA導入事例としてライオン小田原工場を公開 バファリン製造工程でのデータ活用事例",
+    "source": "オートメーション新聞",
+    "published": "2026-06-20",
+    "first_seen_at": "2026-06-22T00:17:40.061299+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105283/": {
+    "title": "HMS Networks、マネージドスイッチ「N-Tron NT7000」シリーズ発売",
+    "source": "オートメーション新聞",
+    "published": "2026-06-20",
+    "first_seen_at": "2026-06-22T00:17:40.061299+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105141/": {
+    "title": "三菱電機、6/25WEBセミナー「FX3UからFX5への置き換え手順デモ実演セミナー」開催",
+    "source": "オートメーション新聞",
+    "published": "2026-06-19",
+    "first_seen_at": "2026-06-22T00:17:40.061299+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105183/": {
+    "title": "アズビル、ビル施工の最終調整・試験のエンジニアリング工程のリモート化の取り組みを紹介",
+    "source": "オートメーション新聞",
+    "published": "2026-06-19",
+    "first_seen_at": "2026-06-22T00:17:40.061299+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105266/": {
+    "title": "星和電機、防爆形LED灯器具「LZLPシリーズ」発売 粉じん防爆兼用",
+    "source": "オートメーション新聞",
+    "published": "2026-06-19",
+    "first_seen_at": "2026-06-22T00:17:40.061299+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105179/": {
+    "title": "安川電機、広報誌「YASKAWA NEWS」No.354を発行",
+    "source": "オートメーション新聞",
+    "published": "2026-06-19",
+    "first_seen_at": "2026-06-22T00:17:40.061299+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105202/": {
+    "title": "FCLコンポーネント、リレー事業に経営資源を集中 複合事業を担う子会社をメイコーに譲渡",
+    "source": "オートメーション新聞",
+    "published": "2026-06-19",
+    "first_seen_at": "2026-06-22T00:17:40.061299+00:00"
   }
 }

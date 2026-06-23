@@ -2260,5 +2260,89 @@
     "source": "オートメーション新聞",
     "published": "2026-06-19",
     "first_seen_at": "2026-06-22T00:17:40.061299+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1780056208-138023": {
+    "title": "2026.06.23 韓国の大手グループ企業が「スマートビル事業」に挑むワケ／ヒョンデモーターグループRobot…… 韓国の大手自動車メーカーを傘下に持つヒョンデモーターグループ。グループの事業は自動車やその部品の製造に加え、建設業や不動産管理など多岐にわたるが、近年はロボティ……",
+    "source": "robot_digest_新着",
+    "published": "2026-06-23",
+    "first_seen_at": "2026-06-23T00:13:46.234214+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/23/news049.html": {
+    "title": "半導体製造装置業界の特許けん制力ランキング2025発表",
+    "source": "MONOist_FA",
+    "published": "2026-06-23",
+    "first_seen_at": "2026-06-23T00:13:46.234214+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/23/news046.html": {
+    "title": "ダイハツがAI品質検査システムを共同開発、アルミ加工穴内部の目視検査を自動化",
+    "source": "MONOist_FA",
+    "published": "2026-06-23",
+    "first_seen_at": "2026-06-23T00:13:46.234214+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/22/news059.html": {
+    "title": "パナソニックがドライバー実装機、7～26インチの中型有機ELパネル向け",
+    "source": "MONOist_FA",
+    "published": "2026-06-22",
+    "first_seen_at": "2026-06-23T00:13:46.234214+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105057/": {
+    "title": "ゼンショーHDとGFF、山口県山口市に食品製造の新工場を建設 約264億円を投資",
+    "source": "オートメーション新聞",
+    "published": "2026-06-22",
+    "first_seen_at": "2026-06-23T00:13:46.234214+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105417/": {
+    "title": "【オートメーション新聞 No.449】電気設備コンクール各賞発表：国土交通大臣賞にダイヘン「防災用蓄電池パッケージ」 / オムロン サイニックエックス：AIモデル高度化技術を開発 / キーエンス：AI×ビジョンストレージ搭載の画像処理システム発売 / 特集：配線接続・コネクタ（2026年6月24日発行）",
+    "source": "オートメーション新聞",
+    "published": "2026-06-22",
+    "first_seen_at": "2026-06-23T00:13:46.234214+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105071/": {
+    "title": "IDEC 安全ユニット「セーフティコマンダHT3P／HT4P形」市販タブレットが安全機能付き操作端末に変身【安全・セーフティ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-06-22",
+    "first_seen_at": "2026-06-23T00:13:46.234214+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105075/": {
+    "title": "オムロン IP67対応DC遮断BOX「S8R-BB」盤外への安全回路構築を容易に【安全・セーフティ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-06-22",
+    "first_seen_at": "2026-06-23T00:13:46.234214+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105083/": {
+    "title": "パナソニックインダストリー 非接触式セーフティドアスイッチ「SG-P」扉の開閉状態がひと目で分かる【安全・セーフティ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-06-22",
+    "first_seen_at": "2026-06-23T00:13:46.234214+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105091/": {
+    "title": "北陽電機 セーフティコントローラ「HSC-A100-ENC」検出から制御までをワンストップで実現【安全・セーフティ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-06-22",
+    "first_seen_at": "2026-06-23T00:13:46.234214+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105100/": {
+    "title": "EUCHNER（オイヒナー）安全キーシステム「CKS2」ロックアウトや認証など多目的に利用可能【安全・セーフティ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-06-22",
+    "first_seen_at": "2026-06-23T00:13:46.234214+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105108/": {
+    "title": "Pepperl+Fuchs（ピーアンドエフ）セーフティI/Oモジュール 安全信号とIO-Linkを1台に統合【安全・セーフティ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-06-22",
+    "first_seen_at": "2026-06-23T00:13:46.234214+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105228/": {
+    "title": "アルゴシステム、Windows11対応の産業用パネルPC「NP4D IoTシリーズ」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-06-22",
+    "first_seen_at": "2026-06-23T00:13:46.234214+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105220/": {
+    "title": "CKD、汎用シリンダスイッチ「SW-T」に新バリエーション 防爆認証やUL規格対応を追加",
+    "source": "オートメーション新聞",
+    "published": "2026-06-22",
+    "first_seen_at": "2026-06-23T00:13:46.234214+00:00"
   }
 }

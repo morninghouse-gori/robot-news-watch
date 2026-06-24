@@ -2344,5 +2344,35 @@
     "source": "オートメーション新聞",
     "published": "2026-06-22",
     "first_seen_at": "2026-06-23T00:13:46.234214+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1781512787-764198": {
+    "title": "2026.06.24 新工場に拠点を集約し、生産性向上／イグス ドイツに本社を置く樹脂部品メーカー、イグスの日本法人（東京都墨田区、吉田剛社長）は６月２日、栃木県さくら市に建設した新工場の竣工（しゅんこう）式を開いた。同県内……",
+    "source": "robot_digest_新着",
+    "published": "2026-06-24",
+    "first_seen_at": "2026-06-24T00:02:53.642565+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/24/news049.html": {
+    "title": "職人の暗黙知を現場力と独自のシミュレーション基盤で実装 燈のフィジカルAI戦略",
+    "source": "MONOist_ロボット",
+    "published": "2026-06-24",
+    "first_seen_at": "2026-06-24T00:02:53.642565+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/24/news053.html": {
+    "title": "“中国ヒューマノイド革命”はなぜ起きた、異業種や大手テックが動かす市場の今",
+    "source": "MONOist_ロボット",
+    "published": "2026-06-24",
+    "first_seen_at": "2026-06-24T00:02:53.642565+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/24/news031.html": {
+    "title": "シーメンス幹部「AIの奴隷にはならない」、産業用AIは製造現場の何を変えるか",
+    "source": "MONOist_FA",
+    "published": "2026-06-24",
+    "first_seen_at": "2026-06-24T00:02:53.642565+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/23/news052.html": {
+    "title": "ニコンが解像度1.5μmのデジタル露光装置開発へ、生産性も30％以上向上",
+    "source": "MONOist_FA",
+    "published": "2026-06-23",
+    "first_seen_at": "2026-06-24T00:02:53.642565+00:00"
   }
 }

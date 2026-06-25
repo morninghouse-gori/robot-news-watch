@@ -2374,5 +2374,95 @@
     "source": "MONOist_FA",
     "published": "2026-06-23",
     "first_seen_at": "2026-06-24T00:02:53.642565+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1781600389-738479": {
+    "title": "連載 2026.06.25 [特別企画 第５回高校生ロボットSIリーグに迫るvol.2]認知度を高めるチャンスに／バイ…… 「第５回高校生ロボットシステムインテグレーション競技会（高校生ロボットSIリーグ）」が今年12月12日と13日に愛知県で開催される。ロボットダイジェストでは「特……",
+    "source": "robot_digest_新着",
+    "published": "2026-06-25",
+    "first_seen_at": "2026-06-25T00:17:54.327928+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/24/news086.html": {
+    "title": "ボッシュがロボティクス技術の開発を推進、数十億ユーロ規模のビジネスに",
+    "source": "MONOist_ロボット",
+    "published": "2026-06-24",
+    "first_seen_at": "2026-06-25T00:17:54.327928+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/25/news050.html": {
+    "title": "イグスの新工場が栃木県内で稼働、機能集約で供給体制強化",
+    "source": "MONOist_FA",
+    "published": "2026-06-25",
+    "first_seen_at": "2026-06-25T00:17:54.327928+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/25/news051.html": {
+    "title": "止められない製造現場に最適 ゲーム開発会社が生み出したVR防災訓練システムとは",
+    "source": "MONOist_FA",
+    "published": "2026-06-25",
+    "first_seen_at": "2026-06-25T00:17:54.327928+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/24/news040.html": {
+    "title": "12インチウエハー形状に適合、圧力検査向け測定フィルム発売",
+    "source": "MONOist_FA",
+    "published": "2026-06-24",
+    "first_seen_at": "2026-06-25T00:17:54.327928+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105425/": {
+    "title": "三菱電機と米クオンティニュアム、量子コンピューティングの産業応用に向けて協業",
+    "source": "オートメーション新聞",
+    "published": "2026-06-24",
+    "first_seen_at": "2026-06-25T00:17:54.327928+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105046/": {
+    "title": "帝人リジェネット、山口県岩国市に再生医療CDMOの岩国ファクトリーが本格稼働",
+    "source": "オートメーション新聞",
+    "published": "2026-06-24",
+    "first_seen_at": "2026-06-25T00:17:54.327928+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105446/": {
+    "title": "星和電機、産業用照明・機器カタログ2026年-2027年版を発刊",
+    "source": "オートメーション新聞",
+    "published": "2026-06-24",
+    "first_seen_at": "2026-06-25T00:17:54.327928+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105608/": {
+    "title": "ARCジャパン、7/7東京・両国で「ARC Industry Forum Asia 2026」日本プログラム開催「AIは産業の未来をどう変えるか」",
+    "source": "オートメーション新聞",
+    "published": "2026-06-24",
+    "first_seen_at": "2026-06-25T00:17:54.327928+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105605/": {
+    "title": "日本がロボット大国になるために必要な機能はバク転ではない。人を助ける技術なのだ",
+    "source": "オートメーション新聞",
+    "published": "2026-06-24",
+    "first_seen_at": "2026-06-25T00:17:54.327928+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105602/": {
+    "title": "三菱電機と関東電気保安協会、受配電設備向けスマート保安の共同実証",
+    "source": "オートメーション新聞",
+    "published": "2026-06-24",
+    "first_seen_at": "2026-06-25T00:17:54.327928+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105443/": {
+    "title": "SUS、ノーコードコントローラ「SiO」10周年＆累計販売5万台突破記念トレーニングキット発売。キャンペーン特別価格9999円",
+    "source": "オートメーション新聞",
+    "published": "2026-06-24",
+    "first_seen_at": "2026-06-25T00:17:54.327928+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105598/": {
+    "title": "オムロン サイニックエックス、現場データを保護しながらAIモデルを高度化する技術「DcX」開発 AIモデルが学びあう「AIの学校」",
+    "source": "オートメーション新聞",
+    "published": "2026-06-24",
+    "first_seen_at": "2026-06-25T00:17:54.327928+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105611/": {
+    "title": "JECA FAIR 2026 製品コンクール受賞製品が決定 各大臣賞はダイヘン、日東工業、関電工が受賞",
+    "source": "オートメーション新聞",
+    "published": "2026-06-24",
+    "first_seen_at": "2026-06-25T00:17:54.327928+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105595/": {
+    "title": "IEEE ISR/SIAS 2026、12月2−4日にインテックス大阪で開催 ロボットの安全性と知能化の国際シンポジウム",
+    "source": "オートメーション新聞",
+    "published": "2026-06-24",
+    "first_seen_at": "2026-06-25T00:17:54.327928+00:00"
   }
 }

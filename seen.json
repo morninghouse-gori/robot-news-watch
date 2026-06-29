@@ -2560,5 +2560,113 @@
     "source": "オートメーション新聞",
     "published": "2026-06-25",
     "first_seen_at": "2026-06-26T00:15:03.428702+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1781685425-111492": {
+    "title": "2026.06.29 [SIerを訪ねてvol.67]アイデア勝負で差別化／アイズロボ アイズロボ（大阪府寝屋川市、久保光男社長）は複数の設備を連携させた自動化システムや一般的に構築が難しいとされる重量物を扱う自動化システムなど、システムインテグレ……",
+    "source": "robot_digest_新着",
+    "published": "2026-06-29",
+    "first_seen_at": "2026-06-29T00:13:11.080691+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/29/news045.html": {
+    "title": "ロボットに“見て、考えて、動く力”を与えたファナックがAWSと次に目指すもの",
+    "source": "MONOist_ロボット",
+    "published": "2026-06-29",
+    "first_seen_at": "2026-06-29T00:13:11.080691+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/26/news054.html": {
+    "title": "手首負荷許容値が最大110％向上、安川電機が大型ワーク搬送用ロボット",
+    "source": "MONOist_ロボット",
+    "published": "2026-06-26",
+    "first_seen_at": "2026-06-29T00:13:11.080691+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/29/news041.html": {
+    "title": "「4項目のAI検査」で高密度基板の目視検査時間を約8割削減 OKIの新検査技術とは",
+    "source": "MONOist_FA",
+    "published": "2026-06-29",
+    "first_seen_at": "2026-06-29T00:13:11.080691+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/29/news032.html": {
+    "title": "半導体封止材の生産能力増強、中国で高まる需要に対応",
+    "source": "MONOist_FA",
+    "published": "2026-06-29",
+    "first_seen_at": "2026-06-29T00:13:11.080691+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/29/news006.html": {
+    "title": "設備は“何のため”に導入するか、元トヨタ生技が食品工場で抱いた違和感",
+    "source": "MONOist_FA",
+    "published": "2026-06-29",
+    "first_seen_at": "2026-06-29T00:13:11.080691+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/29/news030.html": {
+    "title": "10分間で頭部を完全冷却 熱中症対策に特化した「可動式冷却ブース」が誕生",
+    "source": "MONOist_FA",
+    "published": "2026-06-29",
+    "first_seen_at": "2026-06-29T00:13:11.080691+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2606/27/news009.html": {
+    "title": "官民投資フィジカルAIに10.5兆円示す、「実証から実装へ」動き出す現場",
+    "source": "MONOist_FA",
+    "published": "2026-06-27",
+    "first_seen_at": "2026-06-29T00:13:11.080691+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105362/": {
+    "title": "ホンダ、インドのラジャスタン州アルワル地区第二工場に二輪車生産の第三生産ラインを新設",
+    "source": "オートメーション新聞",
+    "published": "2026-06-28",
+    "first_seen_at": "2026-06-29T00:13:11.080691+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105527/": {
+    "title": "ニデック、データセンター向け積層型CDU「STC 1.0」のプロトタイプを開発",
+    "source": "オートメーション新聞",
+    "published": "2026-06-28",
+    "first_seen_at": "2026-06-29T00:13:11.080691+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105567/": {
+    "title": "横河電機、統合情報サーバ「OpreX Collaborative Information Server」新バージョン発売 プラント操業の統合HMI環境を強化",
+    "source": "オートメーション新聞",
+    "published": "2026-06-28",
+    "first_seen_at": "2026-06-29T00:13:11.080691+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105580/": {
+    "title": "キーエンス、画像処理システム「VS-Gシリーズ」発売 不良流出と過検出の「ゼロ」実現",
+    "source": "オートメーション新聞",
+    "published": "2026-06-28",
+    "first_seen_at": "2026-06-29T00:13:11.080691+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105457/": {
+    "title": "TDK、三次元金属構造形成技術を持つ米Fabric8Labsを買収 データセンタ関連事業を強化",
+    "source": "オートメーション新聞",
+    "published": "2026-06-27",
+    "first_seen_at": "2026-06-29T00:13:11.080691+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105453/": {
+    "title": "コガネイ、同社WEBにAIチャットボットを導入 顧客サポートを強化",
+    "source": "オートメーション新聞",
+    "published": "2026-06-27",
+    "first_seen_at": "2026-06-29T00:13:11.080691+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105358/": {
+    "title": "カルビー、広島県廿日市市のはつかいち工場でコーンスナックの新生産ライン 生産能力を約1.5倍に拡大",
+    "source": "オートメーション新聞",
+    "published": "2026-06-27",
+    "first_seen_at": "2026-06-29T00:13:11.080691+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105416/": {
+    "title": "三菱電機、千葉工業大学と国産フィジカルAIの研究開発に関する基本協定を締結",
+    "source": "オートメーション新聞",
+    "published": "2026-06-26",
+    "first_seen_at": "2026-06-29T00:13:11.080691+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105428/": {
+    "title": "三菱電機、電力・電子機器の環境負荷軽減へバイオマス度40％の絶縁用エポキシ樹脂を開発",
+    "source": "オートメーション新聞",
+    "published": "2026-06-26",
+    "first_seen_at": "2026-06-29T00:13:11.080691+00:00"
+  },
+  "https://www.automation-news.jp/2026/06/105563/": {
+    "title": "オムロン、見下ろし人体検出ソフトウェア「AM1」発売 作業者の位置情報を把握に",
+    "source": "オートメーション新聞",
+    "published": "2026-06-26",
+    "first_seen_at": "2026-06-29T00:13:11.080691+00:00"
   }
 }

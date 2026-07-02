@@ -2878,5 +2878,83 @@
     "source": "オートメーション新聞",
     "published": "2026-06-30",
     "first_seen_at": "2026-07-01T00:12:57.289282+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1781501114-720955": {
+    "title": "連載 2026.07.02 [実践！ リスキリング:第１シリーズ]第４回：あぁ…これが「バラシ」か 職業能力の再開発を指す「リスキリング」の重要性が叫ばれる。近年はデジタルトランスフォーメーション（DX）に順応するために、従業員にデジタルスキルの習得を促す例が……",
+    "source": "robot_digest_新着",
+    "published": "2026-07-02",
+    "first_seen_at": "2026-07-02T00:14:17.814955+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/02/news043.html": {
+    "title": "ファナックとフィジカルAI、現場主義の開発思想",
+    "source": "MONOist_ロボット",
+    "published": "2026-07-02",
+    "first_seen_at": "2026-07-02T00:14:17.814955+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/01/news058.html": {
+    "title": "設備データと人の暑さストレスデータを一元管理、作業効率化と安全対策強化",
+    "source": "MONOist_FA",
+    "published": "2026-07-01",
+    "first_seen_at": "2026-07-02T00:14:17.814955+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105779/": {
+    "title": "ifm efector、スマートディスプレイ搭載のデジタルマノメータ「PGシリーズ」発売 アナログマノメータとデジタルセンサの機能を一体化",
+    "source": "オートメーション新聞",
+    "published": "2026-07-01",
+    "first_seen_at": "2026-07-02T00:14:17.814955+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105714/": {
+    "title": "シーシーエス、産業用小型ステレオカメラBasler Stereo miniのお試しキャンペーンを実施",
+    "source": "オートメーション新聞",
+    "published": "2026-07-01",
+    "first_seen_at": "2026-07-02T00:14:17.814955+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105718/": {
+    "title": "テクトロニクス、双方向電源の「20%OFF 導入支援キャンペーン」を実施",
+    "source": "オートメーション新聞",
+    "published": "2026-07-01",
+    "first_seen_at": "2026-07-02T00:14:17.814955+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106043/": {
+    "title": "HMS ネットワークス 産業用ネットワークシェア動向2026 フィールドバスから産業用Ethernetへの移行加速 シェア79%に セキュリティ、機能安全、TSN、SPEなど次の差別化要因に",
+    "source": "オートメーション新聞",
+    "published": "2026-07-01",
+    "first_seen_at": "2026-07-02T00:14:17.814955+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106040/": {
+    "title": "安川電機、YE DIGITALへアイキューブデジタルの株式一部を譲渡",
+    "source": "オートメーション新聞",
+    "published": "2026-07-01",
+    "first_seen_at": "2026-07-02T00:14:17.814955+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106068/": {
+    "title": "フエニックス・コンタクト 高速低遅延でセキュアな無線LAN 「FL WLAN」シリーズ Wi-Fi ６AP、Wi-Fi 6E対応アダプタ【産業用ネットワーク特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-07-01",
+    "first_seen_at": "2026-07-02T00:14:17.814955+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106059/": {
+    "title": "アドバンテック 産業用スイッチ「EKI-2000シリーズ・EKI-7000シリーズ」CC-Link IE TSN Class A認証を取得【産業用ネットワーク特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-07-01",
+    "first_seen_at": "2026-07-02T00:14:17.814955+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105809/": {
+    "title": "日本フィールドコムグループ【産業オープンネット展 展示・デモ内容】",
+    "source": "オートメーション新聞",
+    "published": "2026-07-01",
+    "first_seen_at": "2026-07-02T00:14:17.814955+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105806/": {
+    "title": "日本電機工業会 FL-net推進委員会【産業オープンネット展 展示・デモ内容】",
+    "source": "オートメーション新聞",
+    "published": "2026-07-01",
+    "first_seen_at": "2026-07-02T00:14:17.814955+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105794/": {
+    "title": "ODVA TAG Japan【産業オープンネット展 展示・デモ内容】",
+    "source": "オートメーション新聞",
+    "published": "2026-07-01",
+    "first_seen_at": "2026-07-02T00:14:17.814955+00:00"
   }
 }

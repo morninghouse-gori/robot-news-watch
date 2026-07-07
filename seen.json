@@ -3166,5 +3166,89 @@
     "source": "オートメーション新聞",
     "published": "2026-07-05",
     "first_seen_at": "2026-07-06T00:12:13.407996+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1782812279-831504": {
+    "title": "2026.07.07 新工場棟が稼働、AIロボットがロボットを作る／安川電機 安川電機は今年６月、北九州市八幡西区の本社敷地内に建設した「第5工場」の本格稼働を開始した。２階でサーボモーターを生産し、そのサーボモーターを使って１階で産業用……",
+    "source": "robot_digest_新着",
+    "published": "2026-07-07",
+    "first_seen_at": "2026-07-07T00:13:59.351864+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/07/news040.html": {
+    "title": "川崎重工が「AI-Readyな保全」提案、屋内位置情報で現場作業を丸ごと可視化",
+    "source": "MONOist_FA",
+    "published": "2026-07-07",
+    "first_seen_at": "2026-07-07T00:13:59.351864+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/07/news039.html": {
+    "title": "SAP×オムロン×アビーム、現場から経営までリアルタイムにつなぐ工場像を提案",
+    "source": "MONOist_FA",
+    "published": "2026-07-07",
+    "first_seen_at": "2026-07-07T00:13:59.351864+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/06/news057.html": {
+    "title": "インドで射出成形機の新工場が稼働、5年後に年産360台へ",
+    "source": "MONOist_FA",
+    "published": "2026-07-06",
+    "first_seen_at": "2026-07-07T00:13:59.351864+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105830/": {
+    "title": "アドバネット【産業オープンネット展 展示・デモ内容】",
+    "source": "オートメーション新聞",
+    "published": "2026-07-06",
+    "first_seen_at": "2026-07-07T00:13:59.351864+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105696/": {
+    "title": "パイオニクス、お役立ち情報サイト「パイオプラス」公開",
+    "source": "オートメーション新聞",
+    "published": "2026-07-06",
+    "first_seen_at": "2026-07-07T00:13:59.351864+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105988/": {
+    "title": "リトマス・オートメーション・ジャパン【産業オープンネット展 展示・デモ内容】",
+    "source": "オートメーション新聞",
+    "published": "2026-07-06",
+    "first_seen_at": "2026-07-07T00:13:59.351864+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105985/": {
+    "title": "リコーPFUコンピューティング【産業オープンネット展 展示・デモ内容】",
+    "source": "オートメーション新聞",
+    "published": "2026-07-06",
+    "first_seen_at": "2026-07-07T00:13:59.351864+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105827/": {
+    "title": "ICOP I.T.G.【産業オープンネット展 展示・デモ内容】",
+    "source": "オートメーション新聞",
+    "published": "2026-07-06",
+    "first_seen_at": "2026-07-07T00:13:59.351864+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105982/": {
+    "title": "Moxa Japan【産業オープンネット展 展示・デモ内容】",
+    "source": "オートメーション新聞",
+    "published": "2026-07-06",
+    "first_seen_at": "2026-07-07T00:13:59.351864+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105979/": {
+    "title": "Motionnet協会【産業オープンネット展 展示・デモ内容】",
+    "source": "オートメーション新聞",
+    "published": "2026-07-06",
+    "first_seen_at": "2026-07-07T00:13:59.351864+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105669/": {
+    "title": "新日本科学、鹿児島市の本社敷地にNHP実験施設を新設 投資金額は100億円",
+    "source": "オートメーション新聞",
+    "published": "2026-07-06",
+    "first_seen_at": "2026-07-07T00:13:59.351864+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105991/": {
+    "title": "リンクス【産業オープンネット展 展示・デモ内容】",
+    "source": "オートメーション新聞",
+    "published": "2026-07-06",
+    "first_seen_at": "2026-07-07T00:13:59.351864+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105849/": {
+    "title": "イーソル【産業オープンネット展 展示・デモ内容】",
+    "source": "オートメーション新聞",
+    "published": "2026-07-06",
+    "first_seen_at": "2026-07-07T00:13:59.351864+00:00"
   }
 }

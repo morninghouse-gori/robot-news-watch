@@ -3286,5 +3286,101 @@
     "source": "MONOist_FA",
     "published": "2026-07-07",
     "first_seen_at": "2026-07-08T00:02:44.807711+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1782736151-946517": {
+    "title": "2026.07.09 業務用の清掃ロボットを自社開発、サービスロボットのメーカーへ／アイリスオーヤマ アイリスオーヤマ（仙台市青葉区、大山晃弘社長）は７月１日、清掃ロボット「JILBY（ジルビー）」を発売した。売り切りではなく、ロボットを定額制で貸し出す「ロボテ……",
+    "source": "robot_digest_新着",
+    "published": "2026-07-09",
+    "first_seen_at": "2026-07-09T00:16:32.606656+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/09/news003.html": {
+    "title": "「モノづくり×研究」をどう教えるか 技術を社会に届けるために必要なこと",
+    "source": "MONOist_ロボット",
+    "published": "2026-07-09",
+    "first_seen_at": "2026-07-09T00:16:32.606656+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/09/news066.html": {
+    "title": "フィジカルAI搭載ロボットがモノポリーを実演、1台のPCにモーション制御も統合",
+    "source": "MONOist_ロボット",
+    "published": "2026-07-09",
+    "first_seen_at": "2026-07-09T00:16:32.606656+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/09/news057.html": {
+    "title": "製造業AI活用の鍵は「基盤整備」にあり、自律化工場に向けた4つのステップ",
+    "source": "MONOist_FA",
+    "published": "2026-07-09",
+    "first_seen_at": "2026-07-09T00:16:32.606656+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/08/news030.html": {
+    "title": "ソディックが新プラットフォームを提供、機械の設備監視と遠隔サポートを統合",
+    "source": "MONOist_FA",
+    "published": "2026-07-08",
+    "first_seen_at": "2026-07-09T00:16:32.606656+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/08/news029.html": {
+    "title": "自律型工場を支える実行アーキテクチャ、分析やAIトレーニングなど可能に",
+    "source": "MONOist_FA",
+    "published": "2026-07-08",
+    "first_seen_at": "2026-07-09T00:16:32.606656+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106173/": {
+    "title": "村田製作所、全製品を対象とした「製品情報管理APIサービス」開始 最新情報を提供",
+    "source": "オートメーション新聞",
+    "published": "2026-07-08",
+    "first_seen_at": "2026-07-09T00:16:32.606656+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106211/": {
+    "title": "オプテックス・エフエー、センサ営業部 京都中央営業所の移転とLED営業部 京都営業所開設",
+    "source": "オートメーション新聞",
+    "published": "2026-07-08",
+    "first_seen_at": "2026-07-09T00:16:32.606656+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106233/": {
+    "title": "アドバンテック、IEC 62443準拠の産業用シリアルデバイスサーバ「EKI-1526 V2」を発売 セキュリティと安定通信を強化",
+    "source": "オートメーション新聞",
+    "published": "2026-07-08",
+    "first_seen_at": "2026-07-09T00:16:32.606656+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105707/": {
+    "title": "日本製線、センコーアドバンスと光コネクタケーブルの国内製造で協業",
+    "source": "オートメーション新聞",
+    "published": "2026-07-08",
+    "first_seen_at": "2026-07-09T00:16:32.606656+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106007/": {
+    "title": "エニイワイヤ、「ASLINKSENSOR光電透過タイプ」発売 センシング性能を向上した",
+    "source": "オートメーション新聞",
+    "published": "2026-07-08",
+    "first_seen_at": "2026-07-09T00:16:32.606656+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106201/": {
+    "title": "安川電機、8/4と8/5にサーボドライブとコントローラの最新技術を紹介する無料WEBセミナー",
+    "source": "オートメーション新聞",
+    "published": "2026-07-08",
+    "first_seen_at": "2026-07-09T00:16:32.606656+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106238/": {
+    "title": "エニイワイヤ、省配線システム向け光電透過タイプセンサをリニューアル",
+    "source": "オートメーション新聞",
+    "published": "2026-07-08",
+    "first_seen_at": "2026-07-09T00:16:32.606656+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105704/": {
+    "title": "Moxa、IEC 62443-4-1の「Maturity Level 3」認証を2つの第三者機関から取得",
+    "source": "オートメーション新聞",
+    "published": "2026-07-08",
+    "first_seen_at": "2026-07-09T00:16:32.606656+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106281/": {
+    "title": "ミスミとDAIKO XTECH、テクノア、業務提携により生産管理システムとミスミ商品DBをAPI接続",
+    "source": "オートメーション新聞",
+    "published": "2026-07-08",
+    "first_seen_at": "2026-07-09T00:16:32.606656+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106277/": {
+    "title": "SEAJ、2026年度〜2028年度の日本製半導体・FPD製造装置需要予測 27年度に7兆円、28年度に８兆円規模に 半導体活況で大幅に上方修正",
+    "source": "オートメーション新聞",
+    "published": "2026-07-08",
+    "first_seen_at": "2026-07-09T00:16:32.606656+00:00"
   }
 }

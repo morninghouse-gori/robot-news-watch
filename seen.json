@@ -3478,5 +3478,101 @@
     "source": "オートメーション新聞",
     "published": "2026-07-09",
     "first_seen_at": "2026-07-10T00:10:24.779296+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1783393183-949404": {
+    "title": "2026.07.13 食品産業とロボットの相性は抜群【後編】／FOOMA JAPAN2026 ６月２日～５日の４日間、都内の東京ビッグサイトで「FOOMA JAPAN（フーマジャパン）2026」が開かれた。会期中に本州に台風が直撃した影響で４日間の総来場……",
+    "source": "robot_digest_新着",
+    "published": "2026-07-13",
+    "first_seen_at": "2026-07-12T23:59:56.347798+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/11/news020.html": {
+    "title": "三菱自がヒューマノイド参入 トヨタもAI学習強化、自動車メーカーの開発動向は",
+    "source": "MONOist_ロボット",
+    "published": "2026-07-11",
+    "first_seen_at": "2026-07-12T23:59:56.347798+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/13/news039.html": {
+    "title": "パナソニックが「エオリア」メイン工場のモノづくりを公開 巨大な実験室も披露",
+    "source": "MONOist_FA",
+    "published": "2026-07-13",
+    "first_seen_at": "2026-07-12T23:59:56.347798+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/13/news002.html": {
+    "title": "黄金期到来となるか―国家戦略のフードテック、日本の食産業の歴史的分岐点",
+    "source": "MONOist_FA",
+    "published": "2026-07-13",
+    "first_seen_at": "2026-07-12T23:59:56.347798+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/10/news057.html": {
+    "title": "AIエージェントのSMT工程改善分析サービス、熟練者依存を低下 東芝",
+    "source": "MONOist_FA",
+    "published": "2026-07-10",
+    "first_seen_at": "2026-07-12T23:59:56.347798+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/10/news045.html": {
+    "title": "高槻工場を増強、ロジウムめっき液の生産能力2倍に",
+    "source": "MONOist_FA",
+    "published": "2026-07-10",
+    "first_seen_at": "2026-07-12T23:59:56.347798+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106140/": {
+    "title": "ヤンマーエネルギーシステム、福岡県北九州市にデータセンター向け非常用発電システム新工場",
+    "source": "オートメーション新聞",
+    "published": "2026-07-12",
+    "first_seen_at": "2026-07-12T23:59:56.347798+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106011/": {
+    "title": "パトライト、電子音報知器「BD」発売 制御盤や装置組み込みに適した薄型",
+    "source": "オートメーション新聞",
+    "published": "2026-07-12",
+    "first_seen_at": "2026-07-12T23:59:56.347798+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106217/": {
+    "title": "SMC、ハンディサイズのポケットリークディテクタ「PLDシリーズ」発売 どこでもその場で手軽にエア漏れを確認",
+    "source": "オートメーション新聞",
+    "published": "2026-07-12",
+    "first_seen_at": "2026-07-12T23:59:56.347798+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106316/": {
+    "title": "タキロンシーアイ、兵庫県三田市に「三田総合研究所」をオープン",
+    "source": "オートメーション新聞",
+    "published": "2026-07-12",
+    "first_seen_at": "2026-07-12T23:59:56.347798+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106229/": {
+    "title": "SMC、メンブレン窒素発生器「NMGシリーズ」発売 圧縮空気の供給のみで高濃度窒素を発生",
+    "source": "オートメーション新聞",
+    "published": "2026-07-12",
+    "first_seen_at": "2026-07-12T23:59:56.347798+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106128/": {
+    "title": "マグネスケール、奈良県大和郡山市に先端半導体向けレーザスケール新工場「奈良事業所」を稼働",
+    "source": "オートメーション新聞",
+    "published": "2026-07-12",
+    "first_seen_at": "2026-07-12T23:59:56.347798+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105645/": {
+    "title": "日新電機、群馬県前橋市の計器用変成器工場を改修・増築 約36億円を投資",
+    "source": "オートメーション新聞",
+    "published": "2026-07-12",
+    "first_seen_at": "2026-07-12T23:59:56.347798+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106120/": {
+    "title": "白鶴酒造、兵庫県神戸市灘区に紙パック特化のボトリング工場「灘大石工場」を新設",
+    "source": "オートメーション新聞",
+    "published": "2026-07-11",
+    "first_seen_at": "2026-07-12T23:59:56.347798+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106225/": {
+    "title": "SICK、産業用ストリーミングカメラ「sensingCam SEC310」を発売 冷凍領域や過酷環境向け",
+    "source": "オートメーション新聞",
+    "published": "2026-07-11",
+    "first_seen_at": "2026-07-12T23:59:56.347798+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105747/": {
+    "title": "インタフェース、産業用コンピュータ「長期安心CDシリーズ」発売 新プロセッサ「Raptor Lake」搭載モデル",
+    "source": "オートメーション新聞",
+    "published": "2026-07-11",
+    "first_seen_at": "2026-07-12T23:59:56.347798+00:00"
   }
 }

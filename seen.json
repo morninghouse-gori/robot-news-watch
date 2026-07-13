@@ -3574,5 +3574,89 @@
     "source": "オートメーション新聞",
     "published": "2026-07-11",
     "first_seen_at": "2026-07-12T23:59:56.347798+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1783320149-083539": {
+    "title": "2026.07.14 大阪を舞台に個性際立つ製品を提案／関西ロボットワールド2026 ６月25日と26日の２日間、大阪市住之江区のインテックス大阪で「サービスロボット展」「産業用ロボット展」「次世代モビリティ展」「宇宙開発ビジネス展」の４つの展示……",
+    "source": "robot_digest_新着",
+    "published": "2026-07-14",
+    "first_seen_at": "2026-07-13T23:57:39.590418+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/14/news047.html": {
+    "title": "フィジカルAIで柔軟物体ハンドリング実証、安川電機とソフトバンク",
+    "source": "MONOist_ロボット",
+    "published": "2026-07-14",
+    "first_seen_at": "2026-07-13T23:57:39.590418+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/14/news044.html": {
+    "title": "AI活用の混載品パレットピッキングシステム構築、大成建設とファナック",
+    "source": "MONOist_FA",
+    "published": "2026-07-14",
+    "first_seen_at": "2026-07-13T23:57:39.590418+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/14/news057.html": {
+    "title": "TSMCの“Beyond 2nm”技術の現在地、「A14」で第2世代ナノシートトランジスタへ",
+    "source": "MONOist_FA",
+    "published": "2026-07-14",
+    "first_seen_at": "2026-07-13T23:57:39.590418+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/13/news033.html": {
+    "title": "RS-422A、RS-485準拠のCOMポートを増設するシリアル通信モジュール",
+    "source": "MONOist_FA",
+    "published": "2026-07-13",
+    "first_seen_at": "2026-07-13T23:57:39.590418+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106015/": {
+    "title": "安川電機、衛生環境用ロボット「MOTOMAN-HD7/HD8」発売 薬品や小物容器の搬送自動化に",
+    "source": "オートメーション新聞",
+    "published": "2026-07-13",
+    "first_seen_at": "2026-07-13T23:57:39.590418+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106137/": {
+    "title": "四国塗装工業、香川県坂出市に金属塗装の新工場を建設",
+    "source": "オートメーション新聞",
+    "published": "2026-07-13",
+    "first_seen_at": "2026-07-13T23:57:39.590418+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106156/": {
+    "title": "キーエンス、PLC「KV-Xシリーズ」に産業用ロボット向け「Robot Library」機能追加",
+    "source": "オートメーション新聞",
+    "published": "2026-07-13",
+    "first_seen_at": "2026-07-13T23:57:39.590418+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105722/": {
+    "title": "たけびし、7/16・17に京都本社で「たけびしソリューションフェア2026」開催",
+    "source": "オートメーション新聞",
+    "published": "2026-07-13",
+    "first_seen_at": "2026-07-13T23:57:39.590418+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106181/": {
+    "title": "カナデン、5本指のロボットハンド「Realhand」製品の国内代理店契約を獲得",
+    "source": "オートメーション新聞",
+    "published": "2026-07-13",
+    "first_seen_at": "2026-07-13T23:57:39.590418+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106023/": {
+    "title": "キーエンス、組み込み機器テスト支援システム「TC-3000シリーズ」発売 開発序盤からリリースまでのテスト不足を解消",
+    "source": "オートメーション新聞",
+    "published": "2026-07-13",
+    "first_seen_at": "2026-07-13T23:57:39.590418+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105755/": {
+    "title": "ターク・ジャパン、分散型ローラモータコントローラ「TBEN-LL-4RMCシリーズ」にIO-Link対応と24/48V対応モデル追加",
+    "source": "オートメーション新聞",
+    "published": "2026-07-13",
+    "first_seen_at": "2026-07-13T23:57:39.590418+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/105650/": {
+    "title": "ダイフク、滋賀事業所に半導体搬送システムの新工場棟を竣工 生産能力を従来比1.3倍へ",
+    "source": "オートメーション新聞",
+    "published": "2026-07-13",
+    "first_seen_at": "2026-07-13T23:57:39.590418+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106207/": {
+    "title": "日東工業、8/20に愛知県瀬戸市で中高生女子向け「Girls Meet STEM」を開催",
+    "source": "オートメーション新聞",
+    "published": "2026-07-13",
+    "first_seen_at": "2026-07-13T23:57:39.590418+00:00"
   }
 }

@@ -3748,5 +3748,107 @@
     "source": "オートメーション新聞",
     "published": "2026-07-14",
     "first_seen_at": "2026-07-14T23:56:36.698578+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1781771129-111724": {
+    "title": "連載 2026.07.16 ［連載コラム：いまさら聞けないキーワード］vol.17 デジタルツイン 最近よく聞く言葉だけど、「それどんな意味？」と聞かれたら自信を持っては答えにくい――。そんな言葉はありませんか？ 連載コラム「いまさら聞けないキーワード」では、……",
+    "source": "robot_digest_新着",
+    "published": "2026-07-16",
+    "first_seen_at": "2026-07-16T00:03:01.316515+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/16/news052.html": {
+    "title": "NVIDIAが「Jetson Thor」に新モジュール追加、高騰するメモリの使用量削減技術も",
+    "source": "MONOist_ロボット",
+    "published": "2026-07-16",
+    "first_seen_at": "2026-07-16T00:03:01.316515+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/16/news044.html": {
+    "title": "「この部品仕分けして」でロボットが自律的動作、安川電機が生成AIとの連携で",
+    "source": "MONOist_ロボット",
+    "published": "2026-07-16",
+    "first_seen_at": "2026-07-16T00:03:01.316515+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/15/news061.html": {
+    "title": "酸素供給スーツで3時間潜水するサイボーグ昆虫",
+    "source": "MONOist_ロボット",
+    "published": "2026-07-15",
+    "first_seen_at": "2026-07-16T00:03:01.316515+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/15/news008.html": {
+    "title": "3人のヒットメーカーが語る、“遊び心”を価値に変えるモノづくりの方程式【予告動画あり】",
+    "source": "MONOist_ロボット",
+    "published": "2026-07-15",
+    "first_seen_at": "2026-07-16T00:03:01.316515+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/16/news026.html": {
+    "title": "DMG森精機、最大生産拠点の現場デジタル化と工程集約",
+    "source": "MONOist_FA",
+    "published": "2026-07-16",
+    "first_seen_at": "2026-07-16T00:03:01.316515+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/15/news053.html": {
+    "title": "ゼロデイ検知率最大99.9％の拡張機能を発売、重要インフラ向けサイバー防御",
+    "source": "MONOist_FA",
+    "published": "2026-07-15",
+    "first_seen_at": "2026-07-16T00:03:01.316515+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106346/": {
+    "title": "三菱電機、インフォステラを完全子会社化し宇宙通信インフラを強化",
+    "source": "オートメーション新聞",
+    "published": "2026-07-15",
+    "first_seen_at": "2026-07-16T00:03:01.316515+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106343/": {
+    "title": "三菱電機、ホイスト・ギヤードモータ事業の三菱電機FA産業機器の株式70%をKonecranesへ譲渡",
+    "source": "オートメーション新聞",
+    "published": "2026-07-15",
+    "first_seen_at": "2026-07-16T00:03:01.316515+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106019/": {
+    "title": "倉茂電工、シングルペアイーサネットケーブル「KETH-SPE」発売 シングルペアで最長１０００mの長距離伝送に対応",
+    "source": "オートメーション新聞",
+    "published": "2026-07-15",
+    "first_seen_at": "2026-07-16T00:03:01.316515+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106469/": {
+    "title": "パナソニック インダストリー、用途最適タイプでモーション事業を強化 半導体製造プロセスに最適化したサーボアンプ 産業オープンネット展で披露",
+    "source": "オートメーション新聞",
+    "published": "2026-07-15",
+    "first_seen_at": "2026-07-16T00:03:01.316515+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106466/": {
+    "title": "オムロン、生産性や専門性を強化する新会社「オムロン プロフェッショナルネクサス」設立",
+    "source": "オートメーション新聞",
+    "published": "2026-07-15",
+    "first_seen_at": "2026-07-16T00:03:01.316515+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106460/": {
+    "title": "ロックウェルオートメーション、「スマートマニュファクチャリング報告書2026」日本はAI導入に積極的も、スピード感に課題 組織と人、データの壁壊せ",
+    "source": "オートメーション新聞",
+    "published": "2026-07-15",
+    "first_seen_at": "2026-07-16T00:03:01.316515+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106400/": {
+    "title": "中西電機工業、創業者・名誉会長 中西政男氏 死去 89歳",
+    "source": "オートメーション新聞",
+    "published": "2026-07-15",
+    "first_seen_at": "2026-07-16T00:03:01.316515+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106453/": {
+    "title": "国際ロボット連盟、新会長にジェーン・ヘフナー氏（テラダイン・ロボティクス）",
+    "source": "オートメーション新聞",
+    "published": "2026-07-15",
+    "first_seen_at": "2026-07-16T00:03:01.316515+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106457/": {
+    "title": "日本工作機械工業会、工作機械受注速報2026年6月 史上初の2000億円突破 外需は歴代最高額を更新",
+    "source": "オートメーション新聞",
+    "published": "2026-07-15",
+    "first_seen_at": "2026-07-16T00:03:01.316515+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106450/": {
+    "title": "もう一度「現場改善」に光を当てよう AI×改善は人手不足解消の最強の武器になる",
+    "source": "オートメーション新聞",
+    "published": "2026-07-15",
+    "first_seen_at": "2026-07-16T00:03:01.316515+00:00"
   }
 }

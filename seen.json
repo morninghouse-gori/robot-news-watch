@@ -3850,5 +3850,89 @@
     "source": "オートメーション新聞",
     "published": "2026-07-15",
     "first_seen_at": "2026-07-16T00:03:01.316515+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1783927284-643565": {
+    "title": "2026.07.17 スカラロボットの高生産性モデルを受注開始／エプソン販売 セイコーエプソン製品の国内販売を担うエプソン販売（東京都新宿区、栗林治夫社長）は６月26日、水平多関節（スカラ）ロボットの高生産性モデル「LS4-C」の受注を開……",
+    "source": "robot_digest_新着",
+    "published": "2026-07-17",
+    "first_seen_at": "2026-07-17T00:02:16.170645+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1784167217-755279": {
+    "title": "2026.07.16 MOTOMAN NEXTと生成AIを一体化、「エージェンティック・ロボットシステム」を開発…… 安川電機は７月15日、人工知能（AI）用の処理装置を標準搭載する産業用ロボット「MOTOMAN NEXT（モートマンネクスト）」と、英国Google Deep……",
+    "source": "robot_digest_新着",
+    "published": "2026-07-16",
+    "first_seen_at": "2026-07-17T00:02:16.170645+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/17/news047.html": {
+    "title": "検査装置が「考える」時代へ オムロンがNVIDIAとの協業で広げるAI検査の新技術",
+    "source": "MONOist_FA",
+    "published": "2026-07-17",
+    "first_seen_at": "2026-07-17T00:02:16.170645+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/16/news050.html": {
+    "title": "自動化進展で保全業務の負荷高まるも人員未拡充、実態調査で判明",
+    "source": "MONOist_FA",
+    "published": "2026-07-16",
+    "first_seen_at": "2026-07-17T00:02:16.170645+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/16/news048.html": {
+    "title": "フィジカルAI時代における日本のロボットメーカーの取り組み",
+    "source": "MONOist_FA",
+    "published": "2026-07-16",
+    "first_seen_at": "2026-07-17T00:02:16.170645+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106365/": {
+    "title": "マブチモーター、マブチマイクロテック製品のオンラインショップ販売を開始",
+    "source": "オートメーション新聞",
+    "published": "2026-07-16",
+    "first_seen_at": "2026-07-17T00:02:16.170645+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106403/": {
+    "title": "シュマルツ、移動式真空バランサー「JumboFlex Mobile」にバッテリータイプ追加",
+    "source": "オートメーション新聞",
+    "published": "2026-07-16",
+    "first_seen_at": "2026-07-17T00:02:16.170645+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106350/": {
+    "title": "三菱電機、「こんなところに三菱電機」動画公開 ソフトクリーム総合メーカー 日世 篇",
+    "source": "オートメーション新聞",
+    "published": "2026-07-16",
+    "first_seen_at": "2026-07-17T00:02:16.170645+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106369/": {
+    "title": "steute、米国のセンサメーカー・エレクトロセンサーズを買収",
+    "source": "オートメーション新聞",
+    "published": "2026-07-16",
+    "first_seen_at": "2026-07-17T00:02:16.170645+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106442/": {
+    "title": "ターク・ジャパン、インテリジェント産業用AIカメラ「TIV12MG-Q110N」発売 ライセンス不要のオールインワンAI画像検査",
+    "source": "オートメーション新聞",
+    "published": "2026-07-16",
+    "first_seen_at": "2026-07-17T00:02:16.170645+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106434/": {
+    "title": "オムロン、機械安全設計を支援するWEBアプリ「Machine Safety Design Hub MS1」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-07-16",
+    "first_seen_at": "2026-07-17T00:02:16.170645+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106430/": {
+    "title": "オムロン、プログラマブルターミナル「NAシリーズ（-V2）」発売 設計効率化とバッテリレス運用を実現",
+    "source": "オートメーション新聞",
+    "published": "2026-07-16",
+    "first_seen_at": "2026-07-17T00:02:16.170645+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106413/": {
+    "title": "SMC、標準形エアシリンダに角形チューブ形「MBP2シリーズ」発売 耐久性3倍とCO2排出量削減を実現",
+    "source": "オートメーション新聞",
+    "published": "2026-07-16",
+    "first_seen_at": "2026-07-17T00:02:16.170645+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106409/": {
+    "title": "ダイトロン、Eaton製UPS「9PX 2400RTJ」発売 AIエッジ端末に最適",
+    "source": "オートメーション新聞",
+    "published": "2026-07-16",
+    "first_seen_at": "2026-07-17T00:02:16.170645+00:00"
   }
 }

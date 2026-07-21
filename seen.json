@@ -4018,5 +4018,119 @@
     "source": "MONOist_ロボット",
     "published": "2026-07-21",
     "first_seen_at": "2026-07-21T00:00:35.967883+00:00"
+  },
+  "https://newswitch.jp/p/49793": {
+    "title": "AI、インフラ全体自律化…日立がエヌビディアとの協業で目指すモノ",
+    "source": "ニュースイッチ_産業用ロボット",
+    "published": "不明",
+    "first_seen_at": "2026-07-21T23:58:52.167337+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1783565992-054973": {
+    "title": "2026.07.22 フィジカルAIで自動化領域を広げ、製造業への参入強化／NTTデータグループ NTTデータグループ（東京都江東区、中山和彦社長）が製造業の課題解決に向け、生産現場での自動化実証を次々と進めている。国内トップクラスのITサービス企業である同……",
+    "source": "robot_digest_新着",
+    "published": "2026-07-22",
+    "first_seen_at": "2026-07-21T23:58:52.167337+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/21/news060.html": {
+    "title": "ヒューマノイドロボットの共同開発と量産化に向けた基本合意書を締結",
+    "source": "MONOist_ロボット",
+    "published": "2026-07-21",
+    "first_seen_at": "2026-07-21T23:58:52.167337+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/22/news054.html": {
+    "title": "矢崎総業がイノベーション拠点を公開、労働集約型モノづくりのスマート化に向け",
+    "source": "MONOist_FA",
+    "published": "2026-07-22",
+    "first_seen_at": "2026-07-21T23:58:52.167337+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/22/news039.html": {
+    "title": "銅や希少金属をエッチング廃液から回収！ 新しい「排水処理／資源回収事業」",
+    "source": "MONOist_FA",
+    "published": "2026-07-22",
+    "first_seen_at": "2026-07-21T23:58:52.167337+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/22/news045.html": {
+    "title": "現場で動き続けるAIを社会へ──富士ソフトはフィジカルAIなど3つのAI領域に注力",
+    "source": "MONOist_FA",
+    "published": "2026-07-22",
+    "first_seen_at": "2026-07-21T23:58:52.167337+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/22/news004.html": {
+    "title": "データだけ見ても人は動かない ヤマ発製造DXの失敗が生んだ現場サイエンティスト",
+    "source": "MONOist_FA",
+    "published": "2026-07-22",
+    "first_seen_at": "2026-07-21T23:58:52.167337+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/21/news045.html": {
+    "title": "耐環境リモートI/Oに－25～＋75℃対応製品追加、デジタル入出力／シリアル",
+    "source": "MONOist_FA",
+    "published": "2026-07-21",
+    "first_seen_at": "2026-07-21T23:58:52.167337+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/21/news023.html": {
+    "title": "動き出したファナックの「フィジカルAI」",
+    "source": "MONOist_FA",
+    "published": "2026-07-21",
+    "first_seen_at": "2026-07-21T23:58:52.167337+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106313/": {
+    "title": "東プレ、愛知県田原市に自動車用プレス部品の新工場を建設",
+    "source": "オートメーション新聞",
+    "published": "2026-07-21",
+    "first_seen_at": "2026-07-21T23:58:52.167337+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106383/": {
+    "title": "ロックウェルオートメーション、7/30名古屋で「自律型工場へのステップ」セミナー開催",
+    "source": "オートメーション新聞",
+    "published": "2026-07-21",
+    "first_seen_at": "2026-07-21T23:58:52.167337+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106390/": {
+    "title": "安川電機、スロベニア・コチェービエ市に物流施設を新設 生産拠点を移転拡張",
+    "source": "オートメーション新聞",
+    "published": "2026-07-21",
+    "first_seen_at": "2026-07-21T23:58:52.167337+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106327/": {
+    "title": "村田製作所、島根県出雲市の出雲村田製作所で積層セラミックコンデンサの新生産棟を竣工",
+    "source": "オートメーション新聞",
+    "published": "2026-07-21",
+    "first_seen_at": "2026-07-21T23:58:52.167337+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106497/": {
+    "title": "【オートメーション新聞 No.453】フィジカルAI本格化へ 国産AI開発や社会実装に活発な動き Noetra、富士通、日立 / 兵神装備 × HMS、老舗ポンプメーカーが挑むデータ活用 など（2026年7月22日発行）",
+    "source": "オートメーション新聞",
+    "published": "2026-07-21",
+    "first_seen_at": "2026-07-21T23:58:52.167337+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106301/": {
+    "title": "Green Energy Frontier、千葉県成田市に中央受配電所「Central Power Substation」を着工",
+    "source": "オートメーション新聞",
+    "published": "2026-07-20",
+    "first_seen_at": "2026-07-21T23:58:52.167337+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106362/": {
+    "title": "TURCK、サイバーセキュリティ規格IEC 62443-4-1の認証取得",
+    "source": "オートメーション新聞",
+    "published": "2026-07-20",
+    "first_seen_at": "2026-07-21T23:58:52.167337+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106511/": {
+    "title": "日立製作所、NVIDIAとフィジカルAIの統合制御に向け協業開始",
+    "source": "オートメーション新聞",
+    "published": "2026-07-20",
+    "first_seen_at": "2026-07-21T23:58:52.167337+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106320/": {
+    "title": "オークラ輸送機、兵庫県加古川市に新たな研究開発拠点「MIRAIラボ」を建設",
+    "source": "オートメーション新聞",
+    "published": "2026-07-20",
+    "first_seen_at": "2026-07-21T23:58:52.167337+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106305/": {
+    "title": "三菱電線工業、埼玉県熊谷市に次世代シール事業の中核拠点「熊谷第二工場」を竣工",
+    "source": "オートメーション新聞",
+    "published": "2026-07-20",
+    "first_seen_at": "2026-07-21T23:58:52.167337+00:00"
   }
 }

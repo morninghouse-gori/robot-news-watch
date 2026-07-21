@@ -4006,5 +4006,17 @@
     "source": "オートメーション新聞",
     "published": "2026-07-17",
     "first_seen_at": "2026-07-20T02:57:16.797366+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1784190574-975228": {
+    "title": "2026.07.21 エレベーターと連携可能な清掃ロボットを発売／アマノ アマノ株式会社は７月16日、業務用ロボット掃除機「RAPiiTT（ラピット）」を発売した。エレベーターやセキュリティーシステムと連携し、複数フロアを自律移動しな……",
+    "source": "robot_digest_新着",
+    "published": "2026-07-21",
+    "first_seen_at": "2026-07-21T00:00:35.967883+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/17/news114.html": {
+    "title": "次なる産業革命へ、トップはかく語りき NVIDIA／富士通／ファナック／安川／川重",
+    "source": "MONOist_ロボット",
+    "published": "2026-07-21",
+    "first_seen_at": "2026-07-21T00:00:35.967883+00:00"
   }
 }

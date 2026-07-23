@@ -4132,5 +4132,95 @@
     "source": "オートメーション新聞",
     "published": "2026-07-20",
     "first_seen_at": "2026-07-21T23:58:52.167337+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1784266283-804893": {
+    "title": "2026.07.23 金属３Dプリントロボットやトリプテロン方式ロボットなどに脚光 ７月１日～３日の３日間、都内の東京ビッグサイトで「第38回ものづくりワールド東京」が開催された。機械要素技術展や設計・製造ソリューション展など多数の展示会を合同……",
+    "source": "robot_digest_新着",
+    "published": "2026-07-23",
+    "first_seen_at": "2026-07-23T00:04:29.820176+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/23/news022.html": {
+    "title": "超低温環境も対応、AIと専門家がタッグ組む回転機器予知保全ソリューション",
+    "source": "MONOist_FA",
+    "published": "2026-07-23",
+    "first_seen_at": "2026-07-23T00:04:29.820176+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/23/news028.html": {
+    "title": "三菱電機とソニーセミコンがAIビジョンセンサーで協業、自律化へ現場の可視化加速",
+    "source": "MONOist_FA",
+    "published": "2026-07-23",
+    "first_seen_at": "2026-07-23T00:04:29.820176+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/23/news008.html": {
+    "title": "旋盤や クルクル切粉 輝いて――製造業“あるある”かるた【さ行】絵札公開!!",
+    "source": "MONOist_FA",
+    "published": "2026-07-23",
+    "first_seen_at": "2026-07-23T00:04:29.820176+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/22/news016.html": {
+    "title": "最高速度1.5倍、定格推力9倍以上向上 リニアモーターテーブルの新製品",
+    "source": "MONOist_FA",
+    "published": "2026-07-22",
+    "first_seen_at": "2026-07-23T00:04:29.820176+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106523/": {
+    "title": "壬生電機製作所、ドアスイッチ一体型の盤用LED照明ユニット「MLS-100GM-DS /GL-DS」発売 取付工数と部材調達の手間を削減",
+    "source": "オートメーション新聞",
+    "published": "2026-07-22",
+    "first_seen_at": "2026-07-23T00:04:29.820176+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106555/": {
+    "title": "パナソニック インダストリー、EV充電器向け小型・高容量パワーリレー「HE-SリレーSCタイプ」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-07-22",
+    "first_seen_at": "2026-07-23T00:04:29.820176+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106626/": {
+    "title": "安川電機、2027年2月期1Q決算、半導体需要好調も基幹システム移行等で増収減益",
+    "source": "オートメーション新聞",
+    "published": "2026-07-22",
+    "first_seen_at": "2026-07-23T00:04:29.820176+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106309/": {
+    "title": "OKI、静岡県沼津市の沼津工場に新棟を建設 防衛事業の生産基盤を強化",
+    "source": "オートメーション新聞",
+    "published": "2026-07-22",
+    "first_seen_at": "2026-07-23T00:04:29.820176+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106531/": {
+    "title": "シーシーエス、光沢体や透明体の外観検査に向けた「二軸位相シフト照明」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-07-22",
+    "first_seen_at": "2026-07-23T00:04:29.820176+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106514/": {
+    "title": "国内大手44社出資のAI開発会社Noetra始動 国産AIモデル開発が本格的始動 日本発フィジカルAIの強化へ",
+    "source": "オートメーション新聞",
+    "published": "2026-07-22",
+    "first_seen_at": "2026-07-23T00:04:29.820176+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106606/": {
+    "title": "シュマルツ、真空グリッパー導入支援キャンペーン 特別価格で提供中",
+    "source": "オートメーション新聞",
+    "published": "2026-07-22",
+    "first_seen_at": "2026-07-23T00:04:29.820176+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106618/": {
+    "title": "CC-Link協会、7/24東京、と2027年1/22大阪で「CC-Link IE TSN開発者セミナー」開催",
+    "source": "オートメーション新聞",
+    "published": "2026-07-22",
+    "first_seen_at": "2026-07-23T00:04:29.820176+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106507/": {
+    "title": "サンセイテクノス、14年ぶりのプライベート展を大阪で開催 電気からメカまで幅広い取り扱いをPR",
+    "source": "オートメーション新聞",
+    "published": "2026-07-22",
+    "first_seen_at": "2026-07-23T00:04:29.820176+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106502/": {
+    "title": "富士通、ファナックと安川電機、川崎重工とフィジカルAIの社会実装に向けた事業検討を開始",
+    "source": "オートメーション新聞",
+    "published": "2026-07-22",
+    "first_seen_at": "2026-07-23T00:04:29.820176+00:00"
   }
 }

@@ -4222,5 +4222,89 @@
     "source": "オートメーション新聞",
     "published": "2026-07-22",
     "first_seen_at": "2026-07-23T00:04:29.820176+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1784788803-295503": {
+    "title": "2026.07.24 受注額、生産額は３四半期連続で過去最高値を更新／日本ロボット工業会 日本ロボット工業会（JARA、会長・小川昌寛安川電機副会長執行役員）は７月23日、2026年第２四半期（４～６月期）の会員ベースの産業用ロボットの受注額や生産額……",
+    "source": "robot_digest_新着",
+    "published": "2026-07-24",
+    "first_seen_at": "2026-07-24T00:04:59.903023+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1784689453-662145": {
+    "title": "2026.07.24 国産のAIロボティクス・フィジカルAI基盤の開発が始動、大手製造業やロボットメーカーなど4…… Noetra（ノエトラ、東京都渋谷区、丹波広寅社長）と同社に出資する中核企業のソニーグループ、ソフトバンク、NEC、ホンダは７月16日、人工知能（AI）ロボット……",
+    "source": "robot_digest_新着",
+    "published": "2026-07-24",
+    "first_seen_at": "2026-07-24T00:04:59.903023+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/24/news055.html": {
+    "title": "インフィニオンのヒューマノイド向け半導体戦略、2050年に3億台の市場を捉える",
+    "source": "MONOist_ロボット",
+    "published": "2026-07-24",
+    "first_seen_at": "2026-07-24T00:04:59.903023+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/24/news006.html": {
+    "title": "見えない仕事を可視化する「自己申告法」と間接業務を効率化する「帳票分析法」",
+    "source": "MONOist_FA",
+    "published": "2026-07-24",
+    "first_seen_at": "2026-07-24T00:04:59.903023+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/24/news021.html": {
+    "title": "判定はエッジAIで完結／既存カメラをAI化、TDKの産業用ソリューション",
+    "source": "MONOist_FA",
+    "published": "2026-07-24",
+    "first_seen_at": "2026-07-24T00:04:59.903023+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/23/news018.html": {
+    "title": "インドでの半導体材料工場建設へ、富士フイルムが現地政府とMoU締結",
+    "source": "MONOist_FA",
+    "published": "2026-07-23",
+    "first_seen_at": "2026-07-24T00:04:59.903023+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106562/": {
+    "title": "安川電機、Google DeepMindのAIと連携した「エージェンティック・ロボットシステム」開発 自然言語で指示するだけで自律的に作業",
+    "source": "オートメーション新聞",
+    "published": "2026-07-23",
+    "first_seen_at": "2026-07-24T00:04:59.903023+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106559/": {
+    "title": "BALLUFF、フォークセンサ「BGLエントリーシリーズ」発売機能を最適化したベーシックモデル",
+    "source": "オートメーション新聞",
+    "published": "2026-07-23",
+    "first_seen_at": "2026-07-24T00:04:59.903023+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106527/": {
+    "title": "竹中電子工業、小型・機器組込用の新型光電子センサ「GNAシリーズ」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-07-23",
+    "first_seen_at": "2026-07-24T00:04:59.903023+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106539/": {
+    "title": "オートニクス、厚さ3.7mmの超薄型光電センサ「BTFシリーズ」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-07-23",
+    "first_seen_at": "2026-07-24T00:04:59.903023+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106535/": {
+    "title": "エプソン販売、スカラロボット「LS-Cシリーズ」発売 生産性と拡張性を向上",
+    "source": "オートメーション新聞",
+    "published": "2026-07-23",
+    "first_seen_at": "2026-07-24T00:04:59.903023+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106610/": {
+    "title": "パナソニック インダストリー、7/24にPhotoMOSリレー選定と設計の注意点を解説するWEBセミナー",
+    "source": "オートメーション新聞",
+    "published": "2026-07-23",
+    "first_seen_at": "2026-07-24T00:04:59.903023+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106622/": {
+    "title": "アドバンテック、8/28東京・秋葉原で「Edge AI Day 2026」開催",
+    "source": "オートメーション新聞",
+    "published": "2026-07-23",
+    "first_seen_at": "2026-07-24T00:04:59.903023+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106520/": {
+    "title": "令和の販売員心得 黒川想介",
+    "source": "オートメーション新聞",
+    "published": "2026-07-23",
+    "first_seen_at": "2026-07-24T00:04:59.903023+00:00"
   }
 }

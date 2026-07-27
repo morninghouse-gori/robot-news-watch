@@ -4306,5 +4306,95 @@
     "source": "オートメーション新聞",
     "published": "2026-07-23",
     "first_seen_at": "2026-07-24T00:04:59.903023+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1783661362-029596": {
+    "title": "2026.07.27 [注目製品PickUp!vol.95]自作キットの思想を具現化したAMR／Keigan「H…… Keigan（ケイガン、京都府精華町、徳田貴司社長）は「Keigan ALI（アリ）」に次ぐ新たな自律搬送ロボット（AMR）として「HAUVIL（ホーヴィル） ……",
+    "source": "robot_digest_新着",
+    "published": "2026-07-27",
+    "first_seen_at": "2026-07-27T00:05:15.257161+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/27/news032.html": {
+    "title": "機械業界の他社けん制力ランキング2025発表",
+    "source": "MONOist_FA",
+    "published": "2026-07-27",
+    "first_seen_at": "2026-07-27T00:05:15.257161+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/27/news001.html": {
+    "title": "CPS防御はどこから始めるべきか―設計・運用で実現する現実解",
+    "source": "MONOist_FA",
+    "published": "2026-07-27",
+    "first_seen_at": "2026-07-27T00:05:15.257161+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/25/news008.html": {
+    "title": "さらばDX、「AX」時代へ――NECやソニーセミコン描くAI自律化最前線",
+    "source": "MONOist_FA",
+    "published": "2026-07-25",
+    "first_seen_at": "2026-07-27T00:05:15.257161+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/24/news007.html": {
+    "title": "半導体計測装置の保守体制強化、サービスエンジニア向け教育拠点を開設",
+    "source": "MONOist_FA",
+    "published": "2026-07-24",
+    "first_seen_at": "2026-07-27T00:05:15.257161+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106566/": {
+    "title": "不二電機工業、断路端子台「TDH形」を「TDHA形」へリニューアル レール中間脱着機能を追加",
+    "source": "オートメーション新聞",
+    "published": "2026-07-26",
+    "first_seen_at": "2026-07-27T00:05:15.257161+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106602/": {
+    "title": "日本トムソン、欧米市場での対応力強化に向け米国と欧州にR&Dセンターを開設",
+    "source": "オートメーション新聞",
+    "published": "2026-07-26",
+    "first_seen_at": "2026-07-27T00:05:15.257161+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106599/": {
+    "title": "島津製作所、チェコの電子顕微鏡メーカーTESCAN社を完全子会社化",
+    "source": "オートメーション新聞",
+    "published": "2026-07-26",
+    "first_seen_at": "2026-07-27T00:05:15.257161+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106663/": {
+    "title": "力の源ホールディングス、福岡県糠屋郡に新工場兼店舗を建設",
+    "source": "オートメーション新聞",
+    "published": "2026-07-26",
+    "first_seen_at": "2026-07-27T00:05:15.257161+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106651/": {
+    "title": "エア・リキード、広島県に半導体製造向け産業ガスプラント2基を建設 AI用半導体チップ増産支援",
+    "source": "オートメーション新聞",
+    "published": "2026-07-26",
+    "first_seen_at": "2026-07-27T00:05:15.257161+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106647/": {
+    "title": "日本ゼオン、山口県周南市の徳山工場で単層カーボンナノチューブの生産能力増強",
+    "source": "オートメーション新聞",
+    "published": "2026-07-26",
+    "first_seen_at": "2026-07-27T00:05:15.257161+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106578/": {
+    "title": "安川電機、ソフトバンクとフィジカルAIを活用し柔軟な物体のハンドリングシステムを実証",
+    "source": "オートメーション新聞",
+    "published": "2026-07-25",
+    "first_seen_at": "2026-07-27T00:05:15.257161+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106659/": {
+    "title": "日本製鉄、九州製鉄所八幡地区で「大型電炉」へのプロセス転換工事に着工",
+    "source": "オートメーション新聞",
+    "published": "2026-07-25",
+    "first_seen_at": "2026-07-27T00:05:15.257161+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106640/": {
+    "title": "近鉄不動産、奈良県吉野郡大淀町にトマトジュース工場を新設",
+    "source": "オートメーション新聞",
+    "published": "2026-07-25",
+    "first_seen_at": "2026-07-27T00:05:15.257161+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106543/": {
+    "title": "コガネイ、I/Oターミナル「YS9」シリーズ発売 M12コネクタとIP65/67準拠で盤外設置に対応",
+    "source": "オートメーション新聞",
+    "published": "2026-07-24",
+    "first_seen_at": "2026-07-27T00:05:15.257161+00:00"
   }
 }

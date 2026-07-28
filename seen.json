@@ -4396,5 +4396,65 @@
     "source": "オートメーション新聞",
     "published": "2026-07-24",
     "first_seen_at": "2026-07-27T00:05:15.257161+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1784795960-647352": {
+    "title": "2026.07.28 信州大学内に「ロボラボ」を設立、産学連携で「新材料の作り方を作る」 信州大学は７月２日、長野県内の松本キャンパスで「ロボラボ統合無機材料開発コンソーシアム構想 産学共創セッション」を開催した。産学連携で新たな無機材料を研究するコ……",
+    "source": "robot_digest_新着",
+    "published": "2026-07-28",
+    "first_seen_at": "2026-07-28T00:05:32.289061+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/28/news001.html": {
+    "title": "マツダが挑む設備保全DX、AIやIoTで自動車工場内火力発電所の現地点検ゼロへ",
+    "source": "MONOist_FA",
+    "published": "2026-07-28",
+    "first_seen_at": "2026-07-28T00:05:32.289061+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/27/news010.html": {
+    "title": "動的環境下でも安定検出するIO-Link対応ダイナミック傾斜センサー",
+    "source": "MONOist_FA",
+    "published": "2026-07-27",
+    "first_seen_at": "2026-07-28T00:05:32.289061+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/27/news011.html": {
+    "title": "スマホ映像から最短1分で高精細3Dモデル、NECが生成技術を開発",
+    "source": "MONOist_FA",
+    "published": "2026-07-27",
+    "first_seen_at": "2026-07-28T00:05:32.289061+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106574/": {
+    "title": "三菱電機、金属腐食センサー技術をKOAへライセンス供与 硫化反応チップとして一般販売",
+    "source": "オートメーション新聞",
+    "published": "2026-07-27",
+    "first_seen_at": "2026-07-28T00:05:32.289061+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106596/": {
+    "title": "岩崎通信機とグラフテック、計測機器事業を統合し新会社「グラフテック岩通計測」設立",
+    "source": "オートメーション新聞",
+    "published": "2026-07-27",
+    "first_seen_at": "2026-07-28T00:05:32.289061+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106713/": {
+    "title": "【オートメーション新聞 No.454】世界をリードする先進的な工場「Lighthouse」2026年は新たに16工場追加 / 【FAトップインタビュー】RYODEN 「販売代理店」から「共創のソリューションパートナー」へ / ワゴジャパン 産業用メディアコンバータ 新発売（2026年7月29日発行）",
+    "source": "オートメーション新聞",
+    "published": "2026-07-27",
+    "first_seen_at": "2026-07-28T00:05:32.289061+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106582/": {
+    "title": "ロックウェル・オートメーション、MES活用調査を発表 MES導入率93%も完全統合は23%にとどまる",
+    "source": "オートメーション新聞",
+    "published": "2026-07-27",
+    "first_seen_at": "2026-07-28T00:05:32.289061+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106614/": {
+    "title": "安川メカトレック末松九機、8/3「FA装置の生産性向上とAI・デジタルツイン活用セミナー」開催",
+    "source": "オートメーション新聞",
+    "published": "2026-07-27",
+    "first_seen_at": "2026-07-28T00:05:32.289061+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106633/": {
+    "title": "AeroEdge、栃木県足利市にLEAP用チタンアルミブレード新材料の品質評価を担うラボ棟を竣工",
+    "source": "オートメーション新聞",
+    "published": "2026-07-27",
+    "first_seen_at": "2026-07-28T00:05:32.289061+00:00"
   }
 }

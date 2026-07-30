@@ -4528,5 +4528,95 @@
     "source": "オートメーション新聞",
     "published": "2026-07-28",
     "first_seen_at": "2026-07-29T00:01:51.216110+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1784878733-710945": {
+    "title": "2026.07.30 2600種類を効率的に生産、９工程をワンチャックで／東北日東工器 日東工器グループの生産子会社の東北日東工器（福島市、桑原徹也社長）は2025年７月、福島市内の大笹生地区の「おおざそう工場」の操業を開始した。世界的建築家の隈研……",
+    "source": "robot_digest_新着",
+    "published": "2026-07-30",
+    "first_seen_at": "2026-07-30T00:03:58.092031+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/30/news009.html": {
+    "title": "フィジカルAI時代のロボティクス新標準、安全性は「後付け」でなく「設計の核心」",
+    "source": "MONOist_ロボット",
+    "published": "2026-07-30",
+    "first_seen_at": "2026-07-30T00:03:58.092031+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/29/news090.html": {
+    "title": "Terra Drone、屋内点検用ドローン運用チームを熊本県の被災地へ派遣",
+    "source": "MONOist_ロボット",
+    "published": "2026-07-29",
+    "first_seen_at": "2026-07-30T00:03:58.092031+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/29/news068.html": {
+    "title": "アマノの複数階清掃に対応した業務用ロボット掃除機に自律移動ソフトが採用",
+    "source": "MONOist_ロボット",
+    "published": "2026-07-29",
+    "first_seen_at": "2026-07-30T00:03:58.092031+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/30/news011.html": {
+    "title": "異例ヒット？ 使い勝手にこだわったオムロンの“オープンな”IO-Linkマスター",
+    "source": "MONOist_FA",
+    "published": "2026-07-30",
+    "first_seen_at": "2026-07-30T00:03:58.092031+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/29/news096.html": {
+    "title": "令和8年熊本地震による工場への影響まとめ",
+    "source": "MONOist_FA",
+    "published": "2026-07-29",
+    "first_seen_at": "2026-07-30T00:03:58.092031+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/29/news011.html": {
+    "title": "人の声でAIがナレッジ検索も、音声データのAI活用支援サービスを提供",
+    "source": "MONOist_FA",
+    "published": "2026-07-29",
+    "first_seen_at": "2026-07-30T00:03:58.092031+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106809/": {
+    "title": "NTN、フランス・オートサヴォア県アヌシー市に本社社屋・研究開発センターを開設",
+    "source": "オートメーション新聞",
+    "published": "2026-07-29",
+    "first_seen_at": "2026-07-30T00:03:58.092031+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106813/": {
+    "title": "日本トムソン、ハイスラストタイプのリニアモーターテーブルに新サイズ「LT130H2」追加 高推力と高速性を兼備",
+    "source": "オートメーション新聞",
+    "published": "2026-07-29",
+    "first_seen_at": "2026-07-30T00:03:58.092031+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106874/": {
+    "title": "日立製作所、米国の日立ヴァンタラのストレージ製造拠点が「Lighthouse」に選出大みか工場に続く2拠点目",
+    "source": "オートメーション新聞",
+    "published": "2026-07-29",
+    "first_seen_at": "2026-07-30T00:03:58.092031+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106879/": {
+    "title": "日本の資格・検定アワード2026 注目の資格・検定の第1位に「セーフティアセッサ安全資格認証制度」",
+    "source": "オートメーション新聞",
+    "published": "2026-07-29",
+    "first_seen_at": "2026-07-30T00:03:58.092031+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106870/": {
+    "title": "世界をリードする先進的な工場「lighthouse」2026年は新たに16工場を追加 日立ヴァンタラの米国ノーマン工場も選出",
+    "source": "オートメーション新聞",
+    "published": "2026-07-29",
+    "first_seen_at": "2026-07-30T00:03:58.092031+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106867/": {
+    "title": "日本のFA業界が目指す未来は『完全自動化の無人化工場』だ！とハッキリ言う",
+    "source": "オートメーション新聞",
+    "published": "2026-07-29",
+    "first_seen_at": "2026-07-30T00:03:58.092031+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106783/": {
+    "title": "ミスミ、meviy 2D 3周年＆ユーザー3万人突破の感謝祭 ロゴ入りみるく饅頭プレゼント",
+    "source": "オートメーション新聞",
+    "published": "2026-07-29",
+    "first_seen_at": "2026-07-30T00:03:58.092031+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106643/": {
+    "title": "マザーウォーター、兵庫県養父市の兵庫工場で紙パック水専用製造ラインを稼働開始",
+    "source": "オートメーション新聞",
+    "published": "2026-07-29",
+    "first_seen_at": "2026-07-30T00:03:58.092031+00:00"
   }
 }

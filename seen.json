@@ -4618,5 +4618,95 @@
     "source": "オートメーション新聞",
     "published": "2026-07-29",
     "first_seen_at": "2026-07-30T00:03:58.092031+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1785286005-088902": {
+    "title": "コラム 2026.07.31 編集室だより／2026年7月末 今月もrobot digest（ロボットダイジェスト）をお読みいただきありがとうございました。「編集室だより」では、取材を担当する編集部の記者たちの近況をお届け……",
+    "source": "robot_digest_新着",
+    "published": "2026-07-31",
+    "first_seen_at": "2026-07-31T00:07:08.053115+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/31/news041.html": {
+    "title": "DMPがフィジカルAI実装向け新拠点を開所、次世代SoCやAMRデモを披露",
+    "source": "MONOist_FA",
+    "published": "2026-07-31",
+    "first_seen_at": "2026-07-31T00:07:08.053115+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/31/news042.html": {
+    "title": "三菱電機が米国でデータセンター冷却機器の工場設立、自動車用電装品工場を改修",
+    "source": "MONOist_FA",
+    "published": "2026-07-31",
+    "first_seen_at": "2026-07-31T00:07:08.053115+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/31/news033.html": {
+    "title": "ベッコフが日本向けドライブシステム、価格競争力と機能性を両立",
+    "source": "MONOist_FA",
+    "published": "2026-07-31",
+    "first_seen_at": "2026-07-31T00:07:08.053115+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/30/news006.html": {
+    "title": "自律走行ロボット第2世代 連続稼働時間3.6倍、他社製品との連携も可能",
+    "source": "MONOist_FA",
+    "published": "2026-07-30",
+    "first_seen_at": "2026-07-31T00:07:08.053115+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106798/": {
+    "title": "明電舎、アクティオと協業し「明電VR 安全体感教育」の3軸VRシミュレータのレンタル提供体制を強化",
+    "source": "オートメーション新聞",
+    "published": "2026-07-30",
+    "first_seen_at": "2026-07-31T00:07:08.053115+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106802/": {
+    "title": "堀場製作所、中東に初の現地法人を設立 現地代理店FANDAの事業を買収",
+    "source": "オートメーション新聞",
+    "published": "2026-07-30",
+    "first_seen_at": "2026-07-31T00:07:08.053115+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106806/": {
+    "title": "日本トムソン、米国にR&Dセンターアメリカ、ドイツにR&Dセンター ヨーロッパを開設",
+    "source": "オートメーション新聞",
+    "published": "2026-07-30",
+    "first_seen_at": "2026-07-31T00:07:08.053115+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106842/": {
+    "title": "ワゴジャパン、手のひらサイズの産業用メディアコンバータ「852-1701」「852-1702」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-07-30",
+    "first_seen_at": "2026-07-31T00:07:08.053115+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106846/": {
+    "title": "横河計測、入力電圧2000V DCに対応した高精度電力計「WT1500」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-07-30",
+    "first_seen_at": "2026-07-31T00:07:08.053115+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106863/": {
+    "title": "バルーフ、積層信号灯「Black Line」に産業用途向けの高性能タイプ「SmartLight」追加 視認性と制御性を向上",
+    "source": "オートメーション新聞",
+    "published": "2026-07-30",
+    "first_seen_at": "2026-07-31T00:07:08.053115+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106883/": {
+    "title": "令和の販売員心得 黒川想介 （162）名刺ではじまる観察癖つけ 重要な情報収集力を高める",
+    "source": "オートメーション新聞",
+    "published": "2026-07-30",
+    "first_seen_at": "2026-07-31T00:07:08.053115+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106859/": {
+    "title": "SMC、安全通信対応フィールドバス機器「EX600シリーズ」にPROFINET対応やゾーン制御などの新機能を追加",
+    "source": "オートメーション新聞",
+    "published": "2026-07-30",
+    "first_seen_at": "2026-07-31T00:07:08.053115+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106834/": {
+    "title": "TDKラムダ、小型・大容量3kWユニット型AC-DC電源「HWS-Gシリーズ」ラインナップ拡充 高環境タイプと吸気ファンタイプ発売",
+    "source": "オートメーション新聞",
+    "published": "2026-07-30",
+    "first_seen_at": "2026-07-31T00:07:08.053115+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106735/": {
+    "title": "【FAトップインタビュー】RYODEN、事業創出会社へ変革を強力に推進 「販売代理店」から「共創のソリューションパートナー」へ",
+    "source": "オートメーション新聞",
+    "published": "2026-07-30",
+    "first_seen_at": "2026-07-31T00:07:08.053115+00:00"
   }
 }

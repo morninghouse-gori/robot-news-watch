@@ -4708,5 +4708,101 @@
     "source": "オートメーション新聞",
     "published": "2026-07-30",
     "first_seen_at": "2026-07-31T00:07:08.053115+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1785141023-244515": {
+    "title": "2026.08.03 [エディターズノートvol.29] おもちゃのようなVLA ロボットの「VLA」が注目を集めている。これは人工知能（AI）モデルの一種で、「ビジョン＝視覚、ランゲージ＝言語、アクション＝行動」の頭文字を取ったものだ。……",
+    "source": "robot_digest_新着",
+    "published": "2026-08-03",
+    "first_seen_at": "2026-08-03T00:02:22.073269+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1785228435-896064": {
+    "title": "2026.08.03 四足歩行ロボット「CORLEO」の開発ロードマップ発表／川崎重工業 川崎重工業は７月28日、都内でメディア向け説明会を開き、四足歩行ロボット「CORLEO（コルレオ）」の開発ロードマップを発表した。",
+    "source": "robot_digest_新着",
+    "published": "2026-08-03",
+    "first_seen_at": "2026-08-03T00:02:22.073269+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/03/news051.html": {
+    "title": "ルネサスが高崎工場を閉鎖へ、かつてはSiCデバイス生産の計画も",
+    "source": "MONOist_FA",
+    "published": "2026-08-03",
+    "first_seen_at": "2026-08-03T00:02:22.073269+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/03/news045.html": {
+    "title": "高硬度材加工に対応、マルチローラタイプの鏡面仕上げ工具",
+    "source": "MONOist_FA",
+    "published": "2026-08-03",
+    "first_seen_at": "2026-08-03T00:02:22.073269+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/01/news004.html": {
+    "title": "なぜ熊本に半導体産業が集まるのか――地震で工場稼働停止相次ぐ",
+    "source": "MONOist_FA",
+    "published": "2026-08-01",
+    "first_seen_at": "2026-08-03T00:02:22.073269+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2607/31/news012.html": {
+    "title": "医療機器部品の生産拠点へ、オリンパス長野事業場で最新設備に機能集約",
+    "source": "MONOist_FA",
+    "published": "2026-07-31",
+    "first_seen_at": "2026-08-03T00:02:22.073269+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106752/": {
+    "title": "キーエンス、技術的な問い合わせに対応する生成AIアシスタント機能をリリース",
+    "source": "オートメーション新聞",
+    "published": "2026-08-02",
+    "first_seen_at": "2026-08-03T00:02:22.073269+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106791/": {
+    "title": "ミスミ、機械部品調達AIプラットフォーム「meviy」で「#8月8日はメビーの日」プロジェクト開始",
+    "source": "オートメーション新聞",
+    "published": "2026-08-02",
+    "first_seen_at": "2026-08-03T00:02:22.073269+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106759/": {
+    "title": "東芝、「東芝レビュー」81巻4号を発行 データ活用技術やAI事例を特集",
+    "source": "オートメーション新聞",
+    "published": "2026-08-02",
+    "first_seen_at": "2026-08-03T00:02:22.073269+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106748/": {
+    "title": "オムロン、NVIDIA Omniverseとの連携で半導体基板検査を高度化",
+    "source": "オートメーション新聞",
+    "published": "2026-08-01",
+    "first_seen_at": "2026-08-03T00:02:22.073269+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106744/": {
+    "title": "三菱電機、Youtube動画「こんなところに三菱電機～シーツアイロナー 山本製作所篇～」公開",
+    "source": "オートメーション新聞",
+    "published": "2026-08-01",
+    "first_seen_at": "2026-08-03T00:02:22.073269+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106795/": {
+    "title": "ナブテスコ、超小型・高性能電動モーター開発のノルウェーAlva Industriesに出資",
+    "source": "オートメーション新聞",
+    "published": "2026-08-01",
+    "first_seen_at": "2026-08-03T00:02:22.073269+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106767/": {
+    "title": "北陽電機、「まんがで分かる制御機器」のSeason5第4話「3D LiDARの取付向きって？？」公開",
+    "source": "オートメーション新聞",
+    "published": "2026-08-01",
+    "first_seen_at": "2026-08-03T00:02:22.073269+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106755/": {
+    "title": "パナソニック インダストリー、産業用制御システム製品で「IEC 62443-4-1」認証取得",
+    "source": "オートメーション新聞",
+    "published": "2026-08-01",
+    "first_seen_at": "2026-08-03T00:02:22.073269+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106740/": {
+    "title": "三菱電機、「三菱電機技報」2026年07月号を発行 インフラの運用・保守自動化を特集",
+    "source": "オートメーション新聞",
+    "published": "2026-07-31",
+    "first_seen_at": "2026-08-03T00:02:22.073269+00:00"
+  },
+  "https://www.automation-news.jp/2026/07/106850/": {
+    "title": "村田製作所、高電圧機器向け高絶縁ゲートドライバ電源モジュール「MGJ1Tシリーズ」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-07-31",
+    "first_seen_at": "2026-08-03T00:02:22.073269+00:00"
   }
 }

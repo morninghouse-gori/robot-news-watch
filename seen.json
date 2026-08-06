@@ -4936,5 +4936,95 @@
     "source": "オートメーション新聞",
     "published": "2026-08-04",
     "first_seen_at": "2026-08-05T00:09:09.586256+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1784796855-341844": {
+    "title": "連載 2026.08.06 [実践！ リスキリング:第１シリーズ]最終回：おお！ CADを使えている（はず）！！ 職業能力の再開発を指す「リスキリング」の重要性が叫ばれる。近年はデジタルトランスフォーメーション（DX）に順応するために、従業員にデジタルスキルの習得を促す例が……",
+    "source": "robot_digest_新着",
+    "published": "2026-08-06",
+    "first_seen_at": "2026-08-06T00:03:20.382064+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/06/news022.html": {
+    "title": "フィジカルAIに注力するインテル、組み込み市場での約40年の実績を生かせるか",
+    "source": "MONOist_ロボット",
+    "published": "2026-08-06",
+    "first_seen_at": "2026-08-06T00:03:20.382064+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/05/news070.html": {
+    "title": "市販アルミフレームを使えるレール走行型AI監視ロボットを開発",
+    "source": "MONOist_ロボット",
+    "published": "2026-08-05",
+    "first_seen_at": "2026-08-06T00:03:20.382064+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/06/news055.html": {
+    "title": "AI関連“だけじゃない”オムロンの制御機器事業、地道な顧客基盤強化が結実",
+    "source": "MONOist_FA",
+    "published": "2026-08-06",
+    "first_seen_at": "2026-08-06T00:03:20.382064+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/05/news026.html": {
+    "title": "マザックが最大加工径910mmのCNC旋盤、大径および長尺ワーク向け",
+    "source": "MONOist_FA",
+    "published": "2026-08-05",
+    "first_seen_at": "2026-08-06T00:03:20.382064+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106963/": {
+    "title": "サンワテクノス、2026年度1Q決算は大幅な増収増益 半導体・AI関連投資の拡大が寄与",
+    "source": "オートメーション新聞",
+    "published": "2026-08-05",
+    "first_seen_at": "2026-08-06T00:03:20.382064+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106683/": {
+    "title": "住友ベークライト、秋田市の秋田住友ベークでステアリングマイクロカテーテル増産",
+    "source": "オートメーション新聞",
+    "published": "2026-08-05",
+    "first_seen_at": "2026-08-06T00:03:20.382064+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106979/": {
+    "title": "岡本無線電機、北川工業フェライトクランプお試しサンプルBOX貸出キャンペーン",
+    "source": "オートメーション新聞",
+    "published": "2026-08-05",
+    "first_seen_at": "2026-08-06T00:03:20.382064+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107122/": {
+    "title": "「2025年経済構造実態調査」二次集計結果2024年の製造業の売上高は475兆円、付加価値額は86兆円製造業の稼ぐ力は向上",
+    "source": "オートメーション新聞",
+    "published": "2026-08-05",
+    "first_seen_at": "2026-08-06T00:03:20.382064+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107111/": {
+    "title": "6/29～7/3に「IEC TC65プレナリ会議」を18年ぶりに日本で開催 工業用プロセス計測制御の規格を議論",
+    "source": "オートメーション新聞",
+    "published": "2026-08-05",
+    "first_seen_at": "2026-08-06T00:03:20.382064+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107108/": {
+    "title": "EtherCAT Technology Group、日本と韓国でメンバーミーティング開催アジア市場で普及拡大",
+    "source": "オートメーション新聞",
+    "published": "2026-08-05",
+    "first_seen_at": "2026-08-06T00:03:20.382064+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107053/": {
+    "title": "星和電機、9/30大阪府堺市で無料セミナー「Lighting Technology Seminar 2026」開催",
+    "source": "オートメーション新聞",
+    "published": "2026-08-05",
+    "first_seen_at": "2026-08-06T00:03:20.382064+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107118/": {
+    "title": "三菱電機、米国オハイオ州メイスンにデータセンター向け冷却機器の新工場を設立",
+    "source": "オートメーション新聞",
+    "published": "2026-08-05",
+    "first_seen_at": "2026-08-06T00:03:20.382064+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107115/": {
+    "title": "三菱電機とソニーセミコン、製造現場の自動化や高度化で協業AIビジョンソリューションの合弁会社「Advanced Vision Solutions」設立",
+    "source": "オートメーション新聞",
+    "published": "2026-08-05",
+    "first_seen_at": "2026-08-06T00:03:20.382064+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107105/": {
+    "title": "うまく伝わらない。そういう時は「比較」をうまく使って競争力を高めるのだ",
+    "source": "オートメーション新聞",
+    "published": "2026-08-05",
+    "first_seen_at": "2026-08-06T00:03:20.382064+00:00"
   }
 }

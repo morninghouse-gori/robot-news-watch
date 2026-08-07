@@ -5026,5 +5026,101 @@
     "source": "オートメーション新聞",
     "published": "2026-08-05",
     "first_seen_at": "2026-08-06T00:03:20.382064+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1785369473-895022": {
+    "title": "イベント 2026.08.07 JAKAロボティクスの豊橋工場で協働ロボットセミナー／愛知県 愛知県は７月28日、中国の協働ロボットメーカーJAKA（ジャカ）ロボティクス（日本法人＝名古屋市東区、李明洋代表）の愛知県豊橋市にある豊橋工場でロボット導入支援……",
+    "source": "robot_digest_新着",
+    "published": "2026-08-07",
+    "first_seen_at": "2026-08-07T01:42:13.302993+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/07/news039.html": {
+    "title": "あえて歩かせない――準国産ヒューマノイド「D1」登場、現場稼働で日本の勝ち筋へ",
+    "source": "MONOist_ロボット",
+    "published": "2026-08-07",
+    "first_seen_at": "2026-08-07T01:42:13.302993+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/07/news015.html": {
+    "title": "老朽化したポンプの主要部品を金属3Dプリンタで一体造形、納期を3分の1に短縮",
+    "source": "MONOist_FA",
+    "published": "2026-08-07",
+    "first_seen_at": "2026-08-07T01:42:13.302993+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/07/news046.html": {
+    "title": "AI／データセンターで複合マシンの受注拡大、第1四半期過去最高のアマダ",
+    "source": "MONOist_FA",
+    "published": "2026-08-07",
+    "first_seen_at": "2026-08-07T01:42:13.302993+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/03/news022.html": {
+    "title": "神戸製鋼所が航空／防衛向け砂型鋳造品の生産能力を強化、20億円投資",
+    "source": "MONOist_FA",
+    "published": "2026-08-07",
+    "first_seen_at": "2026-08-07T01:42:13.302993+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/06/news057.html": {
+    "title": "独自機能で非切削時間を最適化、中村留が2タレット複合精密CNC旋盤",
+    "source": "MONOist_FA",
+    "published": "2026-08-06",
+    "first_seen_at": "2026-08-07T01:42:13.302993+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106966/": {
+    "title": "八洲電機、2026年8月8日に創立80周年 特設サイトで歴史など紹介",
+    "source": "オートメーション新聞",
+    "published": "2026-08-06",
+    "first_seen_at": "2026-08-07T01:42:13.302993+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107021/": {
+    "title": "日東工業、「キャビネット・プラボックス ナビサイト」を公開",
+    "source": "オートメーション新聞",
+    "published": "2026-08-06",
+    "first_seen_at": "2026-08-07T01:42:13.302993+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107072/": {
+    "title": "IDEC、「安全に動かす」セーフティコントローラ「FS3A形」発売 機械の状態監視で安全性と生産性を両立",
+    "source": "オートメーション新聞",
+    "published": "2026-08-06",
+    "first_seen_at": "2026-08-07T01:42:13.302993+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107056/": {
+    "title": "堀場製作所、10/15に「2026堀場雅夫賞」の授賞式と記念セミナーを京都大学で開催",
+    "source": "オートメーション新聞",
+    "published": "2026-08-06",
+    "first_seen_at": "2026-08-07T01:42:13.302993+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107068/": {
+    "title": "富士電機、軽量化と耐久性を向上したグローバル向け新型中性子サーベイメータ発売",
+    "source": "オートメーション新聞",
+    "published": "2026-08-06",
+    "first_seen_at": "2026-08-07T01:42:13.302993+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107101/": {
+    "title": "村田製作所、Webアプリ内蔵の無線センシング向けゲートウェイ「LBAS0ZZ2SU-001」専用PC不要でIoTシステムが運用可能に",
+    "source": "オートメーション新聞",
+    "published": "2026-08-06",
+    "first_seen_at": "2026-08-07T01:42:13.302993+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107094/": {
+    "title": "センサテック、高感度シールドタイプ静電容量形近接センサ「形CD-C12」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-08-06",
+    "first_seen_at": "2026-08-07T01:42:13.302993+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107086/": {
+    "title": "コンテック、組み込み用PC「BX-T3000シリーズ」にWindows 11 IoT搭載モデルを追加",
+    "source": "オートメーション新聞",
+    "published": "2026-08-06",
+    "first_seen_at": "2026-08-07T01:42:13.302993+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107076/": {
+    "title": "NKE、軽量高出力な平行タイプ角型エアチャック「CHPS360」発売 高い把持性能と省エネを両立",
+    "source": "オートメーション新聞",
+    "published": "2026-08-06",
+    "first_seen_at": "2026-08-07T01:42:13.302993+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107030/": {
+    "title": "セイコーエプソン、ペロブスカイト太陽電池向けインクジェット装置開発の韓国Gosan Techへ追加出資",
+    "source": "オートメーション新聞",
+    "published": "2026-08-06",
+    "first_seen_at": "2026-08-07T01:42:13.302993+00:00"
   }
 }

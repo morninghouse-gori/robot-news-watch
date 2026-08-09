@@ -5122,5 +5122,95 @@
     "source": "オートメーション新聞",
     "published": "2026-08-06",
     "first_seen_at": "2026-08-07T01:42:13.302993+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1785481903-703617": {
+    "title": "2026.08.10 うどんやそばを提供する自動化システムを披露／安川電機 安川電機は７月22日、北九州市八幡西区の本社敷地内第５工場の食堂に導入したうどんやそばを自動で調理、提供するシステム「屋台型うどん・そばセル」を報道陣に公開した……",
+    "source": "robot_digest_新着",
+    "published": "2026-08-10",
+    "first_seen_at": "2026-08-09T23:35:47.733146+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/10/news002.html": {
+    "title": "機械設計者が思わず「簡単に言うなや！」と身構える要求6選【前編】",
+    "source": "MONOist_FA",
+    "published": "2026-08-10",
+    "first_seen_at": "2026-08-09T23:35:47.733146+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/10/news046.html": {
+    "title": "ソディック光コネクター向け“3種の神器”受注殺到、業績見通しも上方修正",
+    "source": "MONOist_FA",
+    "published": "2026-08-10",
+    "first_seen_at": "2026-08-09T23:35:47.733146+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/08/news008.html": {
+    "title": "AIがサイバー攻撃――OpenAIやClaudeで相次ぐ事態、波及リスクは",
+    "source": "MONOist_FA",
+    "published": "2026-08-08",
+    "first_seen_at": "2026-08-09T23:35:47.733146+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/07/news031.html": {
+    "title": "NTNが機能集約で欧州事業強化、仏に新社屋と研究開発センターを開設",
+    "source": "MONOist_FA",
+    "published": "2026-08-07",
+    "first_seen_at": "2026-08-09T23:35:47.733146+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106910/": {
+    "title": "ジーシー、静岡県小山町に高度管理医療機器対応の「新生体材料工場」を建設",
+    "source": "オートメーション新聞",
+    "published": "2026-08-09",
+    "first_seen_at": "2026-08-09T23:35:47.733146+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106973/": {
+    "title": "協立電機、水質連続監視装置「ユニレリーフ」研究開発のための開発研究所を新設",
+    "source": "オートメーション新聞",
+    "published": "2026-08-09",
+    "first_seen_at": "2026-08-09T23:35:47.733146+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107049/": {
+    "title": "日立製作所、9/3-9/4に東京国際フォーラムで「Hitachi Social Innovation Forum 2026 JAPAN」開催",
+    "source": "オートメーション新聞",
+    "published": "2026-08-09",
+    "first_seen_at": "2026-08-09T23:35:47.733146+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106922/": {
+    "title": "ハリマ化成グループ、兵庫県加古川市の加古川製造所内に半導体レジスト用樹脂の新工場と新研究棟",
+    "source": "オートメーション新聞",
+    "published": "2026-08-09",
+    "first_seen_at": "2026-08-09T23:35:47.733146+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107046/": {
+    "title": "ワコム、9/2WEBセミナー「製造業向け検図DXセミナー」なぜ紙図面からデジタル検図へ移行できたのか",
+    "source": "オートメーション新聞",
+    "published": "2026-08-09",
+    "first_seen_at": "2026-08-09T23:35:47.733146+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106945/": {
+    "title": "セーレン、メキシコの車輌内装材拠点を増強 40億円投じ合成皮革の新工場を竣工",
+    "source": "オートメーション新聞",
+    "published": "2026-08-09",
+    "first_seen_at": "2026-08-09T23:35:47.733146+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106899/": {
+    "title": "オタフクソース、栃木県日光市の日光工場に新棟竣工 生産能力を最大1.8倍に拡大",
+    "source": "オートメーション新聞",
+    "published": "2026-08-09",
+    "first_seen_at": "2026-08-09T23:35:47.733146+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107017/": {
+    "title": "日東工業、キャビネット図面作成WEBシステム「CABISTA（キャビスタ）」紹介サイトを公開",
+    "source": "オートメーション新聞",
+    "published": "2026-08-09",
+    "first_seen_at": "2026-08-09T23:35:47.733146+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106954/": {
+    "title": "カナデン、製品サイトで長期連休明けの設備トラブル防止や待機電力削減を解説する記事を公開",
+    "source": "オートメーション新聞",
+    "published": "2026-08-09",
+    "first_seen_at": "2026-08-09T23:35:47.733146+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106926/": {
+    "title": "村田製作所、滋賀県東近江市の八日市事業所に新生産棟を建設 サーミスタ製品の需要増に対応",
+    "source": "オートメーション新聞",
+    "published": "2026-08-08",
+    "first_seen_at": "2026-08-09T23:35:47.733146+00:00"
   }
 }

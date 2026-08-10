@@ -5212,5 +5212,65 @@
     "source": "オートメーション新聞",
     "published": "2026-08-08",
     "first_seen_at": "2026-08-09T23:35:47.733146+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/10/news044.html": {
+    "title": "ドローンを衛星通信と直接接続、キャリア通信圏外エリアでの飛行制御に成功",
+    "source": "MONOist_ロボット",
+    "published": "2026-08-10",
+    "first_seen_at": "2026-08-10T23:39:30.390863+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/10/news068.html": {
+    "title": "車幅変更に対応する産業用クローラーロボット、最大100kgを積載",
+    "source": "MONOist_ロボット",
+    "published": "2026-08-10",
+    "first_seen_at": "2026-08-10T23:39:30.390863+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106906/": {
+    "title": "新東工業、愛知県豊川市の豊川製作所内に3Dプリンティング量産工場 AIデータセンター向け放熱部材を増産",
+    "source": "オートメーション新聞",
+    "published": "2026-08-10",
+    "first_seen_at": "2026-08-10T23:39:30.390863+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106976/": {
+    "title": "ナ・デックス、半導体・生成AI製造工程領域に向けた事業化プロジェクトを始動",
+    "source": "オートメーション新聞",
+    "published": "2026-08-10",
+    "first_seen_at": "2026-08-10T23:39:30.390863+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106918/": {
+    "title": "イビデン、岐阜県岐阜市に新研究施設を建設 GX・ライフサイエンス分野の研究拠点 2028年開設",
+    "source": "オートメーション新聞",
+    "published": "2026-08-10",
+    "first_seen_at": "2026-08-10T23:39:30.390863+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106930/": {
+    "title": "神戸製鋼所、兵庫県加古川市の加古川製鉄所に「スクラップ溶解炉」導入検討 約1000億円規模投資",
+    "source": "オートメーション新聞",
+    "published": "2026-08-10",
+    "first_seen_at": "2026-08-10T23:39:30.390863+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107098/": {
+    "title": "パナソニック コネクト、ロボット道入アシストサービス「Robo Sync Planner」提供開始 ロボット導入の構想から設計までを支援",
+    "source": "オートメーション新聞",
+    "published": "2026-08-10",
+    "first_seen_at": "2026-08-10T23:39:30.390863+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107007/": {
+    "title": "協立電機、浜松支店を移転",
+    "source": "オートメーション新聞",
+    "published": "2026-08-10",
+    "first_seen_at": "2026-08-10T23:39:30.390863+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/106987/": {
+    "title": "愛電、Rockwell Automation製品特設サイト「Assist」をリニューアル",
+    "source": "オートメーション新聞",
+    "published": "2026-08-10",
+    "first_seen_at": "2026-08-10T23:39:30.390863+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107004/": {
+    "title": "英和、川崎営業所を移転",
+    "source": "オートメーション新聞",
+    "published": "2026-08-10",
+    "first_seen_at": "2026-08-10T23:39:30.390863+00:00"
   }
 }

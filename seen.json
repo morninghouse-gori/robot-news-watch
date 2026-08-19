@@ -5692,5 +5692,107 @@
     "source": "オートメーション新聞",
     "published": "2026-08-18",
     "first_seen_at": "2026-08-18T23:26:31.521917+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1786688821-379343": {
+    "title": "イベント 2026.08.20 子ども向けに協働ロボットの操作体験プログラムを実施／愛三工業 大手自動車部品メーカーの愛三工業は８月４日と５日の２日間、子どもを対象とした協働ロボットの操作体験プログラムを横浜市内で実施した。２日間で計９人が参加した。……",
+    "source": "robot_digest_新着",
+    "published": "2026-08-20",
+    "first_seen_at": "2026-08-19T23:27:04.459854+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/19/news035.html": {
+    "title": "MCP対応LLMでロボット制御、頭脳となる自律制御システム開発",
+    "source": "MONOist_ロボット",
+    "published": "2026-08-19",
+    "first_seen_at": "2026-08-19T23:27:04.459854+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/20/news031.html": {
+    "title": "主軸30番の複合加工機で工具64本搭載可能なモデル、ブラザー工業が開発",
+    "source": "MONOist_FA",
+    "published": "2026-08-20",
+    "first_seen_at": "2026-08-19T23:27:04.459854+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/05/news002.html": {
+    "title": "データスペース時代に日本企業はどう備えるか、NTTグループが進める仕組みづくり",
+    "source": "MONOist_FA",
+    "published": "2026-08-20",
+    "first_seen_at": "2026-08-19T23:27:04.459854+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/20/news019.html": {
+    "title": "生成AI普及が追い風に、日本化学工業がMLCC向け材料を増産",
+    "source": "MONOist_FA",
+    "published": "2026-08-20",
+    "first_seen_at": "2026-08-19T23:27:04.459854+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/19/news051.html": {
+    "title": "トヨタやPFNがフィジカルAIとヒューマノイドを語る／大型トラックでリコール",
+    "source": "MONOist_FA",
+    "published": "2026-08-19",
+    "first_seen_at": "2026-08-19T23:27:04.459854+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/19/news012.html": {
+    "title": "多能工 大谷超えの 三刀流――製造業“あるある”かるた【た行】絵札公開!!",
+    "source": "MONOist_FA",
+    "published": "2026-08-19",
+    "first_seen_at": "2026-08-19T23:27:04.459854+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107761/": {
+    "title": "産業オープンネット展 東京2026 9/11浜松町 現場からクラウドまでをつなぐオープンネットワーク技術",
+    "source": "オートメーション新聞",
+    "published": "2026-08-19",
+    "first_seen_at": "2026-08-19T23:27:04.459854+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107758/": {
+    "title": "加賀電子、新光商事へのTOB成立で連結子会社化",
+    "source": "オートメーション新聞",
+    "published": "2026-08-19",
+    "first_seen_at": "2026-08-19T23:27:04.459854+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107765/": {
+    "title": "IO-Link、世界ノード総数7100万台に到達 2025年は970万台設置 デバイスネットワークの主役に",
+    "source": "オートメーション新聞",
+    "published": "2026-08-19",
+    "first_seen_at": "2026-08-19T23:27:04.459854+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107769/": {
+    "title": "令和の販売員心得 黒川想介 （164）興味・関心から生じる疑問 質問こそ情報収集の糸口だ",
+    "source": "オートメーション新聞",
+    "published": "2026-08-19",
+    "first_seen_at": "2026-08-19T23:27:04.459854+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107691/": {
+    "title": "Mujin Japan、8/21WEBセミナー AI需要予測と自動化で進めるサプライチェーン改革",
+    "source": "オートメーション新聞",
+    "published": "2026-08-19",
+    "first_seen_at": "2026-08-19T23:27:04.459854+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107577/": {
+    "title": "IDC、2026年第2四半期の世界PC出荷台数は前年同期比4.9%減 メモリ不足が影響",
+    "source": "オートメーション新聞",
+    "published": "2026-08-19",
+    "first_seen_at": "2026-08-19T23:27:04.459854+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107594/": {
+    "title": "日本産業機械工業会、2026年5月産業機械受注額は前年同月比84.9%増の1兆36億200万円",
+    "source": "オートメーション新聞",
+    "published": "2026-08-19",
+    "first_seen_at": "2026-08-19T23:27:04.459854+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107755/": {
+    "title": "「人」から「機械」へ 主役交代で限界突破の扉が開く",
+    "source": "オートメーション新聞",
+    "published": "2026-08-19",
+    "first_seen_at": "2026-08-19T23:27:04.459854+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107367/": {
+    "title": "バンドー化学、8/26に精密搬送用ベルトの選定方法に関する無料ウェビナー開催",
+    "source": "オートメーション新聞",
+    "published": "2026-08-19",
+    "first_seen_at": "2026-08-19T23:27:04.459854+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107364/": {
+    "title": "三菱電機、8/25WEBセミナー「保守業務をコストから付加価値へ。遠隔保守サポートサービス」",
+    "source": "オートメーション新聞",
+    "published": "2026-08-19",
+    "first_seen_at": "2026-08-19T23:27:04.459854+00:00"
   }
 }

@@ -5794,5 +5794,125 @@
     "source": "オートメーション新聞",
     "published": "2026-08-19",
     "first_seen_at": "2026-08-19T23:27:04.459854+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1786931819-948586": {
+    "title": "連載 2026.08.21 [活躍するロボジョ vol.45]トレーニングはいわば始まり／Mech-Mind 戌神霖さ…… 中国のビジョンシステムメーカーの日本法人Mech-Mind（メックマインド、東京都港区、楊培社長）は、優れた製品開発力を誇るだけでなく、顧客向けのトレーニングに……",
+    "source": "robot_digest_新着",
+    "published": "2026-08-21",
+    "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/21/news049.html": {
+    "title": "NSK、国産ヒューマノイド部品の共同検証／データ収集でスタートアップと提携",
+    "source": "MONOist_ロボット",
+    "published": "2026-08-21",
+    "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/20/news002.html": {
+    "title": "「必要とされるモノづくり」を次の世代へ 未来は予測するものではなくつくるもの",
+    "source": "MONOist_ロボット",
+    "published": "2026-08-20",
+    "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/21/news053.html": {
+    "title": "ADEKA、半導体EUVレジスト用材料の生産能力を2倍に",
+    "source": "MONOist_FA",
+    "published": "2026-08-21",
+    "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/21/news017.html": {
+    "title": "「閉域網だから安全」は通用しない、制御システムの攻撃事例に学ぶ“基本”",
+    "source": "MONOist_FA",
+    "published": "2026-08-21",
+    "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/21/news029.html": {
+    "title": "三菱ケミカル、最先端半導体向け「超高純度コロイダルシリカ」事業化",
+    "source": "MONOist_FA",
+    "published": "2026-08-21",
+    "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/21/news054.html": {
+    "title": "日立ハイテク、フィジカルAIで全固体電池向け正極活物質のコーティング最適化支援",
+    "source": "MONOist_FA",
+    "published": "2026-08-21",
+    "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/20/news042.html": {
+    "title": "全方向移動ロボット基盤がキーエンス製PLCに標準対応、ラダーで搬送指示も",
+    "source": "MONOist_FA",
+    "published": "2026-08-20",
+    "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/20/news007.html": {
+    "title": "低誘電樹脂材料の供給体制強化に向け、約100億円を投資",
+    "source": "MONOist_FA",
+    "published": "2026-08-20",
+    "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/20/news058.html": {
+    "title": "日本企業はデータスペース時代にどう備える？／自動運転AI戦略をWaymoが解説",
+    "source": "MONOist_FA",
+    "published": "2026-08-20",
+    "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107751/": {
+    "title": "フエニックス・コンタクト、小型低背スイッチング電源「STEP3」にUSB PD対応モデルを追加",
+    "source": "オートメーション新聞",
+    "published": "2026-08-20",
+    "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107727/": {
+    "title": "オートニクス、HMタッチパネル「TPシリーズ」発売 クアッドコアCPU搭載で高速処理が可能",
+    "source": "オートメーション新聞",
+    "published": "2026-08-20",
+    "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107712/": {
+    "title": "コグネックス、9/17WEBセミナー 外観検査におけるAIやルールベースの最適活用術を解説",
+    "source": "オートメーション新聞",
+    "published": "2026-08-20",
+    "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107706/": {
+    "title": "パナソニック デジタル、8/26WEBセミナー 生成AI企業活用の始め方を開催",
+    "source": "オートメーション新聞",
+    "published": "2026-08-20",
+    "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107695/": {
+    "title": "Mujin Japan、8/25WEBセミナー 失敗しないAGV活用のポイント解説",
+    "source": "オートメーション新聞",
+    "published": "2026-08-20",
+    "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107581/": {
+    "title": "日本ロボット工業会、2026年4−6月期ロボット統計、受注額が3127億円で過去最高を更新",
+    "source": "オートメーション新聞",
+    "published": "2026-08-20",
+    "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107597/": {
+    "title": "富士キメラ総研、2030年の国内データセンターサービス市場は6兆8189億円へ拡大と予測",
+    "source": "オートメーション新聞",
+    "published": "2026-08-20",
+    "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107676/": {
+    "title": "三菱電機、福山製作所可児工場での安全シーケンサ導入事例をWEBサイトで公開",
+    "source": "オートメーション新聞",
+    "published": "2026-08-20",
+    "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107657/": {
+    "title": "山洋電気 リチウムイオン電池搭載UPS「SANUPS A13A-Li」小型軽量で15年間バッテリ交換不要【雷害対策特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-08-20",
+    "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107651/": {
+    "title": "三菱電機 小容量UPS「FW-Tシリーズ」小型・軽量化と耐環境性を両立【雷害対策特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-08-20",
+    "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
   }
 }

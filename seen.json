@@ -5914,5 +5914,95 @@
     "source": "オートメーション新聞",
     "published": "2026-08-20",
     "first_seen_at": "2026-08-20T23:30:31.714385+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1787040330-613269": {
+    "title": "2026.08.24 [ロボットが活躍する現場vol.62]停止を恐れず自動化を磨く／和歌山アイコム 和歌山アイコム（和歌山県有田川町、田中誠一郎社長）は、垂直多関節ロボットや専用機を活用し、主力の業務用携帯無線機の組み立てから検査までの大部分を自動化した。これ……",
+    "source": "robot_digest_新着",
+    "published": "2026-08-24",
+    "first_seen_at": "2026-08-23T23:25:48.404399+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/24/news061.html": {
+    "title": "ロボットの費用対効果が3年以内に人手を上回る――インテルが調査結果から洞察",
+    "source": "MONOist_ロボット",
+    "published": "2026-08-24",
+    "first_seen_at": "2026-08-23T23:25:48.404399+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/24/news046.html": {
+    "title": "富士フイルムグループの先端半導体材料工場に新棟が完成 生産能力が3倍に向上",
+    "source": "MONOist_FA",
+    "published": "2026-08-24",
+    "first_seen_at": "2026-08-23T23:25:48.404399+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/24/news013.html": {
+    "title": "前工程を知らずに後工程は理解できない～半導体製造全体の流れをつかもう～",
+    "source": "MONOist_FA",
+    "published": "2026-08-24",
+    "first_seen_at": "2026-08-23T23:25:48.404399+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/21/news067.html": {
+    "title": "カルビーがAIでサプライチェーン最適化／「アウトランダーPHEV」1.3万台リコール",
+    "source": "MONOist_FA",
+    "published": "2026-08-21",
+    "first_seen_at": "2026-08-23T23:25:48.404399+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107554/": {
+    "title": "東レ、滋賀県大津市の滋賀事業場に分離膜・水素等の生産技術開発棟を新設",
+    "source": "オートメーション新聞",
+    "published": "2026-08-23",
+    "first_seen_at": "2026-08-23T23:25:48.404399+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107455/": {
+    "title": "TDK、新潟県小千谷市にセンサ生産の新工場「TDK信濃川テクノ工場」を新設",
+    "source": "オートメーション新聞",
+    "published": "2026-08-23",
+    "first_seen_at": "2026-08-23T23:25:48.404399+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107743/": {
+    "title": "Premio、洗浄対応のステンレス製パネルPC「SIO-300-ASL」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-08-23",
+    "first_seen_at": "2026-08-23T23:25:48.404399+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107739/": {
+    "title": "バナーエンジニアリング、バッテリー駆動型のワイヤレス3軸振動モニタリング製品を発売",
+    "source": "オートメーション新聞",
+    "published": "2026-08-23",
+    "first_seen_at": "2026-08-23T23:25:48.404399+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107562/": {
+    "title": "三井化学、福岡県大牟田市の大牟田工場にメガネレンズ材料の新プラント建設",
+    "source": "オートメーション新聞",
+    "published": "2026-08-23",
+    "first_seen_at": "2026-08-23T23:25:48.404399+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107747/": {
+    "title": "マブチモーター、ブラシレスモーターユニット「MR-94BZD」「MR-94BZE」発売AGVやAMRなど移動体に最適",
+    "source": "オートメーション新聞",
+    "published": "2026-08-22",
+    "first_seen_at": "2026-08-23T23:25:48.404399+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107735/": {
+    "title": "Basler、ロボット・物流向けコンパクトステレオカメラ「Basler Stereo mini」を発売",
+    "source": "オートメーション新聞",
+    "published": "2026-08-22",
+    "first_seen_at": "2026-08-23T23:25:48.404399+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107687/": {
+    "title": "北陽電機、AGVの行先指示を実現する光データ伝送装置の解説コラムを公開",
+    "source": "オートメーション新聞",
+    "published": "2026-08-22",
+    "first_seen_at": "2026-08-23T23:25:48.404399+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107566/": {
+    "title": "富士フイルム、米国ウィスコンシン州マディソンにiPS細胞由来分化細胞の製造拠点開設",
+    "source": "オートメーション新聞",
+    "published": "2026-08-22",
+    "first_seen_at": "2026-08-23T23:25:48.404399+00:00"
+  },
+  "https://www.automation-news.jp/2026/08/107558/": {
+    "title": "ナリコマ、岡山県倉敷市に医療・介護施設向け食事のセントラルキッチンを建設",
+    "source": "オートメーション新聞",
+    "published": "2026-08-22",
+    "first_seen_at": "2026-08-23T23:25:48.404399+00:00"
   }
 }

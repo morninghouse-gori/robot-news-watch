@@ -6316,5 +6316,59 @@
     "source": "オートメーション新聞",
     "published": "2026-08-26",
     "first_seen_at": "2026-08-27T04:26:22.439958+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1787549689-001263": {
+    "title": "2026.08.28 自走ロボット「VIVACE」を発売、協働ロボットと搬送ロボットを融合／ダイヘン ダイヘンは８月21日、「自走ロボットVIVACE（ビバーチェ）」を市場投入したと発表した。搬送ロボットと協働ロボットアームを組み合わせた製品だ。工場内を移動し、……",
+    "source": "robot_digest_新着",
+    "published": "2026-08-28",
+    "first_seen_at": "2026-08-28T06:49:50.403224+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/28/news059.html": {
+    "title": "国産ヒューマノイドへ、日本精工が「世界一のカレー屋」目指すアトムから得るもの",
+    "source": "MONOist_ロボット",
+    "published": "2026-08-28",
+    "first_seen_at": "2026-08-28T06:49:50.403224+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/28/news013.html": {
+    "title": "「優しい災害救助」が社会実装へ――「レスコン2026」で見えた技術と人の成長",
+    "source": "MONOist_ロボット",
+    "published": "2026-08-28",
+    "first_seen_at": "2026-08-28T06:49:50.403224+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/28/news074.html": {
+    "title": "小型低背スイッチング電源に最大65WのUSB PD対応モデル フエニックスコンタクト",
+    "source": "MONOist_FA",
+    "published": "2026-08-28",
+    "first_seen_at": "2026-08-28T06:49:50.403224+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/28/news072.html": {
+    "title": "「レスコン2026」レポート／NSKとアトムが国産ヒューマノイド開発へ",
+    "source": "MONOist_FA",
+    "published": "2026-08-28",
+    "first_seen_at": "2026-08-28T06:49:50.403224+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/28/news061.html": {
+    "title": "ヒューマノイドを育てるバイト!? タイミーとジールスが現場データ収集で協業",
+    "source": "MONOist_FA",
+    "published": "2026-08-28",
+    "first_seen_at": "2026-08-28T06:49:50.403224+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/28/news035.html": {
+    "title": "AI半導体向けレアメタル「ハフニウム」、第一稀元素が国内製造へ",
+    "source": "MONOist_FA",
+    "published": "2026-08-28",
+    "first_seen_at": "2026-08-28T06:49:50.403224+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/28/news043.html": {
+    "title": "JFE製鉄所跡地、3000億円を投資し「次の100年」を担う巨大物流施設へ",
+    "source": "MONOist_FA",
+    "published": "2026-08-28",
+    "first_seen_at": "2026-08-28T06:49:50.403224+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2608/27/news033.html": {
+    "title": "サーボモーターにサイドコネクタータイプ追加、レイアウト設計の自由度向上",
+    "source": "MONOist_FA",
+    "published": "2026-08-27",
+    "first_seen_at": "2026-08-28T06:49:50.403224+00:00"
   }
 }

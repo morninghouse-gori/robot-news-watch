@@ -6556,5 +6556,95 @@
     "source": "オートメーション新聞",
     "published": "2026-08-31",
     "first_seen_at": "2026-09-01T01:44:04.761012+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1787809400-961824": {
+    "title": "2026.09.02 搬送ロボットが昇降するタイプの自動倉庫を開発／ROMS ロボット自動倉庫などを開発するROMS（ロムス、東京都品川区、前野洋介社長）は８月26日、新型のロボット自動倉庫「NINBUS（ニンバス）」を開発したと発表した……",
+    "source": "robot_digest_新着",
+    "published": "2026-09-02",
+    "first_seen_at": "2026-09-02T00:55:02.202069+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/02/news043.html": {
+    "title": "ヒューマノイド40台でフィジカルAIを育てる巨大拠点が稼働、その内部とは",
+    "source": "MONOist_ロボット",
+    "published": "2026-09-02",
+    "first_seen_at": "2026-09-02T00:55:02.202069+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/01/news072.html": {
+    "title": "フラワー・ロボティクスが創業25周年の節目に社名変更、フラワードへ",
+    "source": "MONOist_ロボット",
+    "published": "2026-09-01",
+    "first_seen_at": "2026-09-02T00:55:02.202069+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/02/news044.html": {
+    "title": "アルミ活用の次世代モーター開発企業に出資、燈が「AIネイティブ工場」構築へ",
+    "source": "MONOist_FA",
+    "published": "2026-09-02",
+    "first_seen_at": "2026-09-02T00:55:02.202069+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/02/news005.html": {
+    "title": "溶液から結晶を取り出す晶析の考え方",
+    "source": "MONOist_FA",
+    "published": "2026-09-02",
+    "first_seen_at": "2026-09-02T00:55:02.202069+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/01/news037.html": {
+    "title": "画像検査装置向け産業用コンピュータ、世界6地域の規格に適合",
+    "source": "MONOist_FA",
+    "published": "2026-09-01",
+    "first_seen_at": "2026-09-02T00:55:02.202069+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/01/news048.html": {
+    "title": "VUCA時代の在庫の理想と現実／日産×ホンダ、次世代SDV基盤開発へ",
+    "source": "MONOist_FA",
+    "published": "2026-09-01",
+    "first_seen_at": "2026-09-02T00:55:02.202069+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108086/": {
+    "title": "英楽、宮崎県門川町に畜産精肉カット製品の「竹名食肉加工工場」を建設",
+    "source": "オートメーション新聞",
+    "published": "2026-09-01",
+    "first_seen_at": "2026-09-02T00:55:02.202069+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108060/": {
+    "title": "NISSHA ゾンネボード製薬、東京都八王子市の八王子本社工場に医薬品新生産棟建設",
+    "source": "オートメーション新聞",
+    "published": "2026-09-01",
+    "first_seen_at": "2026-09-02T00:55:02.202069+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108057/": {
+    "title": "サクサ、山形県米沢市に射出成形品を生産する新工場を建設",
+    "source": "オートメーション新聞",
+    "published": "2026-09-01",
+    "first_seen_at": "2026-09-02T00:55:02.202069+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108281/": {
+    "title": "Cognex（コグネックス）AI搭載マシンビジョンシステム「In-Sight 3900」高速・高精度検査を実現【FAセンサ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-01",
+    "first_seen_at": "2026-09-02T00:55:02.202069+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108289/": {
+    "title": "Pepperl+Fuchs（ピーアンドエフ）超音波センサー「UB-F42シリーズ」IO-Link対応の多用途向け【FAセンサ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-01",
+    "first_seen_at": "2026-09-02T00:55:02.202069+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108231/": {
+    "title": "キーエンス AI搭載画像センサ「IV4シリーズ」検出と画作りにAIアルゴリズム搭載【FAセンサ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-01",
+    "first_seen_at": "2026-09-02T00:55:02.202069+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108200/": {
+    "title": "EMERSON、過酷な高温・高圧環境に対応するpH/ORPセンサ「Rosemount 350A」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-09-01",
+    "first_seen_at": "2026-09-02T00:55:02.202069+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108192/": {
+    "title": "星和電機、エッジAI搭載の防爆形ネットワークカメラ「IZAP7Aシリーズ」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-09-01",
+    "first_seen_at": "2026-09-02T00:55:02.202069+00:00"
   }
 }

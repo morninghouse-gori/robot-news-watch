@@ -6646,5 +6646,95 @@
     "source": "オートメーション新聞",
     "published": "2026-09-01",
     "first_seen_at": "2026-09-02T00:55:02.202069+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1787123831-133424": {
+    "title": "連載 2026.09.03 [ロボットが活躍する現場 vol.63]医薬品の包装を人手からヒューマノイドに／武州製薬 武州製薬（埼玉県川越市、森川哲也社長）は、工場にヒューマノイド（ヒト型）ロボットを複数台導入し、人手作業の自動化に取り組む。医薬品の品種によっては生産量が少なく……",
+    "source": "robot_digest_新着",
+    "published": "2026-09-03",
+    "first_seen_at": "2026-09-03T01:01:24.918509+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/03/news053.html": {
+    "title": "AWSのフィジカルAI開発支援、採択企業はクラウドで何を加速させたか",
+    "source": "MONOist_FA",
+    "published": "2026-09-03",
+    "first_seen_at": "2026-09-03T01:01:24.918509+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/03/news049.html": {
+    "title": "複数メーカーの6種マテハン連携、「倉庫自動化はサプライウェブ時代へ」",
+    "source": "MONOist_FA",
+    "published": "2026-09-03",
+    "first_seen_at": "2026-09-03T01:01:24.918509+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/02/news080.html": {
+    "title": "AI機能で異常を素早く検知、防爆形ネットワークカメラの新シリーズ",
+    "source": "MONOist_FA",
+    "published": "2026-09-02",
+    "first_seen_at": "2026-09-03T01:01:24.918509+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/02/news056.html": {
+    "title": "AI×CADで椅子をデザインせよ／40台の人型ロボットでフィジカルAIを育てる施設",
+    "source": "MONOist_FA",
+    "published": "2026-09-02",
+    "first_seen_at": "2026-09-03T01:01:24.918509+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108342/": {
+    "title": "ヘラマンタイトン、配線結束・保護用チューブ「ヘララップ」に耐候グレード・アイボリー色を追加",
+    "source": "オートメーション新聞",
+    "published": "2026-09-02",
+    "first_seen_at": "2026-09-03T01:01:24.918509+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108351/": {
+    "title": "コンテック、産業用コンピュータ向け「OS変更サービス」開始",
+    "source": "オートメーション新聞",
+    "published": "2026-09-02",
+    "first_seen_at": "2026-09-03T01:01:24.918509+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108419/": {
+    "title": "SEAJ、7月度の日本製半導体製造装置販売高は5562億2000万円",
+    "source": "オートメーション新聞",
+    "published": "2026-09-02",
+    "first_seen_at": "2026-09-03T01:01:24.918509+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108354/": {
+    "title": "ダイヘン、アーム付き自走ロボット「VIVACE」発売 離れた作業場所の複数工程を1台で自動化",
+    "source": "オートメーション新聞",
+    "published": "2026-09-02",
+    "first_seen_at": "2026-09-03T01:01:24.918509+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108336/": {
+    "title": "NITE、電気保安のスマート化推進に関する調査 着実に広がるスマート保安 課題はコストや専門人材不足",
+    "source": "オートメーション新聞",
+    "published": "2026-09-02",
+    "first_seen_at": "2026-09-03T01:01:24.918509+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108400/": {
+    "title": "山善 ものづくり研究所、9/9WEBセミナー「中小企業における航空宇宙部品産業への発展戦略」",
+    "source": "オートメーション新聞",
+    "published": "2026-09-02",
+    "first_seen_at": "2026-09-03T01:01:24.918509+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108456/": {
+    "title": "EIZO 産業用15型タッチパネルモニター「DuraVision FDX1502T-A」手袋やペンでの操作に対応【HMI・タッチパネル特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-02",
+    "first_seen_at": "2026-09-03T01:01:24.918509+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108396/": {
+    "title": "フォーティネットジャパン、9/03-9/04WEBセミナー OTセキュリティサミット開催",
+    "source": "オートメーション新聞",
+    "published": "2026-09-02",
+    "first_seen_at": "2026-09-03T01:01:24.918509+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108332/": {
+    "title": "計測展NEXT2026、10月21日からグランキューブ大阪で開催「計測・制御・情報のフェスティバル」へと進化 公式サイトオープン",
+    "source": "オートメーション新聞",
+    "published": "2026-09-02",
+    "first_seen_at": "2026-09-03T01:01:24.918509+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108328/": {
+    "title": "JIMTOF2026、10/26-10/31東京ビッグサイトで開催 来場事前登録を開始",
+    "source": "オートメーション新聞",
+    "published": "2026-09-02",
+    "first_seen_at": "2026-09-03T01:01:24.918509+00:00"
   }
 }

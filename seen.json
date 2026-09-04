@@ -6736,5 +6736,107 @@
     "source": "オートメーション新聞",
     "published": "2026-09-02",
     "first_seen_at": "2026-09-03T01:01:24.918509+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1787809134-912850": {
+    "title": "2026.09.04 エントリーレベルのAIロボティクス向けコンピューターを発表／NVIDIA 米国の画像処理装置（GPU）メーカーのNVIDIA（エヌビディア）は８月25日、ロボティクス向けコンピューター「NVIDIA Jetson Orin Nano……",
+    "source": "robot_digest_新着",
+    "published": "2026-09-04",
+    "first_seen_at": "2026-09-04T00:52:51.751711+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/03/news059.html": {
+    "title": "ルネサスが北京に次世代ロボティクスの開発を支援するラボを開設",
+    "source": "MONOist_ロボット",
+    "published": "2026-09-03",
+    "first_seen_at": "2026-09-04T00:52:51.751711+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/04/news031.html": {
+    "title": "動画像から“動き”を学習するフィジカルAI、リコーが仮想空間で有効性確認",
+    "source": "MONOist_FA",
+    "published": "2026-09-04",
+    "first_seen_at": "2026-09-04T00:52:51.751711+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/04/news028.html": {
+    "title": "半導体製造装置の生産リードタイム短縮へ、ソディックが高速ナノマシニングセンタ",
+    "source": "MONOist_FA",
+    "published": "2026-09-04",
+    "first_seen_at": "2026-09-04T00:52:51.751711+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/04/news035.html": {
+    "title": "マザックが新研究開発拠点、機能集約で開発リードタイムを短縮へ",
+    "source": "MONOist_FA",
+    "published": "2026-09-04",
+    "first_seen_at": "2026-09-04T00:52:51.751711+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/03/news033.html": {
+    "title": "FPD露光装置向けLED照明、消費電力65％減で装置全体10％以上の低電力化",
+    "source": "MONOist_FA",
+    "published": "2026-09-03",
+    "first_seen_at": "2026-09-04T00:52:51.751711+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/03/news068.html": {
+    "title": "パナソニックGの組織カルチャー変革／日立、宇宙プロジェクトの開発成果第1弾",
+    "source": "MONOist_FA",
+    "published": "2026-09-03",
+    "first_seen_at": "2026-09-04T00:52:51.751711+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108346/": {
+    "title": "SMC、耐水性向上2ポートソレノイドバルブ「JSXZ-X300」発売保護構造IP68適合",
+    "source": "オートメーション新聞",
+    "published": "2026-09-03",
+    "first_seen_at": "2026-09-04T00:52:51.751711+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108422/": {
+    "title": "日本工作機械工業会、工作機械の2026年上期受注額が初の1兆円超え 7月も高水準維持",
+    "source": "オートメーション新聞",
+    "published": "2026-09-03",
+    "first_seen_at": "2026-09-04T00:52:51.751711+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108373/": {
+    "title": "キーエンス、ロングレンジハンディターミナル「BT-A800シリーズ」発売従来比2倍以上の読み取り距離を実現",
+    "source": "オートメーション新聞",
+    "published": "2026-09-03",
+    "first_seen_at": "2026-09-04T00:52:51.751711+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108358/": {
+    "title": "ピーバンドットコム、「gene × Solist-AI ノーコード組み込みAI開発キット」提供開始 コード不要でエッジAIを検証可能",
+    "source": "オートメーション新聞",
+    "published": "2026-09-03",
+    "first_seen_at": "2026-09-04T00:52:51.751711+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108366/": {
+    "title": "日東工業、放電検出ユニット「スパーテクト TEM-1A」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-09-03",
+    "first_seen_at": "2026-09-04T00:52:51.751711+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108473/": {
+    "title": "シュナイダーエレクトリック ハンディー表示器「GPH6000シリーズ」高い操作性と現場用の安全性、堅牢性を兼備【HMI・タッチパネル特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-03",
+    "first_seen_at": "2026-09-04T00:52:51.751711+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108452/": {
+    "title": "富士電機 プログラマブル表示器「TS4000シリーズ」高精細ワイドモニターで情報量増加【HMI・タッチパネル特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-03",
+    "first_seen_at": "2026-09-04T00:52:51.751711+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108436/": {
+    "title": "キーエンス タッチパネルディスプレイ「VT5シリーズ」現場でのトラブル対応力を向上【HMI・タッチパネル特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-03",
+    "first_seen_at": "2026-09-04T00:52:51.751711+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108448/": {
+    "title": "三菱電機 グラフィックオペレーションターミナル「GOT3000」人とつながる 設備につながる 情報がつながる【HMI・タッチパネル特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-03",
+    "first_seen_at": "2026-09-04T00:52:51.751711+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108444/": {
+    "title": "パナソニック インダストリー プログラマブル表示器「WHシリーズ」WEBサーバ機能を搭載【HMI・タッチパネル特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-03",
+    "first_seen_at": "2026-09-04T00:52:51.751711+00:00"
   }
 }

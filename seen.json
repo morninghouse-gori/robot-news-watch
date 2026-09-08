@@ -6940,5 +6940,95 @@
     "source": "オートメーション新聞",
     "published": "2026-09-04",
     "first_seen_at": "2026-09-07T00:48:23.890395+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1787441324-844314": {
+    "title": "連載 2026.09.08 [注目製品PickUp！vol.96]自動化をスモールスタート！ 低コストで外観検査を自動…… 北陸地域に根差した商社の横山商会（石川県白山市、横山信太郎社長）は、外観検査の自動化提案に力を注ぐ。昨年には台湾のテックマンロボットの協働ロボットや人工知能（A……",
+    "source": "robot_digest_新着",
+    "published": "2026-09-08",
+    "first_seen_at": "2026-09-08T01:02:55.907654+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/08/news041.html": {
+    "title": "日立がノキアのドローンを国内販売、ドローンポートで自動飛行や遠隔運用も",
+    "source": "MONOist_ロボット",
+    "published": "2026-09-08",
+    "first_seen_at": "2026-09-08T01:02:55.907654+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/07/news018.html": {
+    "title": "自然言語指示でロボットの動作生成、パナソニックコネクトがサービス拡充",
+    "source": "MONOist_ロボット",
+    "published": "2026-09-07",
+    "first_seen_at": "2026-09-08T01:02:55.907654+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/08/news042.html": {
+    "title": "タンガロイとNTKカッティングツールが合併へ、両ブランドは継続して提供",
+    "source": "MONOist_FA",
+    "published": "2026-09-08",
+    "first_seen_at": "2026-09-08T01:02:55.907654+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/08/news024.html": {
+    "title": "ソニーセミコンダクタソリューションズ、産業AI高度化でAramcoと協業検討へ",
+    "source": "MONOist_FA",
+    "published": "2026-09-08",
+    "first_seen_at": "2026-09-08T01:02:55.907654+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/07/news086.html": {
+    "title": "タムロンがレーザー溶接加工分野参入へ、加工ヘッドとビームプロファイラを開発",
+    "source": "MONOist_FA",
+    "published": "2026-09-08",
+    "first_seen_at": "2026-09-08T01:02:55.907654+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/07/news053.html": {
+    "title": "【現地取材】パナソニックEW アユタヤ工場／二輪車安全に注力するホンダとUber",
+    "source": "MONOist_FA",
+    "published": "2026-09-07",
+    "first_seen_at": "2026-09-08T01:02:55.907654+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108902/": {
+    "title": "【オートメーション新聞 No.460】産業用イーサネット市場 10年で2倍へ / 9月11日、産業オープンネット展開催 / FAトップインタビュー：横河ソリューションサービス、 パナソニックインダストリー/ 三菱電機 FA統合コントローラ EtherCAT対応版が登場 / コネクタ・配線接続機器特集 / 産業用ネットワーク関連特集（2026年9月9日発行）",
+    "source": "オートメーション新聞",
+    "published": "2026-09-08",
+    "first_seen_at": "2026-09-08T01:02:55.907654+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108490/": {
+    "title": "住友建機、神奈川県横須賀市の住友重機械工業横須賀製造所内に大型ショベル新工場",
+    "source": "オートメーション新聞",
+    "published": "2026-09-07",
+    "first_seen_at": "2026-09-08T01:02:55.907654+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108411/": {
+    "title": "富士電機機器制御、9/17WEBセミナー「設備現場担当者がリアルに語る！電力『見える化』導入の問題点と解決策」",
+    "source": "オートメーション新聞",
+    "published": "2026-09-07",
+    "first_seen_at": "2026-09-08T01:02:55.907654+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108404/": {
+    "title": "ダッソー・システムズ、9/11東京・丸の内でシミュレーション領域の年次カンファレンス開催",
+    "source": "オートメーション新聞",
+    "published": "2026-09-07",
+    "first_seen_at": "2026-09-08T01:02:55.907654+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108562/": {
+    "title": "コンテック、国際セキュリティ規格「IEC 62443-4-1」の認証を取得",
+    "source": "オートメーション新聞",
+    "published": "2026-09-07",
+    "first_seen_at": "2026-09-08T01:02:55.907654+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108553/": {
+    "title": "ファナック、科学技術館に産業用ロボットをロボ活用した「ロボットサッカー対戦」を常設展示",
+    "source": "オートメーション新聞",
+    "published": "2026-09-07",
+    "first_seen_at": "2026-09-08T01:02:55.907654+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108504/": {
+    "title": "住友精化、兵庫県姫路市の姫路工場で吸水性樹脂リサイクルのパイロット設備稼働 使用済み紙おむつリサイクルへ",
+    "source": "オートメーション新聞",
+    "published": "2026-09-07",
+    "first_seen_at": "2026-09-08T01:02:55.907654+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108509/": {
+    "title": "船場化成、徳島県美馬市の西長峰工場に生分解性ポリマーなどの第4工場を建設",
+    "source": "オートメーション新聞",
+    "published": "2026-09-07",
+    "first_seen_at": "2026-09-08T01:02:55.907654+00:00"
   }
 }

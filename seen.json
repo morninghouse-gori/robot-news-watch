@@ -7126,5 +7126,101 @@
     "source": "オートメーション新聞",
     "published": "2026-09-08",
     "first_seen_at": "2026-09-09T01:07:12.577352+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/10/news023.html": {
+    "title": "東電物流が倉庫の出荷数9割を自動化、Mujinのロボットと“割り切り”が実現の鍵",
+    "source": "MONOist_ロボット",
+    "published": "2026-09-10",
+    "first_seen_at": "2026-09-10T00:56:22.235515+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/10/news040.html": {
+    "title": "ギークプラスが双腕3本指ヒューマノイドを国内初公開、2027年度にテスト導入へ",
+    "source": "MONOist_ロボット",
+    "published": "2026-09-10",
+    "first_seen_at": "2026-09-10T00:56:22.235515+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/10/news070.html": {
+    "title": "AMRも協働ロボットも“共通基盤”で制御、パナソニック コネクトが新サービス",
+    "source": "MONOist_ロボット",
+    "published": "2026-09-10",
+    "first_seen_at": "2026-09-10T00:56:22.235515+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/09/news103.html": {
+    "title": "工場を「プロフィットセンター」に変える、実践的MES導入のススメ",
+    "source": "MONOist_FA",
+    "published": "2026-09-10",
+    "first_seen_at": "2026-09-10T00:56:22.235515+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/09/news050.html": {
+    "title": "仮想工場舞台にゲームで安全学習、10分で幾つ危険箇所を指摘できるか",
+    "source": "MONOist_FA",
+    "published": "2026-09-09",
+    "first_seen_at": "2026-09-10T00:56:22.235515+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/09/news064.html": {
+    "title": "原価の「見える化」はなぜ続かない？／Arm、上海で3つの新プロダクト発表",
+    "source": "MONOist_FA",
+    "published": "2026-09-09",
+    "first_seen_at": "2026-09-10T00:56:22.235515+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108693/": {
+    "title": "HMS Networks、9/16WEBセミナー 産業ネットワーク対応を“最短で”実現するAnybus CompactCom 40導入",
+    "source": "オートメーション新聞",
+    "published": "2026-09-09",
+    "first_seen_at": "2026-09-10T00:56:22.235515+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108649/": {
+    "title": "IO-Link コミュニティ ジャパン、9/18PMと11/6PMに東京・五反田で「IO-Link技術セミナー」",
+    "source": "オートメーション新聞",
+    "published": "2026-09-09",
+    "first_seen_at": "2026-09-10T00:56:22.235515+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108725/": {
+    "title": "ルネサス、中国・北京にフィジカルAIとロボティクスラボを開設",
+    "source": "オートメーション新聞",
+    "published": "2026-09-09",
+    "first_seen_at": "2026-09-10T00:56:22.235515+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108645/": {
+    "title": "IO-Link コミュニティ ジャパン、9/18AMと11/6AMに東京・五反田で「IO-Link体験セミナー」",
+    "source": "オートメーション新聞",
+    "published": "2026-09-09",
+    "first_seen_at": "2026-09-10T00:56:22.235515+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108881/": {
+    "title": "たけびし、電子部品や半導体販売のGennex Groupを子会社化 ASEANでの事業強化",
+    "source": "オートメーション新聞",
+    "published": "2026-09-09",
+    "first_seen_at": "2026-09-10T00:56:22.235515+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108887/": {
+    "title": "9/11 産業オープンネット展 東京2026開催 現場からクラウドまでをつなぐオープンネットワーク技術",
+    "source": "オートメーション新聞",
+    "published": "2026-09-09",
+    "first_seen_at": "2026-09-10T00:56:22.235515+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108894/": {
+    "title": "産業用イーサネット、市場規模は今後10年で2倍へ 製造業のAX・DXを支える重要インフラ",
+    "source": "オートメーション新聞",
+    "published": "2026-09-09",
+    "first_seen_at": "2026-09-10T00:56:22.235515+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108781/": {
+    "title": "安川電機、人協働ロボット「MOTOMAN-HC12」発売 安全性と生産性を向上",
+    "source": "オートメーション新聞",
+    "published": "2026-09-09",
+    "first_seen_at": "2026-09-10T00:56:22.235515+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108773/": {
+    "title": "安川電機、ACサーボドライブ「Σ-Xシリーズ」が国際安全規格準拠の16種類の安全機能に対応",
+    "source": "オートメーション新聞",
+    "published": "2026-09-09",
+    "first_seen_at": "2026-09-10T00:56:22.235515+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108769/": {
+    "title": "パナソニック、ハイパースペクトルカメラ連携のAI検査ソフト「AG-HSS10」を発売",
+    "source": "オートメーション新聞",
+    "published": "2026-09-09",
+    "first_seen_at": "2026-09-10T00:56:22.235515+00:00"
   }
 }

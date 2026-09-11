@@ -7222,5 +7222,89 @@
     "source": "オートメーション新聞",
     "published": "2026-09-09",
     "first_seen_at": "2026-09-10T00:56:22.235515+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1789007887-488301": {
+    "title": "2026.09.11 かき混ぜ作業用の遠隔操作向けユニットを発売／川崎重工業 川崎重工業は９月９日、遠隔操作ロボットシステム「Successor（サクセサー）」に対応する操作ユニット「Plesio（プレシオ）」を発売した。",
+    "source": "robot_digest_新着",
+    "published": "2026-09-11",
+    "first_seen_at": "2026-09-11T00:52:57.920360+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/10/news046.html": {
+    "title": "安川電機が協働ロボットの新モデル、新開発のトルクセンサー採用",
+    "source": "MONOist_ロボット",
+    "published": "2026-09-10",
+    "first_seen_at": "2026-09-11T00:52:57.920360+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/10/news074.html": {
+    "title": "「国際物流総合展2026」を歩いて感じた3つのトレンド",
+    "source": "MONOist_FA",
+    "published": "2026-09-10",
+    "first_seen_at": "2026-09-11T00:52:57.920360+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/10/news073.html": {
+    "title": "東電物流が「MujinRCP」でピッキング自動化／パナソニック コネクトの新サービス",
+    "source": "MONOist_FA",
+    "published": "2026-09-10",
+    "first_seen_at": "2026-09-11T00:52:57.920360+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108705/": {
+    "title": "立花エレテック、9/17WEBセミナー ロジック回路基礎編を開催",
+    "source": "オートメーション新聞",
+    "published": "2026-09-10",
+    "first_seen_at": "2026-09-11T00:52:57.920360+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108720/": {
+    "title": "日立産機システム、情報誌「VoltAge21」2026年9月号を発行",
+    "source": "オートメーション新聞",
+    "published": "2026-09-10",
+    "first_seen_at": "2026-09-11T00:52:57.920360+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108729/": {
+    "title": "堀場製作所、燃料電池用触媒開発を効率化する自動・自律実験システムを本格化",
+    "source": "オートメーション新聞",
+    "published": "2026-09-10",
+    "first_seen_at": "2026-09-11T00:52:57.920360+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108678/": {
+    "title": "日本フィールドコムグループら、9/15WEBセミナー「計装初心者のための入門講座」開催",
+    "source": "オートメーション新聞",
+    "published": "2026-09-10",
+    "first_seen_at": "2026-09-11T00:52:57.920360+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108690/": {
+    "title": "SEMI、9/15WEBセミナー「半導体は設計する時代へ」開催",
+    "source": "オートメーション新聞",
+    "published": "2026-09-10",
+    "first_seen_at": "2026-09-11T00:52:57.920360+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108898/": {
+    "title": "現役生産技術シマタケの 「電気エンジニアのツボ」出張版⑰「FA機器の通信規格は、なぜこんなに多いのか」",
+    "source": "オートメーション新聞",
+    "published": "2026-09-10",
+    "first_seen_at": "2026-09-11T00:52:57.920360+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108884/": {
+    "title": "因幡電機産業、フジクラ子会社の藤倉商事を完全子会社化 産機部門における電子事業を強化",
+    "source": "オートメーション新聞",
+    "published": "2026-09-10",
+    "first_seen_at": "2026-09-11T00:52:57.920360+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108785/": {
+    "title": "東洋技研、スプリングロック式コモン端子台「VTXCシリーズ」に分配用端子台8機種を追加 太い電線から電源分配が可能",
+    "source": "オートメーション新聞",
+    "published": "2026-09-10",
+    "first_seen_at": "2026-09-11T00:52:57.920360+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108777/": {
+    "title": "ミネベアミツミ、エッジAI端末「ITB-5111」発売 Qualcommの最新プロセッサ搭載",
+    "source": "オートメーション新聞",
+    "published": "2026-09-10",
+    "first_seen_at": "2026-09-11T00:52:57.920360+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108765/": {
+    "title": "TURCK、耐環境セーフティI/Oシステム「ターク セーフリンク」発売 安全PLCレスで分散型安全制御を実現",
+    "source": "オートメーション新聞",
+    "published": "2026-09-10",
+    "first_seen_at": "2026-09-11T00:52:57.920360+00:00"
   }
 }

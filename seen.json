@@ -7306,5 +7306,83 @@
     "source": "オートメーション新聞",
     "published": "2026-09-10",
     "first_seen_at": "2026-09-11T00:52:57.920360+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/14/news046.html": {
+    "title": "人の手首のような高速外観AI不良検査、多点／多面で複雑形状に対応",
+    "source": "MONOist_FA",
+    "published": "2026-09-14",
+    "first_seen_at": "2026-09-14T00:51:15.578077+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/14/news043.html": {
+    "title": "荏原製作所の状態監視クラウド、独自センサーでポンプなど24時間状態監視",
+    "source": "MONOist_FA",
+    "published": "2026-09-14",
+    "first_seen_at": "2026-09-14T00:51:15.578077+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/11/news049.html": {
+    "title": "ソディックの自動搬送装置が可搬質量43kgに、中型ワークの搬送に対応",
+    "source": "MONOist_FA",
+    "published": "2026-09-11",
+    "first_seen_at": "2026-09-14T00:51:15.578077+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108616/": {
+    "title": "住友精化、兵庫県姫路市の姫路工場で紙おむつの吸水性樹脂リサイクルのパイロット設備稼働",
+    "source": "オートメーション新聞",
+    "published": "2026-09-13",
+    "first_seen_at": "2026-09-14T00:51:15.578077+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108829/": {
+    "title": "シュナイダーエレクトリック 産業用イーサネットスイッチ「Modiconスイッチ」高い信頼性と冗長性【産業用ネットワーク関連機器特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-13",
+    "first_seen_at": "2026-09-14T00:51:15.578077+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108801/": {
+    "title": "フエニックス・コンタクト 新しい接続体験を 新接続技術Push-Xテクノロジ 新製品XT・XTVシリーズをリリース【配線接続・コネクタ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-13",
+    "first_seen_at": "2026-09-14T00:51:15.578077+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108797/": {
+    "title": "ヒロセ電機 産業機器向け汎用小型I/Oコネクタ「IX Series」小型・堅牢性でIEC 61076-3-124規格準拠【配線接続・コネクタ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-13",
+    "first_seen_at": "2026-09-14T00:51:15.578077+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108714/": {
+    "title": "安川電機、e-メカサイトでFOOMA JAPAN 2026出展のAIロボティクスなどデモ動画を公開",
+    "source": "オートメーション新聞",
+    "published": "2026-09-13",
+    "first_seen_at": "2026-09-14T00:51:15.578077+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108850/": {
+    "title": "TURCK（ターク・ジャパン）耐環境型リモートI/O「TBENシリーズ」エフィシエンシーライン 必要十分な機能と高コスパを両立【産業用ネットワーク関連機器特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-13",
+    "first_seen_at": "2026-09-14T00:51:15.578077+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108846/": {
+    "title": "オムロン IO-Linkマスタユニット「GD シリーズ」配線してつなぐだけ 100社以上のデバイスと自動接続【産業用ネットワーク関連機器特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-12",
+    "first_seen_at": "2026-09-14T00:51:15.578077+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108757/": {
+    "title": "SMC、産業用無線システム「EXW1」にモジュラタイプを追加",
+    "source": "オートメーション新聞",
+    "published": "2026-09-12",
+    "first_seen_at": "2026-09-14T00:51:15.578077+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108825/": {
+    "title": "コンテック 産業用マネージドスイッチングHUB「SH-9210F」SFPスロット2 ポート搭載【産業用ネットワーク関連機器特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-12",
+    "first_seen_at": "2026-09-14T00:51:15.578077+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108711/": {
+    "title": "三菱電機、単一のAIモデルで多様な音を聞き分ける「タスク汎用音源分離技術」を開発",
+    "source": "オートメーション新聞",
+    "published": "2026-09-12",
+    "first_seen_at": "2026-09-14T00:51:15.578077+00:00"
   }
 }

@@ -7384,5 +7384,119 @@
     "source": "オートメーション新聞",
     "published": "2026-09-12",
     "first_seen_at": "2026-09-14T00:51:15.578077+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1788400695-260799": {
+    "title": "連載 2026.09.15 [注目製品PickUp! vol.98] 簡単操作の国産けん引AMR／エクセディ「Neib…… 中国などの海外メーカーの勢いが著しい自律走行型搬送ロボット（AMR）。そうした時流に反して、国内からの部品調達、国内のネットワークにこだわり安全性や信頼性を強み……",
+    "source": "robot_digest_新着",
+    "published": "2026-09-15",
+    "first_seen_at": "2026-09-15T01:17:42.866787+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1787896039-068308": {
+    "title": "連載 2026.09.14 [注目製品PickUp!vol.97]搬送ロボットの位置ずれを補正／エイテック「アジャスト…… 工具のメンテナンス事業やボールトランスファー事業を手掛けるエイテック（愛知県大府市、英保真一郎社長）は今年６月、無人搬送車（AGV）や自律走行型搬送ロボット（A……",
+    "source": "robot_digest_新着",
+    "published": "2026-09-14",
+    "first_seen_at": "2026-09-15T01:17:42.866787+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1789098981-739272": {
+    "title": "2026.09.11 溶接用のAIエージェントを開発／ファナック ファナックは９月11日、アーク溶接向けの「AI溶接エージェント」を開発したと発表した。部品の図面を生成人工知能（AI）「Gemini EnterPrise（ジェ……",
+    "source": "robot_digest_新着",
+    "published": "2026-09-11",
+    "first_seen_at": "2026-09-15T01:17:42.866787+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/15/news056.html": {
+    "title": "フィジカルAI支えるURの新たな協働ロボット基盤の全貌、2027年にはGPU搭載",
+    "source": "MONOist_ロボット",
+    "published": "2026-09-15",
+    "first_seen_at": "2026-09-15T01:17:42.866787+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/15/news026.html": {
+    "title": "ファナックがAI溶接エージェント開発、溶接条件やロボット動作を自動生成",
+    "source": "MONOist_FA",
+    "published": "2026-09-15",
+    "first_seen_at": "2026-09-15T01:17:42.866787+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/15/news021.html": {
+    "title": "テスラにおけるギガキャストの基本的な考え方と方向性【中編】",
+    "source": "MONOist_FA",
+    "published": "2026-09-15",
+    "first_seen_at": "2026-09-15T01:17:42.866787+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/15/news058.html": {
+    "title": "なぜ現場でAIを使いこなせるのか、パナソニック インダストリー山口拠点の10年",
+    "source": "MONOist_FA",
+    "published": "2026-09-15",
+    "first_seen_at": "2026-09-15T01:17:42.866787+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/14/news062.html": {
+    "title": "中村留が「半導体・光学事業部」発足、ウエハーのエッジ加工装置など展開",
+    "source": "MONOist_FA",
+    "published": "2026-09-14",
+    "first_seen_at": "2026-09-15T01:17:42.866787+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/14/news057.html": {
+    "title": "家電の落下破損、CAEで何を見る？／「サイバーキャブ」の外板は塗装レスの樹脂製",
+    "source": "MONOist_FA",
+    "published": "2026-09-14",
+    "first_seen_at": "2026-09-15T01:17:42.866787+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108999/": {
+    "title": "【オートメーション新聞 No.461】JEMA「産業用モータのグリーン化ガイドライン」公開 / アドバンテック「Edge AI Day 2026」開催 / FAトップインタビュー：シュナイダーエレクトリック / アイエイアイ ビジョンシステム「ROBO-Sight RS2-DC」発売 （2026年9月16日発行）",
+    "source": "オートメーション新聞",
+    "published": "2026-09-14",
+    "first_seen_at": "2026-09-15T01:17:42.866787+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108612/": {
+    "title": "パーカープロセッシング、兵庫県加西市に化成処理のひょうご加西工場を建設",
+    "source": "オートメーション新聞",
+    "published": "2026-09-14",
+    "first_seen_at": "2026-09-15T01:17:42.866787+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108620/": {
+    "title": "ＪＸ金属商事、大阪府高槻市の高槻工場でロジウムめっき液の生産能力増強",
+    "source": "オートメーション新聞",
+    "published": "2026-09-14",
+    "first_seen_at": "2026-09-15T01:17:42.866787+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108637/": {
+    "title": "光洋、ベトナム・ドンナイ市で精密ばねを製造する現地拠点が本格稼働",
+    "source": "オートメーション新聞",
+    "published": "2026-09-14",
+    "first_seen_at": "2026-09-15T01:17:42.866787+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108699/": {
+    "title": "日伝、9/17に新潟県長岡市でプライベート展示会「MEKASYS in 長岡2026」開催",
+    "source": "オートメーション新聞",
+    "published": "2026-09-14",
+    "first_seen_at": "2026-09-15T01:17:42.866787+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108642/": {
+    "title": "トクヤマ、韓国平沢市にフォトレジスト用現像液TMAHの平沢工場を新設",
+    "source": "オートメーション新聞",
+    "published": "2026-09-14",
+    "first_seen_at": "2026-09-15T01:17:42.866787+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108631/": {
+    "title": "日立造船マリンエンジン、熊本県長洲町にアンモニア燃料船対応の運転設備を追設",
+    "source": "オートメーション新聞",
+    "published": "2026-09-14",
+    "first_seen_at": "2026-09-15T01:17:42.866787+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108862/": {
+    "title": "東洋技研 CC-Link IE TSN対応リモートI/Oターミナル「MT1XR」コモン端子台付きで調達、結線工数、スペースを削減【産業用ネットワーク関連機器特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-14",
+    "first_seen_at": "2026-09-15T01:17:42.866787+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108854/": {
+    "title": "ヒルシャー（Hilscher）プラグイン組込みモジュール「netRAPID 90IC」netX 90ベースの通信モジュール【産業用ネットワーク関連機器特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-14",
+    "first_seen_at": "2026-09-15T01:17:42.866787+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108833/": {
+    "title": "フエニックス・コンタクト 高速低遅延でセキュアな無線LAN 「FL WLAN」シリーズ Wi-Fi ６AP、Wi-Fi 6E対応アダプタ【産業用ネットワーク関連機器特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-14",
+    "first_seen_at": "2026-09-15T01:17:42.866787+00:00"
   }
 }

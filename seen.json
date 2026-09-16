@@ -7498,5 +7498,107 @@
     "source": "オートメーション新聞",
     "published": "2026-09-14",
     "first_seen_at": "2026-09-15T01:17:42.866787+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1788400744-745815": {
+    "title": "連載 2026.09.16 [注目製品PickUp! vol.99]高い走破性で屋外搬送を自動化／ソミックトランスフォ…… ソミックトランスフォーメーション（浜松市中央区、石川彰吾代表）は、作業支援ロボット「SUPPOT（サポット）」を開発、製造、販売する。自動運転、自動追従、遠隔操……",
+    "source": "robot_digest_新着",
+    "published": "2026-09-16",
+    "first_seen_at": "2026-09-16T01:11:52.882949+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/16/news016.html": {
+    "title": "拡大するAI需要、東邦チタニウムがハイエンドMLCC向け材料増産",
+    "source": "MONOist_FA",
+    "published": "2026-09-16",
+    "first_seen_at": "2026-09-16T01:11:52.882949+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/16/news042.html": {
+    "title": "光沢品、極小品、半透明品にも対応、京セラがAIビジョンでロボット自動化を提案",
+    "source": "MONOist_FA",
+    "published": "2026-09-16",
+    "first_seen_at": "2026-09-16T01:11:52.882949+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/16/news008.html": {
+    "title": "「ダイシング」を知らずに後工程は語れない～ウエハーがチップへ変わる出発点～",
+    "source": "MONOist_FA",
+    "published": "2026-09-16",
+    "first_seen_at": "2026-09-16T01:11:52.882949+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/15/news033.html": {
+    "title": "トルク性能を最大17％向上、山洋電気の多軸一体型ステッピングドライバ",
+    "source": "MONOist_FA",
+    "published": "2026-09-15",
+    "first_seen_at": "2026-09-16T01:11:52.882949+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/15/news015.html": {
+    "title": "約1割がサイバー攻撃を経験、OTセキュリティ実態調査2026",
+    "source": "MONOist_FA",
+    "published": "2026-09-15",
+    "first_seen_at": "2026-09-16T01:11:52.882949+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/15/news063.html": {
+    "title": "テスラのギガキャストに関する考え方を深掘り／AI時代における次世代半導体設計",
+    "source": "MONOist_FA",
+    "published": "2026-09-15",
+    "first_seen_at": "2026-09-16T01:11:52.882949+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108605/": {
+    "title": "リンナイ、愛知県瀬戸市の瀬戸工場隣接地を取得し高効率給湯機器の生産体制強化",
+    "source": "オートメーション新聞",
+    "published": "2026-09-15",
+    "first_seen_at": "2026-09-16T01:11:52.882949+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108609/": {
+    "title": "中部日本プラスチック、愛知県小牧市にエンプラ再生原料の愛知工場を開設",
+    "source": "オートメーション新聞",
+    "published": "2026-09-15",
+    "first_seen_at": "2026-09-16T01:11:52.882949+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108634/": {
+    "title": "トクヤマ、台湾高雄市に電子工業用高純度IPAの第2プラントを建設",
+    "source": "オートメーション新聞",
+    "published": "2026-09-15",
+    "first_seen_at": "2026-09-16T01:11:52.882949+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108623/": {
+    "title": "任天堂、京都市南区にゲーム機やソフトを研究開発する技術開発棟を建設",
+    "source": "オートメーション新聞",
+    "published": "2026-09-15",
+    "first_seen_at": "2026-09-16T01:11:52.882949+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108628/": {
+    "title": "大黒天物産、香川県観音寺市に食料品を製造加工する四国プロセスセンターを建設",
+    "source": "オートメーション新聞",
+    "published": "2026-09-15",
+    "first_seen_at": "2026-09-16T01:11:52.882949+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108858/": {
+    "title": "三菱電機システムサービス CC-Link IE TSN対応産業用メディアコンバータ「DMC-1000TL-DC」局間距離を最大10kmまで拡大【産業用ネットワーク関連機器特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-15",
+    "first_seen_at": "2026-09-16T01:11:52.882949+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108837/": {
+    "title": "WAGO（ワゴジャパン）リーンマネージドスイッチ 高信頼性と堅牢性、高い可用性、高セキュリティ【産業用ネットワーク関連機器特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-15",
+    "first_seen_at": "2026-09-16T01:11:52.882949+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108817/": {
+    "title": "HMS Networks 組み込みネットワークインターフェース「Anybus CompactCom」産業ネットワーク対応開発時間を短縮【産業用ネットワーク関連機器特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-15",
+    "first_seen_at": "2026-09-16T01:11:52.882949+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108809/": {
+    "title": "WAGO（ワゴジャパン）コネクタ端子台「PM32シリーズ」従来品からさらに小型化・見やすさ向上【配線接続・コネクタ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-09-15",
+    "first_seen_at": "2026-09-16T01:11:52.882949+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108664/": {
+    "title": "ODVA TAG Japan、10/8大阪・梅田で「EtherNet/IPネットワーク構築セミナー」開催",
+    "source": "オートメーション新聞",
+    "published": "2026-09-15",
+    "first_seen_at": "2026-09-16T01:11:52.882949+00:00"
   }
 }

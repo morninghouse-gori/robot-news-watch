@@ -7600,5 +7600,41 @@
     "source": "オートメーション新聞",
     "published": "2026-09-15",
     "first_seen_at": "2026-09-16T01:11:52.882949+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1788564304-020718": {
+    "title": "2026.09.17 協働ロボットのパッケージシステムを開発、製造現場の自動化を推進／愛三工業 大手自動車部品メーカーの愛三工業は2021年に中国のJAKA（ジャカ）ロボティクスの協働ロボットを初めて導入して以来、協働ロボットを使った製造現場の自動化を推し……",
+    "source": "robot_digest_新着",
+    "published": "2026-09-17",
+    "first_seen_at": "2026-09-17T01:13:24.482865+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/17/news053.html": {
+    "title": "国産汎用ロボットによるフィジカルAIのデータ収集で7社が競う、試作機を披露",
+    "source": "MONOist_ロボット",
+    "published": "2026-09-17",
+    "first_seen_at": "2026-09-17T01:13:24.482865+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/17/news016.html": {
+    "title": "非接触給電×磁気浮遊搬送で自動化 “浮かび”ながら“見る”“つかむ“",
+    "source": "MONOist_FA",
+    "published": "2026-09-17",
+    "first_seen_at": "2026-09-17T01:13:24.482865+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/17/news048.html": {
+    "title": "HBMボンディング狙う パナソニックのフルクローズ圧力制御サーボアンプ",
+    "source": "MONOist_FA",
+    "published": "2026-09-17",
+    "first_seen_at": "2026-09-17T01:13:24.482865+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/16/news022.html": {
+    "title": "パナソニックの設計AI事例やフィジカルAIの展望も 「Virtual EXPO 2026 夏」開催中！",
+    "source": "MONOist_FA",
+    "published": "2026-09-16",
+    "first_seen_at": "2026-09-17T01:13:24.482865+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/16/news054.html": {
+    "title": "半導体後工程の入り口「ダイシング」とは／都内で自動運転タクシーの商用化目指す",
+    "source": "MONOist_FA",
+    "published": "2026-09-16",
+    "first_seen_at": "2026-09-17T01:13:24.482865+00:00"
   }
 }

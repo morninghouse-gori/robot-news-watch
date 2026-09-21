@@ -7732,5 +7732,83 @@
     "source": "オートメーション新聞",
     "published": "2026-09-16",
     "first_seen_at": "2026-09-18T01:08:29.616064+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1789707892-326431": {
+    "title": "2026.09.18 AI搭載の製造現場向けロボットを40万台導入／トヨタ自動車 トヨタ自動車の欧州統括会社であるToyota Motor Europe（トヨタ・モーター・ヨーロッパ）が９月中旬に開催した投資家向け技術説明会で、製造現場に自社……",
+    "source": "robot_digest_新着",
+    "published": "2026-09-18",
+    "first_seen_at": "2026-09-21T00:56:32.462092+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1789717339-660243": {
+    "title": "2026.09.18 ヒト型ロボットのAIデータ収集センターを開設／アトム ヒューマノイド（ヒト型）ロボットを開発するアトム（東京都江東区、青木俊介社長）は８月26日、東京都江東区に人工知能（AI）用データを収集する施設「アトム・フィジ……",
+    "source": "robot_digest_新着",
+    "published": "2026-09-18",
+    "first_seen_at": "2026-09-21T00:56:32.462092+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/18/news052.html": {
+    "title": "力覚フィードバックで直感的操作、熟練のかき混ぜ作業を自動化 川崎重工",
+    "source": "MONOist_FA",
+    "published": "2026-09-18",
+    "first_seen_at": "2026-09-21T00:56:32.462092+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/18/news060.html": {
+    "title": "中国フィジカルAI主要15社と5大集積地で見る／イタリア海軍“フルスペック”哨戒艦に潜入！",
+    "source": "MONOist_FA",
+    "published": "2026-09-18",
+    "first_seen_at": "2026-09-21T00:56:32.462092+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108981/": {
+    "title": "トヨタ紡織、愛知県豊田市に次世代の自動車用シート新工場を建設",
+    "source": "オートメーション新聞",
+    "published": "2026-09-21",
+    "first_seen_at": "2026-09-21T00:56:32.462092+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108989/": {
+    "title": "レゾナック、山口県周南市の徳山事業所で高純度フッ化水素ガスの製造を開始",
+    "source": "オートメーション新聞",
+    "published": "2026-09-20",
+    "first_seen_at": "2026-09-21T00:56:32.462092+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/108985/": {
+    "title": "川崎重工、兵庫県加古郡播磨町の播磨工場に液化水素関連機器の試験設備整備",
+    "source": "オートメーション新聞",
+    "published": "2026-09-20",
+    "first_seen_at": "2026-09-21T00:56:32.462092+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109150/": {
+    "title": "福西電機、9/30WEBセミナー 組込みLinuxと支援サービスによるJC-STAR対策",
+    "source": "オートメーション新聞",
+    "published": "2026-09-18",
+    "first_seen_at": "2026-09-21T00:56:32.462092+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109114/": {
+    "title": "デルタ電子、蓄電システム「Cシリーズ」などがJC-STARレベル1認証を取得",
+    "source": "オートメーション新聞",
+    "published": "2026-09-18",
+    "first_seen_at": "2026-09-21T00:56:32.462092+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109049/": {
+    "title": "SCHLEGEL、8ピンM12コネクタ搭載の非常停止スイッチ新モデル3機種を発売",
+    "source": "オートメーション新聞",
+    "published": "2026-09-18",
+    "first_seen_at": "2026-09-21T00:56:32.462092+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109110/": {
+    "title": "ABB、東京都品川区に日本初のサービスワークショップを開設 受変電機器のサービス拠点",
+    "source": "オートメーション新聞",
+    "published": "2026-09-18",
+    "first_seen_at": "2026-09-21T00:56:32.462092+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109147/": {
+    "title": "ヴェス、09/29 WEBセミナー CRA脆弱性報告対応を解説",
+    "source": "オートメーション新聞",
+    "published": "2026-09-18",
+    "first_seen_at": "2026-09-21T00:56:32.462092+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109143/": {
+    "title": "コンテック、9/30WEBセミナー 「増え続けるPLC・専用コントローラをどうする？」",
+    "source": "オートメーション新聞",
+    "published": "2026-09-18",
+    "first_seen_at": "2026-09-21T00:56:32.462092+00:00"
   }
 }

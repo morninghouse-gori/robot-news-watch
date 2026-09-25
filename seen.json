@@ -7900,5 +7900,89 @@
     "source": "オートメーション新聞",
     "published": "2026-09-23",
     "first_seen_at": "2026-09-24T01:15:27.846473+00:00"
+  },
+  "https://newswitch.jp/p/50351": {
+    "title": "世界最大規模の半導体スパッタリング工場…JX金属が推進、自動化の現在地",
+    "source": "ニュースイッチ_産業用ロボット",
+    "published": "不明",
+    "first_seen_at": "2026-09-25T01:18:15.133715+00:00"
+  },
+  "https://newswitch.jp/keyword/detail/73813": {
+    "title": "# 半導体スパッタリング",
+    "source": "ニュースイッチ_産業用ロボット",
+    "published": "不明",
+    "first_seen_at": "2026-09-25T01:18:15.133715+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1789120965-472178": {
+    "title": "連載 2026.09.25 [ショールーム探訪 vol.44]稼働環境を再現し、清掃ロボットの真価を伝える／アマノ「A…… 労務管理システムや駐車場システム、集じん機などで高いシェアを誇るアマノは、清掃ロボット事業の歴史も長く、蓄積したノウハウがある。確かな清掃能力や操作の簡単さなど……",
+    "source": "robot_digest_新着",
+    "published": "2026-09-25",
+    "first_seen_at": "2026-09-25T01:18:15.133715+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/24/news036.html": {
+    "title": "小型無人機のAI自律制御技術が進展、航路の自動生成デモが可能に",
+    "source": "MONOist_ロボット",
+    "published": "2026-09-24",
+    "first_seen_at": "2026-09-25T01:18:15.133715+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/25/news018.html": {
+    "title": "帰納型の「情報の流れ分析法」と演繹型の「ワークデザイン法」",
+    "source": "MONOist_FA",
+    "published": "2026-09-25",
+    "first_seen_at": "2026-09-25T01:18:15.133715+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/25/news058.html": {
+    "title": "ソフトPLCがAIの「道具」に、簡単導入のPLCドラレコカメラも",
+    "source": "MONOist_FA",
+    "published": "2026-09-25",
+    "first_seen_at": "2026-09-25T01:18:15.133715+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/25/news039.html": {
+    "title": "三菱電機の安全シーケンサーが欧州機械規則に適合、TUVのEU型式認証取得",
+    "source": "MONOist_FA",
+    "published": "2026-09-25",
+    "first_seen_at": "2026-09-25T01:18:15.133715+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/24/news031.html": {
+    "title": "ウエハー研磨時の状態推移など 富士フイルムが圧力変化をリアルタイム可視化",
+    "source": "MONOist_FA",
+    "published": "2026-09-24",
+    "first_seen_at": "2026-09-25T01:18:15.133715+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/24/news043.html": {
+    "title": "AI対AIなら勝つのはどっち 審判の日は近い？",
+    "source": "MONOist_FA",
+    "published": "2026-09-24",
+    "first_seen_at": "2026-09-25T01:18:15.133715+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/24/news048.html": {
+    "title": "クラレの全社横断型組織「INC」／Japan Mobility Show Bizweek 2026の見どころ",
+    "source": "MONOist_FA",
+    "published": "2026-09-24",
+    "first_seen_at": "2026-09-25T01:18:15.133715+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109085/": {
+    "title": "近畿大学、パナソニック コネクトの協働ロボット制御サービスによりマダイ稚魚の自動選別装置を改良",
+    "source": "オートメーション新聞",
+    "published": "2026-09-24",
+    "first_seen_at": "2026-09-25T01:18:15.133715+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109057/": {
+    "title": "アイエイアイ、ビジョンシステム「ROBO-Sight RS2-DC」発売 ロボットやコントローラと簡単連携",
+    "source": "オートメーション新聞",
+    "published": "2026-09-24",
+    "first_seen_at": "2026-09-25T01:18:15.133715+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109081/": {
+    "title": "東京計装、配線不要の一体型クランプオン超音波流量計「UL100C」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-09-24",
+    "first_seen_at": "2026-09-25T01:18:15.133715+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109130/": {
+    "title": "JRC、省力化機械メーカーの機電を子会社化 ロボットSI・自動化事業を強化",
+    "source": "オートメーション新聞",
+    "published": "2026-09-24",
+    "first_seen_at": "2026-09-25T01:18:15.133715+00:00"
   }
 }

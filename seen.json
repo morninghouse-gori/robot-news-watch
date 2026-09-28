@@ -7984,5 +7984,77 @@
     "source": "オートメーション新聞",
     "published": "2026-09-24",
     "first_seen_at": "2026-09-25T01:18:15.133715+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1789466470-565316": {
+    "title": "2026.09.28 ヒューマノイドの学習データ収集拠点を開設／J-HRTI ヒューマノイド（ヒト型）ロボットの社会実装を目的とする民間企業コンソーシアム「J-HRTI（Jハーティー）」は８月26日、ヒューマノイドの学習データ収集拠点「J……",
+    "source": "robot_digest_新着",
+    "published": "2026-09-28",
+    "first_seen_at": "2026-09-28T01:28:42.000402+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/28/news058.html": {
+    "title": "ダイフクが物流倉庫の完全自動化へヒューマノイドを開発、2030年に実証実験",
+    "source": "MONOist_ロボット",
+    "published": "2026-09-28",
+    "first_seen_at": "2026-09-28T01:28:42.000402+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/28/news049.html": {
+    "title": "安川電機が熟練工の「感覚」をAIロボットで再現、カメラで見ながらアーク溶接",
+    "source": "MONOist_ロボット",
+    "published": "2026-09-28",
+    "first_seen_at": "2026-09-28T01:28:42.000402+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/28/news038.html": {
+    "title": "ファナックがAI溶接エージェント実演 ロボット制御装置が安全PLCに",
+    "source": "MONOist_ロボット",
+    "published": "2026-09-28",
+    "first_seen_at": "2026-09-28T01:28:42.000402+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/28/news029.html": {
+    "title": "北米トヨタとリビアンが導入進める、最大造形長1mの大型3Dプリンタ",
+    "source": "MONOist_FA",
+    "published": "2026-09-28",
+    "first_seen_at": "2026-09-28T01:28:42.000402+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/25/news075.html": {
+    "title": "NTNが軸受の状態監視システム、4段階の可視化で設備異常を早期検知",
+    "source": "MONOist_FA",
+    "published": "2026-09-25",
+    "first_seen_at": "2026-09-28T01:28:42.000402+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/25/news071.html": {
+    "title": "「G-SHOCK」デザインにAI活用、その狙いとは／ニデックの事業再生に向けた施策",
+    "source": "MONOist_FA",
+    "published": "2026-09-25",
+    "first_seen_at": "2026-09-28T01:28:42.000402+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109088/": {
+    "title": "三菱電機エンジニアリング、欧州CRA対応支援サービスを開始",
+    "source": "オートメーション新聞",
+    "published": "2026-09-27",
+    "first_seen_at": "2026-09-28T01:28:42.000402+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109069/": {
+    "title": "BECKHOFF、新世代マルチタッチパネルPC「CP4xxx」「CP5xxx」高性能とコスパを両立 2026年4Qに発売予定",
+    "source": "オートメーション新聞",
+    "published": "2026-09-27",
+    "first_seen_at": "2026-09-28T01:28:42.000402+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109065/": {
+    "title": "ベスタクト・ソリューションズ、4極とDC100V 0.5Aに対応したプラグイン型リレー「RB4P-GA型」を発売",
+    "source": "オートメーション新聞",
+    "published": "2026-09-26",
+    "first_seen_at": "2026-09-28T01:28:42.000402+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109061/": {
+    "title": "エムジー、プログラマブルオートメーションコントローラ「BA1C-PAC」発売 開発環境をCODESYSとNode-REDから選択可能",
+    "source": "オートメーション新聞",
+    "published": "2026-09-25",
+    "first_seen_at": "2026-09-28T01:28:42.000402+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109133/": {
+    "title": "不二電機工業、27年1月期上期決算、売上高3.3%増の20億円 材料費高騰で減益",
+    "source": "オートメーション新聞",
+    "published": "2026-09-25",
+    "first_seen_at": "2026-09-28T01:28:42.000402+00:00"
   }
 }

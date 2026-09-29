@@ -8056,5 +8056,95 @@
     "source": "オートメーション新聞",
     "published": "2026-09-25",
     "first_seen_at": "2026-09-28T01:28:42.000402+00:00"
+  },
+  "https://newswitch.jp/p/50379": {
+    "title": "省エネ・高速動作…日本精工が投入、ボールネジ技術を活用した油圧発生装置の機能",
+    "source": "ニュースイッチ_産業用ロボット",
+    "published": "不明",
+    "first_seen_at": "2026-09-29T02:31:42.603453+00:00"
+  },
+  "https://newswitch.jp/keyword/detail/73825": {
+    "title": "# 油圧発生装置",
+    "source": "ニュースイッチ_産業用ロボット",
+    "published": "不明",
+    "first_seen_at": "2026-09-29T02:31:42.603453+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1790147556-019372": {
+    "title": "イベント 2026.09.29 「工作機械＋ロボット」が至る所に、欧州製造業向けの最新ソリューション／AMB2026フォト…… 工作機械見本市「AMB2026」が９月15日～19日の５日間、ドイツ南西部のシュツットガルトで開催された。ロボットなどの自動化機器と最新の工作機械を組み合わせた……",
+    "source": "robot_digest_新着",
+    "published": "2026-09-29",
+    "first_seen_at": "2026-09-29T02:31:42.603453+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/29/news069.html": {
+    "title": "オープン化する産業用ネットワークを追う／元トヨタ生産技術の改善事例4選",
+    "source": "MONOist_FA",
+    "published": "2026-09-29",
+    "first_seen_at": "2026-09-29T02:31:42.603453+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/29/news024.html": {
+    "title": "大正から昭和へ、順風満帆の船出となった1926年の豊田自動織機製作所設立",
+    "source": "MONOist_FA",
+    "published": "2026-09-29",
+    "first_seen_at": "2026-09-29T02:31:42.603453+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/28/news015.html": {
+    "title": "なぜ鶏肉を次工程に手渡しすると歩留まりが上がるのか 元トヨタ生技の改善4選",
+    "source": "MONOist_FA",
+    "published": "2026-09-29",
+    "first_seen_at": "2026-09-29T02:31:42.603453+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/29/news018.html": {
+    "title": "作る前に品質を決める――PFUの外観検査設計技術がNEDOテーマ2で第1位を受賞",
+    "source": "MONOist_FA",
+    "published": "2026-09-29",
+    "first_seen_at": "2026-09-29T02:31:42.603453+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/29/news023.html": {
+    "title": "オープン化する産業用ネットワークを追う、ITとOTの融合が進む現在地とは",
+    "source": "MONOist_FA",
+    "published": "2026-09-29",
+    "first_seen_at": "2026-09-29T02:31:42.603453+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/29/news060.html": {
+    "title": "意外とくせになりそう？ 速いテンポで機械音を刻む“あの機械”の音",
+    "source": "MONOist_FA",
+    "published": "2026-09-29",
+    "first_seen_at": "2026-09-29T02:31:42.603453+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/28/news073.html": {
+    "title": "PLCに接続するだけ、フエストのAI予兆保全は他社製エアシリンダーもOK",
+    "source": "MONOist_FA",
+    "published": "2026-09-28",
+    "first_seen_at": "2026-09-29T02:31:42.603453+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/28/news067.html": {
+    "title": "世界から見た日本製造業の人件費／ファナックがAI溶接エージェントのデモを披露",
+    "source": "MONOist_FA",
+    "published": "2026-09-28",
+    "first_seen_at": "2026-09-29T02:31:42.603453+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109320/": {
+    "title": "【オートメーション新聞 No.462】厚生労働省「2025年労働災害統計」公開 / EPLAN NETWORK 2026 パネルディスカッション開催 / コグネックス RealSense買収で3Dマシンビジョン本格参入 / PC・コントローラ特集 / 盤用機器特集（2026年9月30日発行）",
+    "source": "オートメーション新聞",
+    "published": "2026-09-28",
+    "first_seen_at": "2026-09-29T02:31:42.603453+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109073/": {
+    "title": "神港テクノス、MECHATROLINK-4対応のリモートI/O「QX2シリーズ」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-09-28",
+    "first_seen_at": "2026-09-29T02:31:42.603453+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109103/": {
+    "title": "アズビル、統合報告書「azbilレポート2026」発行 新パーパス策定など",
+    "source": "オートメーション新聞",
+    "published": "2026-09-28",
+    "first_seen_at": "2026-09-29T02:31:42.603453+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109136/": {
+    "title": "ワゴジャパン、仙台オフィスを移転",
+    "source": "オートメーション新聞",
+    "published": "2026-09-28",
+    "first_seen_at": "2026-09-29T02:31:42.603453+00:00"
   }
 }

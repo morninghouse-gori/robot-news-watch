@@ -8200,5 +8200,101 @@
     "source": "オートメーション新聞",
     "published": "2026-09-29",
     "first_seen_at": "2026-09-30T01:54:48.971864+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1789625701-889565": {
+    "title": "2026.10.01 最新の物流ロボットが一堂に、アジア最大級の物流専門展が開催【その２】／国際物流総合展202…… ９月８日～11日の４日間、東京都江東区の東京ビッグサイトでアジア最大級の物流専門展「国際物流総合展2026」が開かれた。マテリアルハンドリング（マテハン）機器や……",
+    "source": "robot_digest_新着",
+    "published": "2026-10-01",
+    "first_seen_at": "2026-10-01T01:55:20.830355+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1789625969-207934": {
+    "title": "2026.10.01 [エディターズノートvol.31]未来の工場はこうなる ９月に大きな話題となったのが、トヨタ自動車のニュースだろう。トヨタの欧州統括会社が投資家向けの技術説明会で、2028年以降にトヨタグループやサプライヤー合わせて……",
+    "source": "robot_digest_新着",
+    "published": "2026-10-01",
+    "first_seen_at": "2026-10-01T01:55:20.830355+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/01/news031.html": {
+    "title": "日立とファナックがフィジカルAI協業 日立エッジAI×ファナックロボ有効性も検証",
+    "source": "MONOist_ロボット",
+    "published": "2026-10-01",
+    "first_seen_at": "2026-10-01T01:55:20.830355+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/01/news034.html": {
+    "title": "「デジタルスレッドとAIで動かす」 富士ソフトがスマート工場で10％成長狙う",
+    "source": "MONOist_ロボット",
+    "published": "2026-10-01",
+    "first_seen_at": "2026-10-01T01:55:20.830355+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/30/news092.html": {
+    "title": "300kg可搬AMRが自動受け渡しや位置補正に対応、PLCやAPIを介した設備連携も",
+    "source": "MONOist_FA",
+    "published": "2026-09-30",
+    "first_seen_at": "2026-10-01T01:55:20.830355+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2609/30/news073.html": {
+    "title": "Astemo Cypremosトップインタビュー／ニデック社長辞任、組織再編",
+    "source": "MONOist_FA",
+    "published": "2026-09-30",
+    "first_seen_at": "2026-10-01T01:55:20.830355+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109241/": {
+    "title": "マイクロ・テクニカ、お弁当・惣菜向けAI画像検査機「ToyoUkeVision」を発売",
+    "source": "オートメーション新聞",
+    "published": "2026-10-01",
+    "first_seen_at": "2026-10-01T01:55:20.830355+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109217/": {
+    "title": "ミネベアミツミ、ブラシレスDCモーター使用の小型電動真空ポンプ開発 単一電池より小さな小型軽量",
+    "source": "オートメーション新聞",
+    "published": "2026-09-30",
+    "first_seen_at": "2026-10-01T01:55:20.830355+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109276/": {
+    "title": "安川電機、eメカサイトのeラーニングに「サーボドライブセットアップ入門（Σ-Xシリーズ）」追加",
+    "source": "オートメーション新聞",
+    "published": "2026-09-30",
+    "first_seen_at": "2026-10-01T01:55:20.830355+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109213/": {
+    "title": "ビー・アンド・プラス、受放電コネクタ付きのAGV向けリチウムバッテリーを発売",
+    "source": "オートメーション新聞",
+    "published": "2026-09-30",
+    "first_seen_at": "2026-10-01T01:55:20.830355+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109265/": {
+    "title": "厚生労働省 2025年労働災害統計 死傷者数じわり増加 労働人材の変化影響 製造業は着実に減少",
+    "source": "オートメーション新聞",
+    "published": "2026-09-30",
+    "first_seen_at": "2026-10-01T01:55:20.830355+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109257/": {
+    "title": "米・Cognex、ロボット認識技術のRealSenseを買収 フィジカルAI向けビジョン本格参入",
+    "source": "オートメーション新聞",
+    "published": "2026-09-30",
+    "first_seen_at": "2026-10-01T01:55:20.830355+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109253/": {
+    "title": "NECA、学生向け就活応援サイトを開設 電気制御技術業界の魅力発信",
+    "source": "オートメーション新聞",
+    "published": "2026-09-30",
+    "first_seen_at": "2026-10-01T01:55:20.830355+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109272/": {
+    "title": "三菱電機、MELSEC iQ-Rシリーズ安全シーケンサが欧州機械規則適合のEU型式認証を取得",
+    "source": "オートメーション新聞",
+    "published": "2026-09-30",
+    "first_seen_at": "2026-10-01T01:55:20.830355+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109261/": {
+    "title": "パネルディスカッション「設計データはどこまでつながるのか― 設計から製造までのデータ活用を考える ―」＠8/4「EPLAN NETWORK 2026」",
+    "source": "オートメーション新聞",
+    "published": "2026-09-30",
+    "first_seen_at": "2026-10-01T01:55:20.830355+00:00"
+  },
+  "https://www.automation-news.jp/2026/09/109289/": {
+    "title": "ミスミ、米国に5000万ドル規模のCVCファンドを設立 米国スタートアップ支援を強化",
+    "source": "オートメーション新聞",
+    "published": "2026-09-30",
+    "first_seen_at": "2026-10-01T01:55:20.830355+00:00"
   }
 }

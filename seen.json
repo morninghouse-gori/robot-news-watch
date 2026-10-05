@@ -8410,5 +8410,47 @@
     "source": "オートメーション新聞",
     "published": "2026-10-01",
     "first_seen_at": "2026-10-02T02:04:40.016602+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1790667722-790470": {
+    "title": "2026.10.05 ロボット系企業が日本スタートアップ大賞を複数受賞、最高賞はMujinに 経済産業省は９月25日、「日本スタートアップ大賞2026」の受賞企業を発表し、表彰式を首相官邸で開催した。最高賞の内閣総理大臣賞（日本スタートアップ大賞）にはM……",
+    "source": "robot_digest_新着",
+    "published": "2026-10-05",
+    "first_seen_at": "2026-10-05T01:45:52.495292+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1790656921-629076": {
+    "title": "2026.10.05 AIロボットを当たり前の選択肢に／日本ロボット工業会 小川 昌寛 会長 今年５月に就任した日本ロボット工業会の小川昌寛会長（安川電機副会長執行役員）は、人工知能（AI）を組み込んだAIロボットの普及に力を入れる。AIロボットが解決策……",
+    "source": "robot_digest_新着",
+    "published": "2026-10-05",
+    "first_seen_at": "2026-10-05T01:45:52.495292+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/05/news021.html": {
+    "title": "「フィジカルAI」でどう社会を変えるのか――KDDIとRLWRLDが挑む共創の舞台裏",
+    "source": "MONOist_ロボット",
+    "published": "2026-10-05",
+    "first_seen_at": "2026-10-05T01:45:52.495292+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/05/news026.html": {
+    "title": "ニデックが米カーライルに1000億円で子会社売却へ、ポートフォリオ転換",
+    "source": "MONOist_FA",
+    "published": "2026-10-05",
+    "first_seen_at": "2026-10-05T01:45:52.495292+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/03/news008.html": {
+    "title": "相次ぐ不正問題で揺らぐ信頼、巨額減損――ニデックは今後どうなるのか",
+    "source": "MONOist_FA",
+    "published": "2026-10-03",
+    "first_seen_at": "2026-10-05T01:45:52.495292+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/02/news053.html": {
+    "title": "アンプ内蔵の限定反射型光電センサー、パナソニックインダストリーが新シリーズ",
+    "source": "MONOist_FA",
+    "published": "2026-10-02",
+    "first_seen_at": "2026-10-05T01:45:52.495292+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/02/news043.html": {
+    "title": "パナソニック最大の物流拠点／3時間超え会見でニデック新社長は何を語った？",
+    "source": "MONOist_FA",
+    "published": "2026-10-02",
+    "first_seen_at": "2026-10-05T01:45:52.495292+00:00"
   }
 }

@@ -8746,5 +8746,107 @@
     "source": "オートメーション新聞",
     "published": "2026-10-07",
     "first_seen_at": "2026-10-08T02:36:37.827750+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1789711682-093546": {
+    "title": "2026.10.09 目指すは家事のない生活、ロボット付き住宅を発表／MW スタートアップ企業のMW（ムウ、東京都港区、成田修造社長）は、ロボットと建築、人工知能（AI）に関わる技術を融合し、先進的な住宅の開発を目指す。９月10日は「M……",
+    "source": "robot_digest_新着",
+    "published": "2026-10-09",
+    "first_seen_at": "2026-10-09T02:51:40.956494+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1791336868-557746": {
+    "title": "2026.10.09 遠隔溶接ロボットで技能レスと自動化を推進／宝角合金製作所 金属加工を手掛ける宝角合金製作所（兵庫県姫路市、宝角勝利社長）は、今年７月に高丸工業（兵庫県西宮市、高丸正社長）が開発した遠隔溶接ロボットシステム「WELDEM……",
+    "source": "robot_digest_新着",
+    "published": "2026-10-09",
+    "first_seen_at": "2026-10-09T02:51:40.956494+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1791184368-992975": {
+    "title": "2026.10.09 3Dビジョントラッキング機能を追加／ニコン ニコンは９月30日、産業用ロボットの先端に取り付ける「ロボットビジョンシステム」に「3Dビジョントラッキング機能」を追加すると発表した。",
+    "source": "robot_digest_新着",
+    "published": "2026-10-09",
+    "first_seen_at": "2026-10-09T02:51:40.956494+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/09/news052.html": {
+    "title": "AIと強調する「スーパーヒューマン」とは／インバーターの放熱構造を半分に",
+    "source": "MONOist_FA",
+    "published": "2026-10-09",
+    "first_seen_at": "2026-10-09T02:51:40.956494+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/09/news038.html": {
+    "title": "三菱マテリアルとMOLDINOが切削工具の国内販売統合、新会社設立へ",
+    "source": "MONOist_FA",
+    "published": "2026-10-09",
+    "first_seen_at": "2026-10-09T02:51:40.956494+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/09/news037.html": {
+    "title": "製造業の51.3％で「委託先による金型無償保管」が発生 約2割が公取委指導を経験",
+    "source": "MONOist_FA",
+    "published": "2026-10-09",
+    "first_seen_at": "2026-10-09T02:51:40.956494+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/08/news050.html": {
+    "title": "自動車大型部品「手前側」の塗装が簡易に、安川電機が独自「7軸」ロボット",
+    "source": "MONOist_FA",
+    "published": "2026-10-08",
+    "first_seen_at": "2026-10-09T02:51:40.956494+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109537/": {
+    "title": "日揮、栃木県宇都宮市に中外製薬工業向けのバイオ原薬製造棟を完工",
+    "source": "オートメーション新聞",
+    "published": "2026-10-08",
+    "first_seen_at": "2026-10-09T02:51:40.956494+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109690/": {
+    "title": "安川電機、マシンコントローラ「MPX1000シリーズ」にCPUユニット「CPU-14U」追加 最速処理と最大256軸制御対応",
+    "source": "オートメーション新聞",
+    "published": "2026-10-08",
+    "first_seen_at": "2026-10-09T02:51:40.956494+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109663/": {
+    "title": "SMC、M12コネクタ付ACアダプタ「ZS-37-A-X592/X593」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-10-08",
+    "first_seen_at": "2026-10-09T02:51:40.956494+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109674/": {
+    "title": "キーエンス、卓上型全周外観検査器「QDシリーズ」発売 置いて押すだけの簡単操作",
+    "source": "オートメーション新聞",
+    "published": "2026-10-08",
+    "first_seen_at": "2026-10-09T02:51:40.956494+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109670/": {
+    "title": "SMC、コンパクト真空ポンプ「ZXPE5-X3」を発売 エア源不要で24V電源のみで稼働",
+    "source": "オートメーション新聞",
+    "published": "2026-10-08",
+    "first_seen_at": "2026-10-09T02:51:40.956494+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109609/": {
+    "title": "ナブテスコ、26年12月期上期決算、売上高16.8%増の1674億円 全事業増収で大幅増益",
+    "source": "オートメーション新聞",
+    "published": "2026-10-08",
+    "first_seen_at": "2026-10-09T02:51:40.956494+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109707/": {
+    "title": "アドバンテック、産業用エッジコンピュータ「UNO-2484V3」発売 ファンレスで豊富な産業用I/Oを搭載",
+    "source": "オートメーション新聞",
+    "published": "2026-10-08",
+    "first_seen_at": "2026-10-09T02:51:40.956494+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109703/": {
+    "title": "NSK、ボールねじ式油圧発生装置「電動ハイドロブースタ」開発 省エネと高速動作を両立 27年度発売",
+    "source": "オートメーション新聞",
+    "published": "2026-10-08",
+    "first_seen_at": "2026-10-09T02:51:40.956494+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109699/": {
+    "title": "ASPINA、IP65ステッピングモータ「STP-60D1/D5」発売 防塵防水に対応",
+    "source": "オートメーション新聞",
+    "published": "2026-10-08",
+    "first_seen_at": "2026-10-09T02:51:40.956494+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109655/": {
+    "title": "【FAトップインタビュー】新社長に聞く ミスミ、AI全盛の新時代に向けた新戦略「ものづくりをつくり変える会社」への進化と新産業への貢献",
+    "source": "オートメーション新聞",
+    "published": "2026-10-08",
+    "first_seen_at": "2026-10-09T02:51:40.956494+00:00"
   }
 }

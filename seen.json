@@ -8848,5 +8848,89 @@
     "source": "オートメーション新聞",
     "published": "2026-10-08",
     "first_seen_at": "2026-10-09T02:51:40.956494+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1791462997-787641": {
+    "title": "2026.10.12 シリーズ最速の処理性能を備えるCPUユニットを追加／安川電機 安川電機は９月29日、マシンコントローラー「MPX1000シリーズ」の多軸制御仕様コントローラー「MPX1010」に、シリーズ最速の処理性能を持つ中央演算処理装……",
+    "source": "robot_digest_新着",
+    "published": "2026-10-12",
+    "first_seen_at": "2026-10-12T02:11:36.080739+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/10/news004.html": {
+    "title": "世界中でサイバー攻撃が過激に――AI時代におけるサイバー攻撃との向き合い方",
+    "source": "MONOist_FA",
+    "published": "2026-10-10",
+    "first_seen_at": "2026-10-12T02:11:36.080739+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/09/news020.html": {
+    "title": "富士フイルムが広野工場に設備投資、国内初のワンストップADC-CDMO提供へ",
+    "source": "MONOist_FA",
+    "published": "2026-10-09",
+    "first_seen_at": "2026-10-12T02:11:36.080739+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/09/news050.html": {
+    "title": "工作機械のスピンドル設計に高度な解析レポート提供、日本精工が開始",
+    "source": "MONOist_FA",
+    "published": "2026-10-09",
+    "first_seen_at": "2026-10-12T02:11:36.080739+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109533/": {
+    "title": "雪印メグミルクベトナム、ベトナムにプロセスチーズの新製造工場を建設し稼働開始",
+    "source": "オートメーション新聞",
+    "published": "2026-10-11",
+    "first_seen_at": "2026-10-12T02:11:36.080739+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109498/": {
+    "title": "タワーセミコンダクター、富山県魚津市と新潟県妙高市で半導体製造能力拡充に向け総額6000億円超の投資計画",
+    "source": "オートメーション新聞",
+    "published": "2026-10-11",
+    "first_seen_at": "2026-10-12T02:11:36.080739+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109528/": {
+    "title": "ニッパツ、タイ・チャチェンサオ県にHDD用サスペンションの新生産棟を建設",
+    "source": "オートメーション新聞",
+    "published": "2026-10-11",
+    "first_seen_at": "2026-10-12T02:11:36.080739+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109572/": {
+    "title": "三菱電機、「統合報告書2026」を公開",
+    "source": "オートメーション新聞",
+    "published": "2026-10-11",
+    "first_seen_at": "2026-10-12T02:11:36.080739+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109524/": {
+    "title": "いなばペットフード、タイにウエットフード製造のタイ第5工場を建設",
+    "source": "オートメーション新聞",
+    "published": "2026-10-10",
+    "first_seen_at": "2026-10-12T02:11:36.080739+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109592/": {
+    "title": "日東工業、2027年4月に価格改定 標準制御盤や端子台など",
+    "source": "オートメーション新聞",
+    "published": "2026-10-10",
+    "first_seen_at": "2026-10-12T02:11:36.080739+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109568/": {
+    "title": "アズビル、中部鋼鈑の圧延工場へのバルブ解析診断サービス納入事例を公開",
+    "source": "オートメーション新聞",
+    "published": "2026-10-10",
+    "first_seen_at": "2026-10-12T02:11:36.080739+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109576/": {
+    "title": "横河電機、統合報告書「YOKOGAWAレポート2026」公開",
+    "source": "オートメーション新聞",
+    "published": "2026-10-10",
+    "first_seen_at": "2026-10-12T02:11:36.080739+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109520/": {
+    "title": "河合楽器製作所、インドネシア西ジャワ州に電子ピアノの新製造工場を竣工",
+    "source": "オートメーション新聞",
+    "published": "2026-10-09",
+    "first_seen_at": "2026-10-12T02:11:36.080739+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109678/": {
+    "title": "コンテック、920MHz帯無線通信対応モジュール式リモートI/O発売 有線LANを最大1km無線化",
+    "source": "オートメーション新聞",
+    "published": "2026-10-09",
+    "first_seen_at": "2026-10-12T02:11:36.080739+00:00"
   }
 }

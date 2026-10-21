@@ -9520,5 +9520,107 @@
     "source": "オートメーション新聞",
     "published": "2026-10-19",
     "first_seen_at": "2026-10-20T01:39:08.212451+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1791945566-678237": {
+    "title": "2026.10.21 都内にイノベーションセンター設立、自社技術生かす自動倉庫も開発／伊東電機 伊東電機（兵庫県加西市、伊東徹弥社長）は10月13日、東京都江東区に「東京イノベーションセンター豊洲」を開設した。創業80周年記念事業の一環で開設したもので、同……",
+    "source": "robot_digest_新着",
+    "published": "2026-10-21",
+    "first_seen_at": "2026-10-21T01:24:46.186816+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1792384748-704087": {
+    "title": "2026.10.21 ロボットハンドのコンテストを開催／ＧＭＯインターネットグループ GMOインターネットグループは、５本指などの多指ロボットハンドの手先の器用さを競う「第１回GMOロボットハンドコンテスト」のエントリーを今年10月から受け付けて……",
+    "source": "robot_digest_新着",
+    "published": "2026-10-21",
+    "first_seen_at": "2026-10-21T01:24:46.186816+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/21/news036.html": {
+    "title": "三菱電機が配電事業を分離、ABBに824億円で譲渡しアジア太平洋展開",
+    "source": "MONOist_FA",
+    "published": "2026-10-21",
+    "first_seen_at": "2026-10-21T01:24:46.186816+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/21/news034.html": {
+    "title": "工作機械の不具合対応を生成AIが支援、DMG森精機が新サービス",
+    "source": "MONOist_FA",
+    "published": "2026-10-21",
+    "first_seen_at": "2026-10-21T01:24:46.186816+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/21/news016.html": {
+    "title": "サントリー大阪工場がAIとロボットで挑む「原料ハンドリング自動化」",
+    "source": "MONOist_FA",
+    "published": "2026-10-21",
+    "first_seen_at": "2026-10-21T01:24:46.186816+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/19/news040.html": {
+    "title": "ニコン、解像度1.5μmの半導体後工程向けデジタル露光装置 1.0μmに改造可能",
+    "source": "MONOist_FA",
+    "published": "2026-10-20",
+    "first_seen_at": "2026-10-21T01:24:46.186816+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/20/news059.html": {
+    "title": "AI時代のサイバー攻撃か",
+    "source": "MONOist_FA",
+    "published": "2026-10-20",
+    "first_seen_at": "2026-10-21T01:24:46.186816+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/20/news013.html": {
+    "title": "GCL製ペロブスカイト太陽電池モジュール量産出荷スタート",
+    "source": "MONOist_FA",
+    "published": "2026-10-20",
+    "first_seen_at": "2026-10-21T01:24:46.186816+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/20/news057.html": {
+    "title": "半導体業界におけるインテルの現在地／倉庫向けAI「Fulfillment Flow」発表",
+    "source": "MONOist_FA",
+    "published": "2026-10-20",
+    "first_seen_at": "2026-10-21T01:24:46.186816+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109751/": {
+    "title": "日本GLP、神奈川県相模原市に物流施設「Marq 相模原」建設",
+    "source": "オートメーション新聞",
+    "published": "2026-10-21",
+    "first_seen_at": "2026-10-21T01:24:46.186816+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109755/": {
+    "title": "高砂香料工業、茨城県結城市に新工場",
+    "source": "オートメーション新聞",
+    "published": "2026-10-20",
+    "first_seen_at": "2026-10-21T01:24:46.186816+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109739/": {
+    "title": "ツムラ、茨城県稲敷郡阿見町の茨城工場で漢方製剤の品質管理を担うQC棟を新設",
+    "source": "オートメーション新聞",
+    "published": "2026-10-20",
+    "first_seen_at": "2026-10-21T01:24:46.186816+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109772/": {
+    "title": "日本ゼオン、山口県周南市にエタノールからブタジエンを生成するベンチ設備を竣工",
+    "source": "オートメーション新聞",
+    "published": "2026-10-20",
+    "first_seen_at": "2026-10-21T01:24:46.186816+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109937/": {
+    "title": "シーシーエス、12/2-12/4横浜で画像処理特化のPB展示会「CCS OpenWorld in 横浜 2026」",
+    "source": "オートメーション新聞",
+    "published": "2026-10-20",
+    "first_seen_at": "2026-10-21T01:24:46.186816+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/110054/": {
+    "title": "【オートメーション新聞 No.465】フィジカルAIに関するよくある10の誤解 / オムロン、OnLogic買収 北米事業強化 / 三菱電機と鴻海、自動車機器事業を共同運営 / 新社長インタビュー EPLAN 星野氏/ JIMTOF2026特集（2026年10月21日発行）",
+    "source": "オートメーション新聞",
+    "published": "2026-10-20",
+    "first_seen_at": "2026-10-21T01:24:46.186816+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109930/": {
+    "title": "ICS研究所、10/29-10/30東京・有明でセミナー CRAや新機械規則への適合策",
+    "source": "オートメーション新聞",
+    "published": "2026-10-20",
+    "first_seen_at": "2026-10-21T01:24:46.186816+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109922/": {
+    "title": "福西電機、10/23WEBセミナー「なぜ今Well-Beingなのか？WELL認証から学ぶ職場環境改善」",
+    "source": "オートメーション新聞",
+    "published": "2026-10-20",
+    "first_seen_at": "2026-10-21T01:24:46.186816+00:00"
   }
 }

@@ -10042,5 +10042,89 @@
     "source": "オートメーション新聞",
     "published": "2026-10-26",
     "first_seen_at": "2026-10-27T01:55:23.973406+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1792655234-003954": {
+    "title": "イベント 2026.10.28 米国でロボット活用の量も質も幅も広がる／IMTS2026 米国を中心に北米で設備投資が活況に沸いている。９月14日～19日の６日間、米国イリノイ州シカゴ市のマコーミック・プレースで開かれた「IMTS（米国国際製造技術展……",
+    "source": "robot_digest_新着",
+    "published": "2026-10-28",
+    "first_seen_at": "2026-10-28T02:04:48.038597+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/28/news037.html": {
+    "title": "デジタル空間でAIが自律的に試行を回す AWSの「フィジカルAI自律R＆D基盤」とは",
+    "source": "MONOist_ロボット",
+    "published": "2026-10-28",
+    "first_seen_at": "2026-10-28T02:04:48.038597+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/28/news009.html": {
+    "title": "360度カメラの映像から高精細な3Dモデルを生成、東電PGの建物保全業務に導入",
+    "source": "MONOist_FA",
+    "published": "2026-10-28",
+    "first_seen_at": "2026-10-28T02:04:48.038597+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/28/news017.html": {
+    "title": "JFEスチールがインドの製鉄所で年間の粗鋼生産能力を500万t増",
+    "source": "MONOist_FA",
+    "published": "2026-10-28",
+    "first_seen_at": "2026-10-28T02:04:48.038597+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/28/news008.html": {
+    "title": "ナフサ不足にどう備える？ パワーGXで変わる石油化学の備蓄戦略",
+    "source": "MONOist_FA",
+    "published": "2026-10-28",
+    "first_seen_at": "2026-10-28T02:04:48.038597+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/28/news042.html": {
+    "title": "DMG森精機が描く無人化工場、工具組み立てから切りくず排出まで自動化",
+    "source": "MONOist_FA",
+    "published": "2026-10-28",
+    "first_seen_at": "2026-10-28T02:04:48.038597+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/28/news014.html": {
+    "title": "銅原料の100％リサイクル化を実現した圧延銅箔を発売",
+    "source": "MONOist_FA",
+    "published": "2026-10-28",
+    "first_seen_at": "2026-10-28T02:04:48.038597+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/28/news033.html": {
+    "title": "軸受状態を管理し、加工品質を担保 NTNが自己発電可能なセンサー内蔵軸受を披露",
+    "source": "MONOist_FA",
+    "published": "2026-10-28",
+    "first_seen_at": "2026-10-28T02:04:48.038597+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/27/news051.html": {
+    "title": "雪印メグミルクが手掛けるDXサービス／「JIMTOF2026」開幕、注目展示は？",
+    "source": "MONOist_FA",
+    "published": "2026-10-27",
+    "first_seen_at": "2026-10-28T02:04:48.038597+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109953/": {
+    "title": "ニッパツ、神奈川県伊勢原市と長野県宮田村で半導体プロセス部品の生産能力を増強",
+    "source": "オートメーション新聞",
+    "published": "2026-10-27",
+    "first_seen_at": "2026-10-28T02:04:48.038597+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109971/": {
+    "title": "リンテック、福岡県糸島市に研究施設「半導体ソリューションラボ」を開設",
+    "source": "オートメーション新聞",
+    "published": "2026-10-27",
+    "first_seen_at": "2026-10-28T02:04:48.038597+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109976/": {
+    "title": "古河電気工業、日本と米国、ブラジル、インドで光ファイバとケーブルの生産能力を増強",
+    "source": "オートメーション新聞",
+    "published": "2026-10-27",
+    "first_seen_at": "2026-10-28T02:04:48.038597+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/110003/": {
+    "title": "三菱電機、FA Web ShopでMELSEC iQ-Fシリーズ特設ページを公開",
+    "source": "オートメーション新聞",
+    "published": "2026-10-27",
+    "first_seen_at": "2026-10-28T02:04:48.038597+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/110018/": {
+    "title": "パナソニック デジタル、11/10WEBセミナー 設備稼働率向上と現場改善事例",
+    "source": "オートメーション新聞",
+    "published": "2026-10-27",
+    "first_seen_at": "2026-10-28T02:04:48.038597+00:00"
   }
 }

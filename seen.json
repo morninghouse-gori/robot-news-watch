@@ -10126,5 +10126,89 @@
     "source": "オートメーション新聞",
     "published": "2026-10-27",
     "first_seen_at": "2026-10-28T02:04:48.038597+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1792577046-100915": {
+    "title": "連載 2026.10.29 [SIerを訪ねてvol.70]シミュレーションと経験で生産効率が高いシステムを／ROBO…… ロボットシステムの構築を担うシステムインテグレーター（SIer、エスアイアー）を紹介する連載企画「SIerを訪ねて」。今回はロボットの販売からシステムの構築まで……",
+    "source": "robot_digest_新着",
+    "published": "2026-10-29",
+    "first_seen_at": "2026-10-29T02:14:33.331783+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/29/news018.html": {
+    "title": "「Car-as-a-Robot」という概念が示す自動車とロボットの再定義",
+    "source": "MONOist_ロボット",
+    "published": "2026-10-29",
+    "first_seen_at": "2026-10-29T02:14:33.331783+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/28/news040.html": {
+    "title": "ロボット実機で実践的に学べる、リョーサン菱洋「フィジカルAI入門パッケージ」",
+    "source": "MONOist_ロボット",
+    "published": "2026-10-28",
+    "first_seen_at": "2026-10-29T02:14:33.331783+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/29/news057.html": {
+    "title": "「永守氏の会社」脱却に向けたニデック再生の道／デル・テクノロジーズ新社長",
+    "source": "MONOist_FA",
+    "published": "2026-10-29",
+    "first_seen_at": "2026-10-29T02:14:33.331783+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/29/news029.html": {
+    "title": "リコー、インクジェット技術活用のペロブスカイト太陽電池量産へ",
+    "source": "MONOist_FA",
+    "published": "2026-10-29",
+    "first_seen_at": "2026-10-29T02:14:33.331783+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/29/news049.html": {
+    "title": "ニデック「永守氏の会社」脱却へ 戒田CEOが語った前経営陣への思い、再生の道",
+    "source": "MONOist_FA",
+    "published": "2026-10-29",
+    "first_seen_at": "2026-10-29T02:14:33.331783+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/29/news041.html": {
+    "title": "しゃべるNCとエラーに対処、後で要約も確認 マザックが“声”生かすAI活用",
+    "source": "MONOist_FA",
+    "published": "2026-10-29",
+    "first_seen_at": "2026-10-29T02:14:33.331783+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/28/news083.html": {
+    "title": "ニデックが会見、期限内に監査意見得られず 永守氏ら元役員9人提訴へ",
+    "source": "MONOist_FA",
+    "published": "2026-10-28",
+    "first_seen_at": "2026-10-29T02:14:33.331783+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/28/news053.html": {
+    "title": "コンパクトなままファイバー化 アマダが新型レーザーマシンを世界初公開",
+    "source": "MONOist_FA",
+    "published": "2026-10-28",
+    "first_seen_at": "2026-10-29T02:14:33.331783+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/28/news058.html": {
+    "title": "三菱電機、産業機器上でOTセキュリティを実現する新ソリューション",
+    "source": "MONOist_FA",
+    "published": "2026-10-28",
+    "first_seen_at": "2026-10-29T02:14:33.331783+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/28/news048.html": {
+    "title": "案件別の原価はなぜ実態と合わないのか？／JIMTOFレポート（DMG森精機、NTN）",
+    "source": "MONOist_FA",
+    "published": "2026-10-28",
+    "first_seen_at": "2026-10-29T02:14:33.331783+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/109950/": {
+    "title": "ネツレン、福島県いわき市で鉄筋用製品の製造設備を増強",
+    "source": "オートメーション新聞",
+    "published": "2026-10-28",
+    "first_seen_at": "2026-10-29T02:14:33.331783+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/110010/": {
+    "title": "北陽電機、踏切内の居残り・侵入検知に関する測域センサ導入事例を公開",
+    "source": "オートメーション新聞",
+    "published": "2026-10-28",
+    "first_seen_at": "2026-10-29T02:14:33.331783+00:00"
+  },
+  "https://www.automation-news.jp/2026/10/110007/": {
+    "title": "IDEC、特別顧問の藤田俊弘氏による書籍「『国際標準化』事業創成の極意」発刊",
+    "source": "オートメーション新聞",
+    "published": "2026-10-28",
+    "first_seen_at": "2026-10-29T02:14:33.331783+00:00"
   }
 }

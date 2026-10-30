@@ -10210,5 +10210,47 @@
     "source": "オートメーション新聞",
     "published": "2026-10-28",
     "first_seen_at": "2026-10-29T02:14:33.331783+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1792660202-909482": {
+    "title": "コラム 2026.10.30 編集室だより／2026年10月末 今月もrobot digest（ロボットダイジェスト）をお読みいただきありがとうございました。「編集室だより」では、取材を担当する編集部の記者たちの近況をお届け……",
+    "source": "robot_digest_新着",
+    "published": "2026-10-30",
+    "first_seen_at": "2026-10-30T02:28:33.160890+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/30/news050.html": {
+    "title": "日本のモビリティ産業は「変化」できるのか",
+    "source": "MONOist_ロボット",
+    "published": "2026-10-30",
+    "first_seen_at": "2026-10-30T02:28:33.160890+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/30/news057.html": {
+    "title": "日本のモビリティ産業は変化できるのか／コニカミノルタ、センシング事業の成長戦略",
+    "source": "MONOist_FA",
+    "published": "2026-10-30",
+    "first_seen_at": "2026-10-30T02:28:33.160890+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/30/news047.html": {
+    "title": "ファナックがCNCで挑む安全なフィジカルAI デジタルツイン×人の承認で事故防止",
+    "source": "MONOist_FA",
+    "published": "2026-10-30",
+    "first_seen_at": "2026-10-30T02:28:33.160890+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/30/news046.html": {
+    "title": "3D造形で40％軽量化、ヒューマノイド連携も シーメンスが描く次世代DX",
+    "source": "MONOist_FA",
+    "published": "2026-10-30",
+    "first_seen_at": "2026-10-30T02:28:33.160890+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/30/news052.html": {
+    "title": "コーヒーチェーンの焙煎管理も!? コニカミノルタのセンシング事業の成長戦略",
+    "source": "MONOist_FA",
+    "published": "2026-10-30",
+    "first_seen_at": "2026-10-30T02:28:33.160890+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2610/29/news025.html": {
+    "title": "JX金属、半導体用スパッタリングターゲットのリサイクル設備に投資",
+    "source": "MONOist_FA",
+    "published": "2026-10-29",
+    "first_seen_at": "2026-10-30T02:28:33.160890+00:00"
   }
 }

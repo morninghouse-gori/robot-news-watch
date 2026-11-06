@@ -10438,5 +10438,101 @@
     "source": "オートメーション新聞",
     "published": "2026-11-04",
     "first_seen_at": "2026-11-05T03:20:04.260432+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1792671257-631924": {
+    "title": "イベント 2026.11.06 ロボットアイデア甲子園大阪大会が開催／日本ロボットシステムインテグレータ協会 日本ロボットシステムインテグレータ協会が主催する「2026ロボットアイデア甲子園」の地方大会が、順次開催されている。今年は全国22カ所で地方大会が開催され、約1……",
+    "source": "robot_digest_新着",
+    "published": "2026-11-06",
+    "first_seen_at": "2026-11-06T03:18:03.288191+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1793871971-781832": {
+    "title": "2026.11.05 中国が中国国内でのソフトバンクによるABBのロボティクス事業買収を禁止 スイスに本社を置くABBは11月５日、中国国内でのソフトバンクグループへのロボティクス事業部門の売却に関し、規制当局の承認が得られなかったと発表した。……",
+    "source": "robot_digest_新着",
+    "published": "2026-11-05",
+    "first_seen_at": "2026-11-06T03:18:03.288191+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/06/news006.html": {
+    "title": "TOTOが半導体製造で役立つセラミック次世代品の工場建設、投資額は600億円",
+    "source": "MONOist_FA",
+    "published": "2026-11-06",
+    "first_seen_at": "2026-11-06T03:18:03.288191+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/06/news052.html": {
+    "title": "DMG森精機社長が目指す止まらない工作機械／トヨタは中国市場で反転攻勢なるか",
+    "source": "MONOist_FA",
+    "published": "2026-11-06",
+    "first_seen_at": "2026-11-06T03:18:03.288191+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/06/news043.html": {
+    "title": "DMG森精機社長が目指す「止まらない工作機械」 無人化で残る「人の仕事」とは",
+    "source": "MONOist_FA",
+    "published": "2026-11-06",
+    "first_seen_at": "2026-11-06T03:18:03.288191+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/05/news057.html": {
+    "title": "受注好調のDMG森精機が通期売上高を据え置く理由 増資資金で日米欧に成長投資",
+    "source": "MONOist_FA",
+    "published": "2026-11-05",
+    "first_seen_at": "2026-11-06T03:18:03.288191+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110284/": {
+    "title": "NTTセキュリティジャパンとMSOL、11/11WEBセミナー 工場停止防ぐOTセキュリティ実装",
+    "source": "オートメーション新聞",
+    "published": "2026-11-06",
+    "first_seen_at": "2026-11-06T03:18:03.288191+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110296/": {
+    "title": "CKD、薄さ8mmで質量11gの超小形リニアガイド平行ハンド「LHBシリーズ」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-11-05",
+    "first_seen_at": "2026-11-06T03:18:03.288191+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110308/": {
+    "title": "シーメンス、次世代ドライブ「Sinamics Gシリーズ」発売CRA準拠、SL-C 2統合サイバーセキュリティ機能搭載",
+    "source": "オートメーション新聞",
+    "published": "2026-11-05",
+    "first_seen_at": "2026-11-06T03:18:03.288191+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110316/": {
+    "title": "バルーフ、誘導型近接センサ「BES Entry Line」にケーブル仕様とNPN仕様を追加し発売",
+    "source": "オートメーション新聞",
+    "published": "2026-11-05",
+    "first_seen_at": "2026-11-06T03:18:03.288191+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110328/": {
+    "title": "三菱電機、産業機器向けOTセキュリティ新ソリューション PLC等に監視機能組み込み、セキュリティ対策実装支援",
+    "source": "オートメーション新聞",
+    "published": "2026-11-05",
+    "first_seen_at": "2026-11-06T03:18:03.288191+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110377/": {
+    "title": "ロックウェル・オートメーション 統合コントローラ「CompactLogix 5390コントローラ」制御プラットフォームに安全・セキュリティ機能も統合【安全・セーフティ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-11-05",
+    "first_seen_at": "2026-11-06T03:18:03.288191+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110373/": {
+    "title": "Pilz（ピルツジャパン）IO-Link Safetyマスタ「PDP67」柔軟でシームレス、安全な通信が可能【安全・セーフティ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-11-05",
+    "first_seen_at": "2026-11-06T03:18:03.288191+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110366/": {
+    "title": "Pepperl+Fuchs（ピーアンドエフ）セーフティI/Oモジュール 安全信号とIO-Linkを1台に統合【安全・セーフティ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-11-05",
+    "first_seen_at": "2026-11-06T03:18:03.288191+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110360/": {
+    "title": "TURCK（ターク・ジャパン）セーフティブロック型I/Oモジュール「TBEN-LL-4FDI-4FDX」柔軟な分散型セーフティ制御を実現【安全・セーフティ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-11-05",
+    "first_seen_at": "2026-11-06T03:18:03.288191+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110356/": {
+    "title": "SICK（ジック）高性能セーフティコントローラ「Flexi Net」定置型と移動型アプリケーションに最適【安全・セーフティ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-11-05",
+    "first_seen_at": "2026-11-06T03:18:03.288191+00:00"
   }
 }

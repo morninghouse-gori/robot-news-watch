@@ -10534,5 +10534,101 @@
     "source": "オートメーション新聞",
     "published": "2026-11-05",
     "first_seen_at": "2026-11-06T03:18:03.288191+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1793857600-698980": {
+    "title": "2026.11.09 全社直轄組織「トヨタロボティクス」を設立／トヨタ自動車 トヨタ自動車は11月５日に組織改革を発表し、2027年１月１日付で全社直轄組織「トヨタロボティクス」を設立すると公表した。 ロボットを将来の重要な事業の柱と位置……",
+    "source": "robot_digest_新着",
+    "published": "2026-11-09",
+    "first_seen_at": "2026-11-09T02:30:07.073683+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/06/news057.html": {
+    "title": "設備点検用AIロボットをキヤノン電子で量産へ、新モデルの供給力強化",
+    "source": "MONOist_ロボット",
+    "published": "2026-11-06",
+    "first_seen_at": "2026-11-09T02:30:07.073683+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/09/news043.html": {
+    "title": "東京駅は「先天的安全システム」の代表例／中村留の最新ATC型複合加工機",
+    "source": "MONOist_FA",
+    "published": "2026-11-09",
+    "first_seen_at": "2026-11-09T02:30:07.073683+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/09/news010.html": {
+    "title": "AMを「試作」から「量産」へ、樹脂と金属の技術を持つ2社が連携",
+    "source": "MONOist_FA",
+    "published": "2026-11-09",
+    "first_seen_at": "2026-11-09T02:30:07.073683+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/09/news029.html": {
+    "title": "中村留、新しいATC型複合加工機を披露 コンパクト設計と高精度加工を両立",
+    "source": "MONOist_FA",
+    "published": "2026-11-09",
+    "first_seen_at": "2026-11-09T02:30:07.073683+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/09/news020.html": {
+    "title": "JX金属が半導体材料を50％増産、生成AI需要の拡大を受け",
+    "source": "MONOist_FA",
+    "published": "2026-11-09",
+    "first_seen_at": "2026-11-09T02:30:07.073683+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110238/": {
+    "title": "ソニーセミコンとTSMC、熊本県合志市にイメージセンサーの合弁会社を設立",
+    "source": "オートメーション新聞",
+    "published": "2026-11-08",
+    "first_seen_at": "2026-11-09T02:30:07.073683+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110261/": {
+    "title": "オムロンベンチャーズ、イスラエルのサイバーレジリエンス企業Salvador Technologiesへ出資",
+    "source": "オートメーション新聞",
+    "published": "2026-11-08",
+    "first_seen_at": "2026-11-09T02:30:07.073683+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110257/": {
+    "title": "日東工業、設備図面から分電盤見積情報を抽出する生成AIアプリを開発 日本IBMが支援",
+    "source": "オートメーション新聞",
+    "published": "2026-11-07",
+    "first_seen_at": "2026-11-09T02:30:07.073683+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110312/": {
+    "title": "シュマルツ、走行型ロボット向け小型電気式真空ポンプ「GSP」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-11-06",
+    "first_seen_at": "2026-11-09T02:30:07.073683+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110407/": {
+    "title": "三菱電機「MELSEC iQ-Rシリーズ」安全シーケンサ 欧州機械規則適合のEU型式認証を取得【安全・セーフティ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-11-06",
+    "first_seen_at": "2026-11-09T02:30:07.073683+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110403/": {
+    "title": "安川電機 ACサーボドライブ「Σ-Xシリーズ」ASM-X、機能安全モータ国際安全規格準拠の16種類の安全機能に対応【安全・セーフティ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-11-06",
+    "first_seen_at": "2026-11-09T02:30:07.073683+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110397/": {
+    "title": "フエニックス・コンタクト 選べる回転監視セーフティ 回転監視セーフティリレー「PSRmotionシリーズ」【安全・セーフティ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-11-06",
+    "first_seen_at": "2026-11-09T02:30:07.073683+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110393/": {
+    "title": "パナソニック インダストリー セーフティ漏液センサ「SQ4」センサとコントローラでカテゴリ4、PLe、SIL3達成【安全・セーフティ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-11-06",
+    "first_seen_at": "2026-11-09T02:30:07.073683+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110389/": {
+    "title": "オムロン 機械安全設計支援アプリ「Machine Safety Design Hub MS1」組織全体で高い品質の安全設計を実現【安全・セーフティ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-11-06",
+    "first_seen_at": "2026-11-09T02:30:07.073683+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110385/": {
+    "title": "IDEC セーフティコントローラ「FS3A形」機械の状態監視で安全性と生産性を両立【安全・セーフティ特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-11-06",
+    "first_seen_at": "2026-11-09T02:30:07.073683+00:00"
   }
 }

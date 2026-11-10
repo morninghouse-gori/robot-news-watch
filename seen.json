@@ -10630,5 +10630,119 @@
     "source": "オートメーション新聞",
     "published": "2026-11-06",
     "first_seen_at": "2026-11-09T02:30:07.073683+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1793777279-938573": {
+    "title": "2026.11.10 受注額、生産額は４四半期連続で過去最高値を更新／日本ロボット工業会 日本ロボット工業会（JARA）は10月22日、2026年第３四半期（７～９月期）の会員ベースの産業用ロボットの受注額や生産額を発表した。",
+    "source": "robot_digest_新着",
+    "published": "2026-11-10",
+    "first_seen_at": "2026-11-10T04:31:55.108633+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/10/news031.html": {
+    "title": "川崎重工、ロボット向けコントローラーでセキュリティとセーフティを強化",
+    "source": "MONOist_ロボット",
+    "published": "2026-11-10",
+    "first_seen_at": "2026-11-10T04:31:55.108633+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/10/news045.html": {
+    "title": "騒音制御設計から音のデザインへ／レゾナックとキオクシアが共創",
+    "source": "MONOist_FA",
+    "published": "2026-11-10",
+    "first_seen_at": "2026-11-10T04:31:55.108633+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/10/news040.html": {
+    "title": "Illumioが語るサイバーセキュリティ動向 製造業に必要なCRA／サイバー攻撃対策",
+    "source": "MONOist_FA",
+    "published": "2026-11-10",
+    "first_seen_at": "2026-11-10T04:31:55.108633+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/10/news042.html": {
+    "title": "ホンダがHEV生産強化に向け北米8番目の四輪車工場を新設、投資金額は約30億ドル",
+    "source": "MONOist_FA",
+    "published": "2026-11-10",
+    "first_seen_at": "2026-11-10T04:31:55.108633+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/10/news009.html": {
+    "title": "リケンテクノス、リケンベトナムの年間生産能力を約1.3倍に",
+    "source": "MONOist_FA",
+    "published": "2026-11-10",
+    "first_seen_at": "2026-11-10T04:31:55.108633+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/10/news006.html": {
+    "title": "レゾナックとキオクシアが共創、半導体向け高純度溶剤をリサイクル",
+    "source": "MONOist_FA",
+    "published": "2026-11-10",
+    "first_seen_at": "2026-11-10T04:31:55.108633+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/09/news032.html": {
+    "title": "オムロン初のインド生産拠点が稼働、2028年には生産能力10倍に",
+    "source": "MONOist_FA",
+    "published": "2026-11-09",
+    "first_seen_at": "2026-11-10T04:31:55.108633+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/09/news019.html": {
+    "title": "低品位鉄鉱石から直接還元鉄の試験製造に成功、還元材に水素を100％使用",
+    "source": "MONOist_FA",
+    "published": "2026-11-09",
+    "first_seen_at": "2026-11-10T04:31:55.108633+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110245/": {
+    "title": "日精エー・エス・ビー機械、インドのマハラシュトラ州タネ市で金型製造の設備投資を実施",
+    "source": "オートメーション新聞",
+    "published": "2026-11-10",
+    "first_seen_at": "2026-11-10T04:31:55.108633+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110208/": {
+    "title": "KGK共同技研化学、埼玉県所沢市の本社工場に環境対応型塗工ラインを新設",
+    "source": "オートメーション新聞",
+    "published": "2026-11-09",
+    "first_seen_at": "2026-11-10T04:31:55.108633+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110212/": {
+    "title": "理研ビタミン、東京都板橋区の東京工場内に化成品の新研究開発拠点を建設",
+    "source": "オートメーション新聞",
+    "published": "2026-11-09",
+    "first_seen_at": "2026-11-10T04:31:55.108633+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110219/": {
+    "title": "日本製鉄、愛知県東海市の名古屋製鉄所で新熱延ラインを竣工",
+    "source": "オートメーション新聞",
+    "published": "2026-11-09",
+    "first_seen_at": "2026-11-10T04:31:55.108633+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110253/": {
+    "title": "HMSネットワークス、CRAが製造業に与える影響の解説ページを公開",
+    "source": "オートメーション新聞",
+    "published": "2026-11-09",
+    "first_seen_at": "2026-11-10T04:31:55.108633+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110234/": {
+    "title": "佳秀工業、大分県宇佐市に製缶第二工場を新設",
+    "source": "オートメーション新聞",
+    "published": "2026-11-09",
+    "first_seen_at": "2026-11-10T04:31:55.108633+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110265/": {
+    "title": "アズビル、オーテックと資本業務提携 施工体制強化や新製品・サービス開発へ",
+    "source": "オートメーション新聞",
+    "published": "2026-11-09",
+    "first_seen_at": "2026-11-10T04:31:55.108633+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110227/": {
+    "title": "三菱ケミカル、広島県大竹市で水上設置型太陽光発電設備を導入",
+    "source": "オートメーション新聞",
+    "published": "2026-11-09",
+    "first_seen_at": "2026-11-10T04:31:55.108633+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110231/": {
+    "title": "ひろせプロダクト、島根県安来市に「第3工場」を竣工し本格稼働を開始",
+    "source": "オートメーション新聞",
+    "published": "2026-11-09",
+    "first_seen_at": "2026-11-10T04:31:55.108633+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110292/": {
+    "title": "日置電機、11/19東京・日比谷で 電池・EV・AIと先進計測フォーラム",
+    "source": "オートメーション新聞",
+    "published": "2026-11-09",
+    "first_seen_at": "2026-11-10T04:31:55.108633+00:00"
   }
 }

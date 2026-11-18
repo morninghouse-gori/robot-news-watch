@@ -11218,5 +11218,89 @@
     "source": "オートメーション新聞",
     "published": "2026-11-16",
     "first_seen_at": "2026-11-17T04:59:29.798561+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1794362646-723170": {
+    "title": "2026.11.18 矢崎総業と共創活動を開始、「i-WRIST」を使った外観検査システムを検証／NTN NTNは11月５日、人工知能（AI）やロボティクスを活用した次世代型のものづくりの実現に向け、矢崎総業（東京都港区、矢﨑陸社長）との共創活動を開始すると発表した……",
+    "source": "robot_digest_新着",
+    "published": "2026-11-18",
+    "first_seen_at": "2026-11-18T04:05:29.067585+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1794555690-295065": {
+    "title": "2026.11.18 サイバーセキュリティー対策を強化した産業用ロボット向けコントローラーを発売／川崎重工業 川崎重工業は11月５日、産業用ロボット向けコントローラーの新製品「Ｆシリーズコントローラ S-type（Ｓタイプ）」を発売したと発表した。Ｆシリーズは、小型、軽……",
+    "source": "robot_digest_新着",
+    "published": "2026-11-18",
+    "first_seen_at": "2026-11-18T04:05:29.067585+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/17/news056.html": {
+    "title": "筑波大発のCloserが柏市に新拠点を開設、食品／医薬向けロボットの開発を加速",
+    "source": "MONOist_ロボット",
+    "published": "2026-11-17",
+    "first_seen_at": "2026-11-18T04:05:29.067585+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/18/news029.html": {
+    "title": "ADEKAが米国の半導体材料大手と協業、3D半導体デバイス向け材料の生産加速",
+    "source": "MONOist_FA",
+    "published": "2026-11-18",
+    "first_seen_at": "2026-11-18T04:05:29.067585+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/18/news057.html": {
+    "title": "10月のリコール製品情報まとめ／ホンダ、完成車工場でカーボンニュートラル達成",
+    "source": "MONOist_FA",
+    "published": "2026-11-18",
+    "first_seen_at": "2026-11-18T04:05:29.067585+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/18/news049.html": {
+    "title": "AI制御とAI推定機能を搭載、横河電機が統合生産制御システムの最新版発売へ",
+    "source": "MONOist_FA",
+    "published": "2026-11-18",
+    "first_seen_at": "2026-11-18T04:05:29.067585+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/17/news047.html": {
+    "title": "米ロックウェルが年次イベントを開催、製造業の未来を進める「次の一歩」紹介",
+    "source": "MONOist_FA",
+    "published": "2026-11-17",
+    "first_seen_at": "2026-11-18T04:05:29.067585+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110612/": {
+    "title": "京和、千葉県木更津市のかずさアカデミアパークに造形物製作・研究拠点を立地",
+    "source": "オートメーション新聞",
+    "published": "2026-11-18",
+    "first_seen_at": "2026-11-18T04:05:29.067585+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110601/": {
+    "title": "大川電機製作所、福島県福島市に新工場「大笹生工場」を建設",
+    "source": "オートメーション新聞",
+    "published": "2026-11-17",
+    "first_seen_at": "2026-11-18T04:05:29.067585+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110605/": {
+    "title": "オキサイド、山梨県北杜市の第６工場で光トランシーバ向けファラデー回転子の生産増強",
+    "source": "オートメーション新聞",
+    "published": "2026-11-17",
+    "first_seen_at": "2026-11-18T04:05:29.067585+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110508/": {
+    "title": "日本トムソン、リニアガイドの最小サイズ「LRXD8SL」発売 高剛性と精度、耐食性を兼備",
+    "source": "オートメーション新聞",
+    "published": "2026-11-17",
+    "first_seen_at": "2026-11-18T04:05:29.067585+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110472/": {
+    "title": "FA・製造現場向けの新検定「センサ実務検定」スタート 2027年2月に入門編、3月に実務級の試験実施",
+    "source": "オートメーション新聞",
+    "published": "2026-11-17",
+    "first_seen_at": "2026-11-18T04:05:29.067585+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110810/": {
+    "title": "ヘルツ電子、ポカヨケ用受信機「TW-870Rシリーズ」に作業や通信のログ保存機能を追加",
+    "source": "オートメーション新聞",
+    "published": "2026-11-17",
+    "first_seen_at": "2026-11-18T04:05:29.067585+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110743/": {
+    "title": "愛電、12/4WEBセミナー 装置メーカーの課題とデジタルツイン活用",
+    "source": "オートメーション新聞",
+    "published": "2026-11-17",
+    "first_seen_at": "2026-11-18T04:05:29.067585+00:00"
   }
 }

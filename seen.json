@@ -11302,5 +11302,107 @@
     "source": "オートメーション新聞",
     "published": "2026-11-17",
     "first_seen_at": "2026-11-18T04:05:29.067585+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1794388490-679880": {
+    "title": "2026.11.19 大阪事業所の本格稼働で西日本への導入拡大を狙う／Closer 筑波大学発の人工知能（AI）ロボティクスのスタートアップであるCloser（クローサー、茨城県つくば市、樋口翔太社長）の大阪事業所が今秋、本格的に活動を始めた。……",
+    "source": "robot_digest_新着",
+    "published": "2026-11-19",
+    "first_seen_at": "2026-11-19T04:01:18.971446+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1794978395-959521": {
+    "title": "2026.11.19 ロボット向けAI学習・推論にも最適なワークステーション向けGPUを発売／リョーサン菱洋 リョーサン菱洋（東京都千代田区、稲葉和彦社長）は11月18日、米国NVIDIA（エヌビディア）のワークステーション向け画像処理装置（GPU）「RTX PRO 5……",
+    "source": "robot_digest_新着",
+    "published": "2026-11-19",
+    "first_seen_at": "2026-11-19T04:01:18.971446+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1794976721-235484": {
+    "title": "2026.11.18 ジェンスン・フアンCEOが辞任、暫定的にCFOがCEOを兼任／NVIDIA 米国NVIDIA（エヌビディア）は11月12日、最高経営責任者（CEO）だったジェンスン・フアン氏がCEOと取締役を即時辞任したと発表した。エグゼクティブ・バイ……",
+    "source": "robot_digest_新着",
+    "published": "2026-11-18",
+    "first_seen_at": "2026-11-19T04:01:18.971446+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/19/news021.html": {
+    "title": "ADEKA、茨城県に先端半導体材料の新設備",
+    "source": "MONOist_FA",
+    "published": "2026-11-19",
+    "first_seen_at": "2026-11-19T04:01:18.971446+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/19/news046.html": {
+    "title": "コマツ油機開発のナレッジ基盤に生成AI／ロックウェルの次世代製造業向けAI戦略",
+    "source": "MONOist_FA",
+    "published": "2026-11-19",
+    "first_seen_at": "2026-11-19T04:01:18.971446+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/19/news045.html": {
+    "title": "「e-F@ctory」から次の進化へ、三菱電機が描くAI主体の自律型工場",
+    "source": "MONOist_FA",
+    "published": "2026-11-19",
+    "first_seen_at": "2026-11-19T04:01:18.971446+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/19/news026.html": {
+    "title": "米ロックウェルが構想する人間中心の「自律化」、次世代製造業を導くAI戦略",
+    "source": "MONOist_FA",
+    "published": "2026-11-19",
+    "first_seen_at": "2026-11-19T04:01:18.971446+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/18/news062.html": {
+    "title": "広角と拡大の同時撮影で検査自動化支援、ニコンが新ビジョンカメラ",
+    "source": "MONOist_FA",
+    "published": "2026-11-18",
+    "first_seen_at": "2026-11-19T04:01:18.971446+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110886/": {
+    "title": "第12回ロボット大賞 2026年度受賞製品が決定実用性と社会実装が評価ポイントに多分野に広がるロボット自動化",
+    "source": "オートメーション新聞",
+    "published": "2026-11-19",
+    "first_seen_at": "2026-11-19T04:01:18.971446+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110867/": {
+    "title": "第一実業、27年3月期上期決算、売上高15.2%減の910億円 大型案件の反動で減収減益",
+    "source": "オートメーション新聞",
+    "published": "2026-11-19",
+    "first_seen_at": "2026-11-19T04:01:18.971446+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110781/": {
+    "title": "FCLコンポーネント、AIサーバー電源ユニット向けパワーリレー「FTR-L1シリーズ」発売",
+    "source": "オートメーション新聞",
+    "published": "2026-11-18",
+    "first_seen_at": "2026-11-19T04:01:18.971446+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110806/": {
+    "title": "FESTO、食品や医薬品業界向けに衛生設計の電動駆動ソリューションを発売シリンダとサーボモータ、ケーブルを統合",
+    "source": "オートメーション新聞",
+    "published": "2026-11-18",
+    "first_seen_at": "2026-11-19T04:01:18.971446+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110731/": {
+    "title": "OJTソリューションズ、11/20WEBセミナー 重大災害を防ぐトヨタ式「STOP6」解説",
+    "source": "オートメーション新聞",
+    "published": "2026-11-18",
+    "first_seen_at": "2026-11-19T04:01:18.971446+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110881/": {
+    "title": "ハノーバーメッセ2028、日本がパートナー国に日本の技術を世界に売り込む大きなチャンス",
+    "source": "オートメーション新聞",
+    "published": "2026-11-18",
+    "first_seen_at": "2026-11-19T04:01:18.971446+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110877/": {
+    "title": "フエニックス・コンタクト、ギネス世界記録を樹立 端子台500個を2分20秒62の世界最短記録で接続 Push-Xによる配線作業の効率化を証明",
+    "source": "オートメーション新聞",
+    "published": "2026-11-18",
+    "first_seen_at": "2026-11-19T04:01:18.971446+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110873/": {
+    "title": "アドバンテック、新CEOにミラー・チャン氏 エッジAI戦略を加速 2027年1月から",
+    "source": "オートメーション新聞",
+    "published": "2026-11-18",
+    "first_seen_at": "2026-11-19T04:01:18.971446+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110870/": {
+    "title": "ハノーバーメッセ2028のパートナー国に日本が決定 この絶好のチャンスを活かせ",
+    "source": "オートメーション新聞",
+    "published": "2026-11-18",
+    "first_seen_at": "2026-11-19T04:01:18.971446+00:00"
   }
 }

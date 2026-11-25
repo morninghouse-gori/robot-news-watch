@@ -11668,5 +11668,95 @@
     "source": "オートメーション新聞",
     "published": "2026-11-23",
     "first_seen_at": "2026-11-24T06:51:35.622228+00:00"
+  },
+  "https://www.robot-digest.com/newarticle/?id=1794298454-739115": {
+    "title": "2026.11.25 [注目製品PickUp! vol.102]AGVの安定稼働を塗料で支える／IES「スーパー…… 空調や塗装といった工事・メンテナンス事業などを手掛けるIES（京都市下京区、中坊剛社長）は、物流倉庫や工場向けに塗料「スーパーボーロ」を企画、開発する。本コーナ……",
+    "source": "robot_digest_新着",
+    "published": "2026-11-25",
+    "first_seen_at": "2026-11-25T05:18:20.682439+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/25/news051.html": {
+    "title": "現役組み込み技術者による「GitHub Copilot」活用法／続・マツダの新物流拠点",
+    "source": "MONOist_FA",
+    "published": "2026-11-25",
+    "first_seen_at": "2026-11-25T05:18:20.682439+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/25/news010.html": {
+    "title": "半導体後工程の基礎工事「ダイボンディング」 超精密実装の仕組みと重要性",
+    "source": "MONOist_FA",
+    "published": "2026-11-25",
+    "first_seen_at": "2026-11-25T05:18:20.682439+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/25/news039.html": {
+    "title": "マツダが新KDセンターを公開、MujinのAGVとダイフク自動倉庫で処理能力5倍へ",
+    "source": "MONOist_FA",
+    "published": "2026-11-25",
+    "first_seen_at": "2026-11-25T05:18:20.682439+00:00"
+  },
+  "https://monoist.itmedia.co.jp/mn/articles/2611/25/news038.html": {
+    "title": "消費電力10W以下でVLMやロボット制御を完結、SiMa.aiがエッジAIデモ披露",
+    "source": "MONOist_FA",
+    "published": "2026-11-25",
+    "first_seen_at": "2026-11-25T05:18:20.682439+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110719/": {
+    "title": "クボタ、インド・ウッタルプラデッシュ州エイダ工業団地にトラクタなどの新工場",
+    "source": "オートメーション新聞",
+    "published": "2026-11-25",
+    "first_seen_at": "2026-11-25T05:18:20.682439+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110706/": {
+    "title": "リンテック、福岡県糸島市に新たな研究拠点「半導体ソリューションラボ」を開設",
+    "source": "オートメーション新聞",
+    "published": "2026-11-25",
+    "first_seen_at": "2026-11-25T05:18:20.682439+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110677/": {
+    "title": "極東開発工業、愛知県豊田市に研究開発の新たな中核拠点「極東開発グループ テクニカルセンター」",
+    "source": "オートメーション新聞",
+    "published": "2026-11-24",
+    "first_seen_at": "2026-11-25T05:18:20.682439+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110674/": {
+    "title": "キオクシアとサンディスク、三重県四日市市と岩手県北上市の工場で約5兆円の投資計画",
+    "source": "オートメーション新聞",
+    "published": "2026-11-24",
+    "first_seen_at": "2026-11-25T05:18:20.682439+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110695/": {
+    "title": "住友重機械工業、愛媛県新居浜市に新居浜ガス化パイロット試験設備を設置",
+    "source": "オートメーション新聞",
+    "published": "2026-11-24",
+    "first_seen_at": "2026-11-25T05:18:20.682439+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110826/": {
+    "title": "東芝、現場の設備音や作業者発話を高精度認識する2つのAI技術を開発",
+    "source": "オートメーション新聞",
+    "published": "2026-11-24",
+    "first_seen_at": "2026-11-25T05:18:20.682439+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110699/": {
+    "title": "菅公学生服、鳥取県米子市でブレザー需要に対応するスマートファクトリー「米子新工場」竣工",
+    "source": "オートメーション新聞",
+    "published": "2026-11-24",
+    "first_seen_at": "2026-11-25T05:18:20.682439+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110739/": {
+    "title": "フエニックス・コンタクト、12/1WEBセミナー 欧州法規制とOTセキュリティ対策",
+    "source": "オートメーション新聞",
+    "published": "2026-11-24",
+    "first_seen_at": "2026-11-25T05:18:20.682439+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/110777/": {
+    "title": "中村電機製作所 耐圧防爆形ゲートウェイ「NGATE-1」防爆エリア（Zone1、Zone2）で使用可能【防爆特集】",
+    "source": "オートメーション新聞",
+    "published": "2026-11-24",
+    "first_seen_at": "2026-11-25T05:18:20.682439+00:00"
+  },
+  "https://www.automation-news.jp/2026/11/111248/": {
+    "title": "【オートメーション新聞 最新号No.469】三菱電機 FA事業の新たなソリューションブランド「Serendie Automation」 e-F@ctoryを進化 / 東芝 26年度上期決算 売上高1兆9620億円 / 横河電機 統合生産制御システム「CENTUM R7.02」発売（2026年11月25日発行）",
+    "source": "オートメーション新聞",
+    "published": "2026-11-24",
+    "first_seen_at": "2026-11-25T05:18:20.682439+00:00"
   }
 }
